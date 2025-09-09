@@ -1,6 +1,6 @@
 ```md
 ---
-title: "The Midnight Rose"
+title: "S2 - Negotiations"
 publish: false
 ---
 ```
