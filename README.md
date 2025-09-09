@@ -1,15 +1,10 @@
 
-[[1-World of Naia|World of Naia]]
+[[1-Atlas|Atlas]]
 
 [[2-Ships|Ships]]
 
-[[3-People]]
+[[3-People|People]]
 
-[[4-Monsters]]
+[[4-Monsters|Monsters]]
 
-[[5-Campaign]]
-
-[[3-People|]]
-
-
-
+[[5-Campaign|Campaign]]
