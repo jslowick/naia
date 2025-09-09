@@ -1,6 +1,6 @@
 ```md
 ---
-title: "Draft Post"
+title: "The Midnight Rose"
 publish: false
 ---
 ```
