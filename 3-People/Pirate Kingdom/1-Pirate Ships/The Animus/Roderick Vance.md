@@ -1,0 +1,1 @@
+Old Captain of the Animus, killed on Reyka
