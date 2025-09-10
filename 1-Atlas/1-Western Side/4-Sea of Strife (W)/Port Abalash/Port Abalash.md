@@ -1,0 +1,1 @@
+Pirate leaning neutral Island-state.  One of two main shipmaking island-states, Where [[sentient figureheads]] awaken from and one of two places where they have mastered  a secret technique to enhance the Hull to be able to cross the [[Oshanan Trench]].
