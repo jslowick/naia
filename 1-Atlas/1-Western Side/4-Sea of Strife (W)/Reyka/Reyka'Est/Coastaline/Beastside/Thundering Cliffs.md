@@ -1,1 +1,1 @@
-South of the [[Howling Riptide]], many small storms and squalls are created or crash into the cliffs, hence the name.  Ships beware of the electrical energy in the air, and many lightning strikes.
+South of the [[Howling Riptide]], many small storms and squalls are created or crash into the cliffs on [[Reyka'Est]] here, hence the name.  Ships beware of the electrical energy in the air, and many lightning strikes.
