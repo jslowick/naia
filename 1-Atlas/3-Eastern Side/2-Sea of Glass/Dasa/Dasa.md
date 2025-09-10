@@ -1,0 +1,1 @@
+Pirate and smuggler leaning neutral island-state.  Used to be under [[Ostean Trade Consortium|OTC]] control, but won their independence some how, and pirates often use it as a safe place east of the [[Oshanan Trench]].  Known for being dirty, scummy, and gamblers den.
