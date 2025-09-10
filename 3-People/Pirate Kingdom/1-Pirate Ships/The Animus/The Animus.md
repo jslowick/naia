@@ -8,9 +8,9 @@ Current Crew
 [[Bear]]
 [[Pommol]]
 [[Primrose]]
-
+[[Wormeye]] - Strung up as the ships Figurehead.
 [[Jean-Pierre]] and [[Calamity Jack]] plan to join in [[S2 - Negotiations]]
 
 
 Dead/MIA
-[[Roderick Vance]]
+[[Roderick Vance (Dead)]]
