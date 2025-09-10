@@ -1,0 +1,1 @@
+Killed Dishonorably in a Duel, causing great problems for [[HMS Consequence]] and her captain, [[Admiral Jonathan Marbury]].
