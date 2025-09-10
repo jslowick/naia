@@ -1,0 +1,1 @@
+Roughly the Triangle of the OTC Trade route, connecting The Coral Isles (Lanshire) to The Primitive Isles (Ereth’Yu) to the Windspeaker Isles.
