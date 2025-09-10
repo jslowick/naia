@@ -1,0 +1,1 @@
+Aethys are discovered at birth, and are spiritual leaders of the Windspeakers, sometimes rising to [[The Archon]].  While Kyrill is a young teen, 13, he has been betrothed to [[Princess Sonya Tiverton]].
