@@ -1,1 +1,0 @@
-Played by Tony Dorokhin
