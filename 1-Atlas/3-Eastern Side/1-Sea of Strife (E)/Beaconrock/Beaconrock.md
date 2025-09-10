@@ -1,0 +1,1 @@
+Last Island before the [[Oshanan Trench|Trench]] on the Southeast side, Glowing.  Past that to the south is the [[Sea of Night]], where the sun doesn’t come out at all, so it acts like a magical lighthouse.
