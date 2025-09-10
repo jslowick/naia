@@ -1,0 +1,1 @@
+The Pirate King, him and his Ship, [[The Azar (Missing)]] went missing, about a month ago. Presumed Dead.
