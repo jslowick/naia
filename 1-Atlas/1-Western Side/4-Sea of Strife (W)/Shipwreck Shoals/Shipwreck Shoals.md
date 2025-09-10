@@ -1,0 +1,1 @@
+In between the main pirate isles and their capital is a small band of shoals, that has wrecked many a warship, and even seasoned travelers.  It is said you must have a magical compass to get through it to [[Ashander’s Folly]].
