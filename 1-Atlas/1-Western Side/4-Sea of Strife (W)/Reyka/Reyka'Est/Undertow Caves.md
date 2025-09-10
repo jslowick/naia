@@ -1,1 +1,1 @@
-The northern part of the island is rocky, and has many caves, some of which lead to water, or completely fill up with water on higher tides, and can be very dangerous to explore.
+The northern part of [[Reyka'Est]] is rocky, and has many caves, some of which lead to water, or completely fill up with water on higher tides, and can be very dangerous to explore.
