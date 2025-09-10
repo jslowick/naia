@@ -1,1 +1,0 @@
-![[GusGus.jpg]]
