@@ -1,0 +1,1 @@
+Powerful and Intelligent [[Deepspawn]], these creatures are incredibly intelligent, and have been known to complex tasks, like sneaking into the Hold of a ship to sink it.  Aboleths are said to be controlled by [[Deep Ones]], and their alien motives are unknown.
