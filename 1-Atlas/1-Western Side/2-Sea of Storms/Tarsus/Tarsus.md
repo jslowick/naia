@@ -1,0 +1,1 @@
+Neutral Anti-pirate Island-state.  Said to once be under Pirate control, cruelly, until a Storm took the [[Ancient Mariner]] and the people were able to free themselves from his tyranny. 
