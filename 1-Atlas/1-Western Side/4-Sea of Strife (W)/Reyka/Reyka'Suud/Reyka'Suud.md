@@ -1,0 +1,1 @@
+A rumored fourth island used to exist to the south, but it is no longer there.
