@@ -1,0 +1,1 @@
+Deep section of ocean runs north to south, splitting the World of Naia in half.  The waters are acidic and require a ship have a special coating to even attempt a crosss.  Like Bermuda triangle, many ships have been lost traversing this, but the work of [[Lanshire]] needs labor from the other side.
