@@ -1,0 +1,1 @@
+Northern most corner of the Sea of strife has allied with the OTC.  Mysterious and wealthy Island-state, has been buying resources from many of the other stronger states, particularly [[Lanshire]].  Their islands span both sides of the [[2-Oshanan Trench|Trench]].
