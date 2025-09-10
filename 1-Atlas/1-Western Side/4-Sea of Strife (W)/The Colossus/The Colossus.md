@@ -1,0 +1,1 @@
+Ruins of a massive statue here, last Island before the Trench on the Southwest Side.  All that’s left is most of one leg, and the other foot.  No one really lives there, and some say its haunted, but its used as warning of the [[Oshanan Trench|Trench]].  Interestingly, the statue only has 4 toes on each foot.
