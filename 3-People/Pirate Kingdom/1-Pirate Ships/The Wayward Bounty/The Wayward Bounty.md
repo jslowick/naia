@@ -4,7 +4,7 @@ Has a Shallow Draft
 
 Currently has High Crew Morale
 
-Has a Secret Cargo Hold, that currently is being used by [[Princess Sonya Tiverton|Sonya]]
+Has a Secret Cargo Hold, that currently is being used by [[Princess Sonya Tiverton]]
 
 Crew
 - [[Locke Cordwainer]] (Boatswain, Captain)
@@ -24,12 +24,12 @@ Crew
 - [[Isaac 'The Immortal']] – Survived multiple days in a Gibbet
 - [[Jasper 'The Kid' Ravenhart]], deckhand from the [[HMS Aurora (Missing)|Aurora]], Ward of [[Princess Sonya Tiverton|Sonya]]
 - [[Salt]] old lighthouse pirate from Firebeards crew
-- [[Princess Sonya Tiverton]] - Guest/Hostage
+- [[Princess Sonya Tiverton]]- Guest/Hostage
 	- [[Buttercup]]
 
 Dead/MIA
-- Dursten Twins, Last seen on [
-- Wallace “Wally” Bancroft, Ship’s Helmsmyn (got pushed overboard)
+- Dursten Twins, Last seen on [[HMS Aurora (Missing)]]]
+- [[Wallace 'Wally' Bancroft]] Ship’s Helmsmyn (got pushed overboard)
 - [[Victor 'The Mad' Maddington]] - Marooned on The Well
 - Servio Salazar – Ship’s Cannoneer: Killed by the Cook(Ryan)
 - “Doc” Smithers, Ship’s Doctor:  Killed on the Crystal Isles Raid
