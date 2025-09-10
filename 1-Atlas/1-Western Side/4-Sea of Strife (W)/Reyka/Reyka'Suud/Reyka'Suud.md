@@ -1,1 +1,1 @@
-A rumored fourth island used to exist to the south, but it is no longer there.
+A rumored fourth [[Reyka]] island used to exist to the south of [[Reyka'Maye]], but it is no longer there.
