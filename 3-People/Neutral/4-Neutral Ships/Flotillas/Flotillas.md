@@ -1,0 +1,1 @@
+Not true islands, but built of rafts, old ships and anything they can get to float, Floatillas move around the currents, and often trade with Pirates and OTC alike, though many have a leaning one way or another.  Various and hard to keep track of.
