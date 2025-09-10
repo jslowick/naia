@@ -1,0 +1,1 @@
+The northern side of [[Shipwreck Cove]] is perpetually covered in mist. Which goes up to [[Spinetooth Beach]].  This mist feels like the mist in the [[1-Sea of Mists]], and is avoided.
