@@ -1,1 +1,1 @@
-Farthest east Isle of the known world.  Neutral, and very sparsely populated.  Every couple of years some ship makes a trek eastward from there, looking for riches and glory.  None have known to have returned.
+Farthest east Isle of the known world in the [[3-Endless Sea]].  Neutral, and very sparsely populated.  Every couple of years some ship makes a trek eastward from there, looking for riches and glory.  None have known to have returned.
