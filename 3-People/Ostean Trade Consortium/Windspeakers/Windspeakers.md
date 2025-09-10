@@ -1,0 +1,1 @@
+Spiritual and secretive members of one half of the [[Ostean Trade Consortium]].  Recently they have been buying raw materials from [[Lanshire]] and many other Neutral Island-states.
