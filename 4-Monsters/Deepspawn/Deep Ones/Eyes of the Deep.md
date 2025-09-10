@@ -1,0 +1,1 @@
+While its difficult to really classify [[Deep Ones]], one type that have been observed have large and many Eyes, and are said to be able to beguile you.
