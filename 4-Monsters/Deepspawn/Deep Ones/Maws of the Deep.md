@@ -1,0 +1,1 @@
+While its difficult to really classify [[Deep Ones]], one type that have been observed have large and many Teeth, and are said to feed off of Sunken Wrecks.
