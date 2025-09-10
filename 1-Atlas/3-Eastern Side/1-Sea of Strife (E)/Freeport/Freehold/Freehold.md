@@ -1,1 +1,1 @@
-Inside a large cave on the main island of Freeport is the largest and most prosperous Neutral City, Freehold.  Same rules as the rest of Freeport apply, as long as you don’t break the peace.
+Inside a large cave on the main island of [[Freeport]] is the largest and most prosperous Neutral City, Freehold.  Same rules as the rest of Freeport apply, as long as you don’t break the peace.
