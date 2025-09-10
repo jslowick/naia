@@ -1,0 +1,1 @@
+The mythical “True Land” is said to be somewhere past this strait, which is said to be in the Sea of Storms.  Where it is, where it goes and such are all debated, but most believe it to be a tall tale.
