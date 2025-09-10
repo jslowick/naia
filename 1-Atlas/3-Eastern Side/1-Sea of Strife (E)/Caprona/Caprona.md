@@ -1,0 +1,1 @@
+OTC leaning Neutral Island State, shipmaker that [[Dreadnaughts]] are built at and one of two places where they have mastered a secret technique to enhance the Hull to be able to cross the [[Oshanan Trench]].
