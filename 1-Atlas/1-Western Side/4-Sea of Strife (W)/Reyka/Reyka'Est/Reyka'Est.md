@@ -1,0 +1,1 @@
+The [[Reyka]] Isle closest to [[The Beast]], said to be haunted.  Site of a major accident where [[Winslow Firebeard|Firebeard]] lost a lot of his crew.  The Riptides and dangerous currents cause many a shipwreck here.
