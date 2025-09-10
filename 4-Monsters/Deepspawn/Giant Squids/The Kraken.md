@@ -1,0 +1,1 @@
+There's rumors and stories of a [[Deepspawn]] so large and powerful, it hardly can even be related to a [[Giant Squids]].  This creature is said to reside in the [[3-Sea of Monsters]] and can pull entire ships down under the water.
