@@ -1,1 +1,1 @@
-OTC leaning Neutral Island State in the eastern [[1-Sea of Strife (E)]], home of famous Drydock that [[Dreadnaughts]] are built at and one of two places where they have mastered a secret technique to enhance the Hull to be able to cross the [[Oshanan Trench]].
+OTC leaning Neutral Island State in the eastern [[1-Sea of Strife (E)]], home of famous Drydock that [[Dreadnaught]] are built at and one of two places where they have mastered a secret technique to enhance the Hull to be able to cross the [[2-Oshanan Trench]].
