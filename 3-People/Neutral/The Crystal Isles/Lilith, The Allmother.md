@@ -1,0 +1,1 @@
+Said to be the most powerful witch alive, since [[Ophelia]]’s burning.  In charge of [[The Emerald Citadel]].  Reclusive and stays away from [[Pirate Kingdom|Pirates]] and [[Ostean Trade Consortium|OTC]] alike.
