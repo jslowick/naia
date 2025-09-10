@@ -1,1 +1,1 @@
-Neutral Anti-pirate Island-state located deep in the [[2-Sea of Storms]].  Said to once be under Pirate control, cruelly, until a Storm took the [[Ancient Mariner]] and the people were able to free themselves from his tyranny. 
+Neutral anti-pirate island-state located deep in the [[2-Sea of Storms]].  Said to once be under Pirate control, cruelly, until a Storm took the [[Rime, the Ancient Mariner|Mariner]] and the people were able to free themselves from his tyranny. 
