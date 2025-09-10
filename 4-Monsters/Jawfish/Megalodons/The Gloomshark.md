@@ -1,0 +1,1 @@
+There are tales of a ghostly [[Megalodons|Megalodon]] so large that it can swallow entire ships whole.  Said to live in the [[1-Sea of Mists]], but this has to just be a story, right?
