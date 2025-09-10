@@ -1,0 +1,1 @@
+Larger mountainous island cluster, Where most of the metal of the world is mined
