@@ -1,0 +1,3 @@
+Mostly fish like people that usually stay away from ships and surface dwellers but sometimes are at odds with them.  Cunning and dangerous, they have attacked ships in mass, led ships to wreck, and stolen supplies from islands and ships alike.  They seem to have their own language but it is very difficult to learn or speak, as its done underwater.
+
+If there is Merfolk activity in the surface of an area there are usually signs, such as shell necklaces, runes, etc.  Sailors call this "Mer-sign" and take it as warning to stay away from an area.
