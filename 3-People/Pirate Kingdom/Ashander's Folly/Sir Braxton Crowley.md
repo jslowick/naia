@@ -1,1 +1,1 @@
-Old [[Ostean Trade Consortium|OTC]] turned Pirate in the [[Great War]], was instrumental in giving over information to the [[Pirate Kingdom]]. Father oif, and gave her the name [[Gianna Zarina Celeste Roisin|Gianna]].
+Old [[Ostean Trade Consortium|OTC]] turned Pirate in the [[The Great War]], was instrumental in giving over information to the [[Pirate Kingdom]]. Father of, and gave her the name [[Gianna Zarina Celeste Roisin|Gianna]].
