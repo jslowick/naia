@@ -1,0 +1,1 @@
+A relatively safe cove to take cover from storms and currents in right to the north of where the [[Haunted Cliffs]] get dangerously high.  The tides are exaggerated in the cove, and can lead to a ship being stuck or washed away during exceptionally low or high tides.  Location where [[the Wayward Bounty]] first took refuge to repair.
