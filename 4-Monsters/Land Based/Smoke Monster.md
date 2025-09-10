@@ -1,0 +1,1 @@
+Especially on the [[Smoke Island]], but even other places, Sailors report a living smoke like being, that can form solid enough to attack.  Not much else is known about it.
