@@ -1,0 +1,1 @@
+This cove here may first look inviting, but something isi clearly off about it.  There are no waves, no noises of birds, wind, or anything, and has a frozen in stasis eerie feel to it, that most avoid.
