@@ -1,0 +1,1 @@
+Against [[Sharkfin Bay]], many things wash up on the sands here.  Even some of the beach itself is covered with [[Mistpoint|Mist]], it is a place soothsayers go to find direction, and where wonders can be found just been laying there.  The beach itself is relatively dangerous with shark teeth, spiny rocks, etc lying just below the sands.
