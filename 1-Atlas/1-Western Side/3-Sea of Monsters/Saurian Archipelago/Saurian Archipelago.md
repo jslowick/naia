@@ -1,0 +1,1 @@
+This large archipelago is said to be inhabited by [[Ren'Yu]], [[Anastazi]], and many different types of [[Lizards]].
