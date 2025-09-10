@@ -1,0 +1,1 @@
+There is an island in the Sea of Night that the only access to it is a beach with sand as black as coal.  People avoid this place at all cost.
