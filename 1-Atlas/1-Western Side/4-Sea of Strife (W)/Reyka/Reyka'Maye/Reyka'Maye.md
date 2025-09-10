@@ -1,0 +1,1 @@
+The smallest of the three islands in the center of Sharkfin Bay.  Tall and Mountainous.  Has the most intact ruins, and a temple on it.
