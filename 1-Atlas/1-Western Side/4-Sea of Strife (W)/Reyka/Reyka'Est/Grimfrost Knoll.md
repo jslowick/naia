@@ -1,0 +1,1 @@
+On the southern tip of the [[Reyka'Est|island]] is a knoll that overlooks the cliffs, where many a shipwreck survivor has died by men's hands.  The knoll is chilled with dark energy, and gets unnaturally cold at night.  [[Merrick the Grey|Merrick]] has many gibbets here where he puts those unlucky enough to end up on the island in to die a horrible death.
