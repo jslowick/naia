@@ -1,1 +1,6 @@
-  Upper northwest sea, constantly cloudy and misty, the deeper you go, the Mist gets to the point you can’t see your feet.  The Deep Mist changes people and makes them go mad.  Dark things lurk in the Deep mists as well.
+Upper northwest sea, constantly cloudy and misty, the deeper you go, the Mist gets to the point you can’t see your feet.  The Deep Mist changes people and makes them go mad.  Dark things lurk in the Deep mists as well.
+
+Main Islands
+[[Deephaven]]
+[[Helios Falls]]
+[[Vale of Whispers]]
