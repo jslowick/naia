@@ -1,0 +1,1 @@
+On the Northern edge of the [[4-Sea of Strife (W)]] just to the west of the [[Oshanan Trench|Trench]] are the western half of the Windspeaker Islands.  The other half of [[Windspeaker Islands (E)|them]] are on the eastern side of the [[1-Sea of Strife (E)]].
