@@ -1,0 +1,1 @@
+Home of a strange and primitive tribe called the [[Anastazi]], which are said to be hostile and cannabilistic.  Named for the amount of bones and skuills that can be seen on the beaches from the water.
