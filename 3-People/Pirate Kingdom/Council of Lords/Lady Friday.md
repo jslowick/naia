@@ -1,0 +1,1 @@
+Harsh critic of [[Winslow Firebeard|Firebeard]], Said to be gathering votes to succeed him.  Owns [[Lady Fridays Trifecta|Three Ships]], but doesn't captain any of them.
