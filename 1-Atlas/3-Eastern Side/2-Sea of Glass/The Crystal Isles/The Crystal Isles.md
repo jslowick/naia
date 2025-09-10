@@ -1,0 +1,1 @@
+Where most gems are from.  Neutral.  Crystal Spires jut from the ocean and grow the crystals, the vast majority of which are flawed, but some that are pure are valuable and some even say can contain magic.
