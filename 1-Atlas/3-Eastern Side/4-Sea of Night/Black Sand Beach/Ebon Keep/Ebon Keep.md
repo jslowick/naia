@@ -1,1 +1,1 @@
-A long abandoned castle on [[Black Sand Beach]] towers from the middle of the Island.  Rumored to be the lair of a powerful [[Witches|Witch]] or [[Vampire]] at one point, people swear they’ve seen lights in the Keep recently, but none who have travelled to explore it have returned.
+A long abandoned castle on [[Black Sand Beach]] towers from the middle of the Island.  Rumored to be the lair of a powerful [[Witches|Witch]] or [[Vampires]] at one point, people swear they’ve seen lights in the Keep recently, but none who have travelled to explore it have returned.
