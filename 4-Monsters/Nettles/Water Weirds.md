@@ -1,0 +1,1 @@
+Said by some to be living embodiment of water, or water elementals, these clear jellyfish-like [[Nettles]] are next to invisible in the water and can move and shape it.
