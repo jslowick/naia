@@ -1,0 +1,1 @@
+Strange [[Nettles]] that lays in wait, and somehow kills the wind in the area.  Waits for the ship to run out of supplies, then eats the crew a scavenger.  Rarely seen, but jellied eel/worm like in nature.  Ships often carry a supply of [[Aether]] to attempt to escape one of these.
