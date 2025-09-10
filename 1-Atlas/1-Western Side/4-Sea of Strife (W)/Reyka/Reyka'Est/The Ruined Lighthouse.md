@@ -1,0 +1,1 @@
+When [[Winslow Firebeard|Firebeard]] was using the Reyka Isles during the War, it's said he crafted 4 lighthouses, in the style of the ones on Aramath.  The one on Reyka’Est has been shelled and partially destroyed, revealing an ancient tower and clockwork mechanisms from ancient past the lighthouse was protecting or hiding.
