@@ -1,0 +1,1 @@
+While smaller versions of these [[Grimshells]] can pose a little danger on beaches with Sand traps, these are mostly harvested looking for [[Pearls]].  Larger ones residing deep in the Oceans exist, and other [[Deepspawn]] tend to congregate around them, for unknown reasions.
