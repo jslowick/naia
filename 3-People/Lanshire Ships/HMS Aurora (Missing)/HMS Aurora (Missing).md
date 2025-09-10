@@ -1,0 +1,1 @@
+Whereabouts unknown, possibly sunk, lost in a [[Bad Storm]] being towed across the [[2-Oshanan Trench|Trench]].
