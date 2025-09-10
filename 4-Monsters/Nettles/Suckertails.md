@@ -1,0 +1,1 @@
+Small and not dangerous [[Nettles]] by themselves, they attach to the bottom of ships, and feed off of the wood itself.  They will attract others, and many on a ship will slow it down, and provide a host of problems.
