@@ -1,0 +1,1 @@
+Captain of the Bounty, which became [[The Wayward Bounty]].  Last known to have been Marooned on [[The Well (of Lost Hope)]].
