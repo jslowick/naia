@@ -1,1 +1,1 @@
-Predator of [[Giant Squids]], once they were hunted to extinction in the Sea of Strife, Squids became much more plentiful and attack ships much more often.
+Predator of [[Giant Squids]], once they were hunted to extinction in the [[4-Sea of Strife (W)]].
