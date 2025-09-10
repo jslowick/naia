@@ -1,0 +1,1 @@
+Strange Island bay in the Mists, said to be haunted.  Merely moving a ship into the bay will have the crew start to hear whispers.
