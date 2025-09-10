@@ -1,1 +1,1 @@
-Where the [[Aldani]] come from, used to be fished a lot for lobsters in ancient history, but then the lobsters started to grow bigger and bigger and fight back.  Now its avoided completely.
+Small cove on the northern side of [[Reyka'Est]]. this is where the [[Aldani]] come from, used to be fished a lot for lobsters in ancient history, but then the lobsters started to grow bigger and bigger and fight back.  Now its avoided completely.
