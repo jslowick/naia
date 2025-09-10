@@ -1,0 +1,1 @@
+Large, [[Mistborne]] with some bear blood. Rescued by [[3-People/Player Characters/Gianna Zarina Celeste Roisin|Gianna Zarina Celeste Roisin]] from a Gibbet on [[Grimfrost Knoll]].
