@@ -1,1 +1,0 @@
-Slaver ship that took [[Ren'Yu]] from [[Reyka]] recently.
