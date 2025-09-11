@@ -1,1 +1,0 @@
-Captain of the [[[HMS Iron Titan]].  Draven has no love for [[Soothsayers]] and threw [[Johan Kristoff]] overboard.
