@@ -8,4 +8,4 @@ Main Islands
 - [[Freeport]]
 - [[Lanshire]]
 - [[The Well (of Lost Hope)]]
-- [[Windspeaker Islands (E)]]
+
