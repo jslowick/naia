@@ -12,4 +12,4 @@ Main Islands
 - [[Ashander's Folly]]
 - [[The Colossus]]
 - [[Tiderip]]
-- [[Windspeaker Islands (W)]]
+
