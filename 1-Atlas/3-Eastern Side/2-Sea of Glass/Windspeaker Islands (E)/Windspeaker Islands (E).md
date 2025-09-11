@@ -1,0 +1,1 @@
+On the western edge of the [[2-Sea of Glass]] just to the east of the [[2-Oshanan Trench|Trench]] are the eastern half of the islands of the [[Windspeakers]].  The other half of [[Windspeaker Islands (W)|them]] are on the other side of the trench in the [[1-Sea of Mists]].
