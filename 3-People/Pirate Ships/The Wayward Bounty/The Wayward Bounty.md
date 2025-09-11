@@ -10,7 +10,7 @@ Crew
 - [[Locke Cordwainer]] (Boatswain, Captain)
 - [[Rake, The Rat Prince]] Lookout
 - [[Harlan 'Redpan' Rask]] Cook
-- [[Gianna Zarina Celeste Roisin|Gianna Zarina Celeste Roisin]] Helmsmyn
+- [[3-People/Pirate Kingdom/1-Pirate Ships/The Wayward Bounty/Player Characters/Gianna Zarina Celeste Roisin/Gianna Zarina Celeste Roisin|Gianna Zarina Celeste Roisin]] Helmsmyn
 - [[Johan Kristoff]] Soothsayer
 
 - [[Ol' Fishlegs]] one of the older pirates, slept through the mutiny
