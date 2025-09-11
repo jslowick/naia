@@ -1,0 +1,1 @@
+Dangerous set of caves that [[Winslow Firebeard]] used to store treasure and was doing other things with when an accident killed many of his men, and he decided to stop.  [[Merrick the Grey]] also used them to store treasure, and the crew of [[The Wayward Bounty]] stole a good amount of it, including a [[Portrait of Sonya]] and [[White Peacock Feather Cloak]].
