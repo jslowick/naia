@@ -1,1 +1,0 @@
-Found by [[Harlan 'Redpan' Rask]] in [[The Catacombs]]. Originally belonged to one of [[Gianna Zarina Celeste Roisin|Gianna's]] fathers, [[Clive 'Ridge' Ridgely]].
