@@ -10,7 +10,7 @@ Current Crew
 - [[Primrose]]
 - [[Wormeye]] - Strung up as the ships Figurehead.
 
-[[Jean-Pierre]] and [[Calamity Jack]] plan to join in [[S2 - Negotiations]]
+[[Jean-Pierre]] and [[Calamity Jack]] plan to join in [[S2 - The Way to Aramath]]
 
 Dead/MIA
 - [[Roderick Vance (Dead)]]
