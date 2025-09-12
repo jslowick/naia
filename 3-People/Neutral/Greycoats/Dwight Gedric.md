@@ -1,0 +1,1 @@
+[[Greycoats]] prisoner aboard [[The Wayward Bounty]].
