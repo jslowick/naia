@@ -20,14 +20,14 @@ Crew
 - [[Veronica 'Bellringer']] – Specializes in Brawn
 - [[Jean-Pierre]] – Excellent Scout
 - [[Isaac 'The Immortal']] – Survived multiple days in a Gibbet on [[Grimfrost Knoll]]
-- [[Jasper 'The Kid' Ravenhart]], deckhand from the [[HMS Aurora (Missing)|Aurora]], Ward of [[Princess Sonya Tiverton|Sonya]]
+- [[Jasper 'The Kid' Ravenhart]], deckhand from the [[WSS Aurora (Missing)|Aurora]], Ward of [[Princess Sonya Tiverton|Sonya]]
 - [[Salt]] old [[The Ruined Lighthouse|lighthouse]] pirate from [[Winslow Firebeard|Firebeard's]] crew
 - [[Princess Sonya Tiverton]]- Guest/Hostage
 	- [[Buttercup]]
 
 Dead/MIA
-- Dursten Twins, Last seen on [[HMS Aurora (Missing)]]]
-- [[Wallace 'Wally' Bancroft]] Ship’s Helmsmyn (got pushed overboard)
+- Dursten Twins, Last seen on [[WSS Aurora (Missing)]]]
+- [[Wallace 'Wally' Bancroft (Missing)]] Ship’s Helmsmyn (got pushed overboard)
 - [[Victor 'The Mad' Maddington]] - Marooned on The Well
 - Servio Salazar – Ship’s Cannoneer: Killed by the Cook(Ryan)
 - “Doc” Smithers, Ship’s Doctor:  Killed on the Crystal Isles Raid
