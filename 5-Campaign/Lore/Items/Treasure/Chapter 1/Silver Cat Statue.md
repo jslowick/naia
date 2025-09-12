@@ -1,0 +1,1 @@
+Without the Emerald, worth 30 [[Pieces of Eight]].
