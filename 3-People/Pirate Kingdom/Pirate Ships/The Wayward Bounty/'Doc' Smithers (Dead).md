@@ -1,0 +1,1 @@
+Ship [[Doctor]] for [[The Wayward Bounty]].  Killed in a raid of [[The Crystal Isles]] for [[Onyx Gemstones]] and [[Rubies]] in [[S0 - Prequel]].
