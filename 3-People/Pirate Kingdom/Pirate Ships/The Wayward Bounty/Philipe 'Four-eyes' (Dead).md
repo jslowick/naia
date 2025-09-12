@@ -1,0 +1,1 @@
+Ship [[Lookout]] for [[The Wayward Bounty]].  Killed in [[The Mutiny]] 
