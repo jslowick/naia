@@ -1,1 +1,1 @@
-Slaver ship that took [[Ren'Yu]] from [[Reyka]] recently.
+Slaver ship that took [[Ren'Yu]] from [[Reyka]] recently. Last seen heading north towards [[Tiderip]].
