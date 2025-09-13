@@ -1,4 +1,5 @@
 IRL Date: July 27, 2025
+Part of [[Chapter 1 - Reyka]]
 Previous Session: [[S3 - The Lighthouse]] Next Session: [[S1 - To the Animus]]
 Note:  This session was in person
 
