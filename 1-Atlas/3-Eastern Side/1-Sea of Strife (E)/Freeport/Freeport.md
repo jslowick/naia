@@ -1,1 +1,4 @@
+Member: [[Neutral]]
+Notes: Unsegregated
+
 One of the truly neutral Island States to the west or east of the [[1-Sea of Strife (E)]].  All ships are welcome, Pirate and OTC side by side, provided they keep the Peace and have [[Pieces of Eight]] to spend.
