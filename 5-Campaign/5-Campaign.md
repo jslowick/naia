@@ -9,3 +9,6 @@ Lore
 - [[Ship Roles]]
 
 Rules
+* [[Rules v1.1]]
+* [[Changelog]]
+* [[Unreliable Tables]]
