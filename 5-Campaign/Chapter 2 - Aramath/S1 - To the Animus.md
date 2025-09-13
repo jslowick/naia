@@ -1,4 +1,6 @@
-IRL Date:
+IRL Date: September 6, 2025
+Part of [[Chapter 2 - Aramath]]
+Previous Session: [[S4 - The Rescue]] Next Session: [[S2 - The Way to Aramath]]
 
 [[Locke Cordwainer]] destroyed the two [[Rusty Flintlock]] and upgrades the firing and reloading mechanisms in [[Locke's Wheellock Gun]].
 
