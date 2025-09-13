@@ -25,5 +25,6 @@ The [[Greycoats]] dressed as Ghosts were messing with the tower the day before, 
 Back at the ship, someone used some First Aid on [[Tristan Winters]], but none of the crew fesses up to it.  The [[Makara]] is gone, probably eaten by the [[Aldani]] that [[Harlan 'Redpan' Rask]] angered.  Redpan and Rake gather its eggs, it was just nesting.
 
 Treasure:
-Detailed Schematics of the Gears and whats missing.
-White Peacock, [[Makara]] eggs.
+- Detailed Schematics of the Gears and whats missing.
+- White Peacock
+- [[Makara]] eggs.
