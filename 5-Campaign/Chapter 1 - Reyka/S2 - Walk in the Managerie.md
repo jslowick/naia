@@ -1,4 +1,5 @@
 IRL Date: July 6, 2025
+Part of [[Chapter 1 - Reyka]]
 Previous Session: [[S1 -Any Port in a Storm]] Next Session: [[S3 - The Lighthouse]]
 
 Walking south along [[Reyka'Est]] leads the crew of [[The Wayward Bounty]] into [[The Menagerie Jungle]], a thick and lucious jungle full of strange, and non-native flora and fauna.  [[Rake, The Rat Prince]] finds a Black Sand Iguana and a Lantern Spider, both native to the [[4-Sea of Night]].
