@@ -1,1 +1,4 @@
+Member: [[Neutral]]
+Notes:
+
 Heretical religious Island-state in the [[2-Sea of Storms]].  Storm and Moon worshipping people, said to have forsaken Naia in search of new gods.  Her time is over is a common mantra.
