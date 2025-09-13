@@ -45,3 +45,6 @@ They have two creepy [[Mistborne]] crew, [[Bear]] and [[Pommol]], A Captain ([[F
 The negotiations begin, but quickly breakdown, as the crew of [[The Wayward Bounty]] aren't sure exactly what they want in exchange for the Hostages, which [[Primrose]] seems to want greatly.  [[Fid]] offers up his Violin, the [[Hellstring Dirge]], a powerful artifact in a seaweed encrusted case.  He claims he won it in [[Aramath]], at the [[Dead Man's Hand]], and that the original owner was [[Joel 'Jolly' Roger]] who won it from the Devil himself.
 
 The crew huddles again, deciding that they are interested in [[Salt|Salt's]] [[Familiars|Parrot]], Looking below decks, and the Violin.  [[Harlan 'Redpan' Rask|Redpan]] is interested in [[Wormeye]] or at least the worms, causing disgust from the other crew.  They go for negotiations one more time...
+
+Treasure:
+- None
