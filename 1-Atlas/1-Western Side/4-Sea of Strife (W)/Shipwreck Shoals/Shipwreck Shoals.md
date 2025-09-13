@@ -1,1 +1,0 @@
-On the outer edge of the [[4-Sea of Strife (W)]] in between the many of the main pirate isles and their Capital is a small band of shoals, that has wrecked many a warship, and even seasoned travelers.  It is said you must have a magical compass to get through it to [[Ashander's Folly]].
