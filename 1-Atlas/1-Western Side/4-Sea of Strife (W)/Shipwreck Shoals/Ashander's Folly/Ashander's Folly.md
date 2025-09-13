@@ -1,1 +1,0 @@
-Pirate Capital, Past the [[Shipwreck Shoals]], requires a special compass to get to.
