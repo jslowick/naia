@@ -1,1 +1,0 @@
-Cat owned by [[Princess Sonya Tiverton]].  Recently has gotten her into some trouble with [[Rake, The Rat Prince]], when it was revealed Buttercup ate some of his rats and his white peacock.
