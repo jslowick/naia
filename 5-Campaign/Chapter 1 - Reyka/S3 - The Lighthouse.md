@@ -1,4 +1,5 @@
 IRL Date: July 12, 2025
+Part of [[Chapter 1 - Reyka]]
 Previous Session: [[S2 - Walk in the Managerie]] Next Session: [[S4 - The Rescue]]
 
 
