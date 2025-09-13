@@ -9,7 +9,6 @@ During the fight, [[Johan Kristoff]] sneaks off to deal with the ropes, and take
 
 Eventually they get the ship partially in the water, when the large [[Aldani]] attacks, looking for revenge from getting its children eaten from [[S1 -Any Port in a Storm]].  Rake spends a mana and crashes the ship into the Aldani, knocking its Crusher Claw off, and forcing it to retreat, as they are underway.
 
-
 [[Johan Kristoff]] gets a vision that if the sun rises again before the rescue, [[Isaac 'The Immortal'|Isaac]] will be dead.  They have to make good time and push themselves to get there in time.
 
 Along the trip, they rescue a [[Ren'Yu]], [[Soka Dravanska]], who was tangled in the wreckage of his canoe, and notice [[Ostean Trade Consortium|OTC]] members of [[WSS Nautilus]] at the top of the cliffs, manacling the remaining Ren'Yu.
@@ -30,10 +29,10 @@ They enter [[The Catacombs]] and find some of [[Winslow Firebeard|Firebeard's]] 
 
 The crew decides not to help the [[Ren'Yu]] further, leaving him at his destroyed and looted village on [[Ereth'Rey]].  Their plan is the bury the [[Cargo]] of [[Onyx Gemstones]] because they do not have room for it and the new treasure, then head for [[The Animus]], to try to negotiate them helping do the hostage negotiations at [[Tiderip]] while they themselves are going to [[Aramath]], to deal with [[Lysandra, The White Witch]].
 
-[[The Wayward Bounty]] is [[Cursed]] with Bad Weather and Storms in [[The Catacombs]].
-[[Harlan 'Redpan' Rask]] gains a boon from [[The Catacombs]] for next session.
 
 Treasure:
+- [[The Wayward Bounty]] is [[Cursed]] with Bad Weather and Storms in [[The Catacombs]].
+- [[Harlan 'Redpan' Rask]] gains a boon from [[The Catacombs]] for next session.
 - Crusher Claw from an [[Aldani]], found by the crew in [[Moontide Cove]].
 - [[Portrait of Sonya]] found by [[Harlan 'Redpan' Rask]] in [[The Catacombs]].
 - [[White Peacock Feather Cloak]] found by [[Harlan 'Redpan' Rask]] in [[The Catacombs]].
