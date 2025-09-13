@@ -4,4 +4,6 @@ Main Islands
 - [[Deephaven]]
 - [[Helios Falls]]
 - [[Vale of Whispers]]
+- [[Shipwreck Shoals]]
+- [[Ashander's Folly]]
 - [[Windspeaker Islands (W)]]
