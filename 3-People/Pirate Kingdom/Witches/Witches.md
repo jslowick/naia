@@ -1,7 +1,7 @@
 Only those with [[Witchborne]] blood can truly learn the art of Witchcraft.
 
 Notable Witches
-- [[Lysandra, White Witch]]
+- [[Lysandra, The White Witch]]
 - [[Ophelia]]
 - [[Anastasia Veron]]
 - [[Lilith, The Allmother]]
