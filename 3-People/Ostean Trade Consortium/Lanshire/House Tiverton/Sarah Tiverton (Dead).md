@@ -1,0 +1,1 @@
+Was outed at being a [[Witches]], and by [[Lanshire]] was burned at the stake for it.  Was a scandal and tragedy for [[House Tiverton]].
