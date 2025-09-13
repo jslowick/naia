@@ -13,5 +13,5 @@ Somehow all of this related to three pieces of [[Davy Jones]]' treasure
 - [[Tricorn of the Changeling]]
 - [[The Damascus Blade]]
 
-The crew buries the [[Cargo]] of [[Onyx Gemstones]] on [[Reyka'Maye]] but accepts a group offer that maybe they didnt hide it as well as they'd hoped.
+The crew buries the [[Cargo]] of [[Onyx Gemstones]] on [[Reyka'Maye]] but accepts a group Offer that maybe they didn't hide it as well as they'd hoped.
 
