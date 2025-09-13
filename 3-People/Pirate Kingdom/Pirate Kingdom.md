@@ -3,7 +3,10 @@ and the [[Council of Lords]].
 
 [[Witches]] in the Pirate Kingdom are not outlawed, but aren't trusted either.
 
-While there are many pirate-leaning neutral states, the official pirate controlled Island-states, covered under the Armistice after [[The Great War]] are:
+[[Pirate Ships]]
+
+While there are pirate-leaning neutral states, the official pirate controlled Island-states, covered under the Armistice after [[The Great War]] are:
 - [[Ashander's Folly]]
 - [[Cimmeria]]
 - [[Deephaven]]
+- [[Coralhaven]]
