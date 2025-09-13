@@ -1,1 +1,4 @@
+Member: [[Neutral]]
+Notes: No large Human settlements
+
 Large island chain on the outer edge of the western [[4-Sea of Strife (W)]].  It is inhabited by the non-human [[Ren'Yu]] (Slur: “U’s”) A race of "primitives" that live on large and Jungled Islands.  Seen to be slow witted, with streaks of blue on their skin, pointed or fin like ears,, and semi-functioning gills. [[Corites]], [[Merfolk]], and other [[4-Monsters|sea monsters]] seem to leave them alone, thus they are desired and captured as slaves, brought to [[Lanshire]] to harvest the coral there, which is sold to the [[Windspeaker.
