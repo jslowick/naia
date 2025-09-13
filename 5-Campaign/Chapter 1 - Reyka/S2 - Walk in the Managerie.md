@@ -13,4 +13,4 @@ On the side of the cliffs, the [[Ren'Yu]] are there tending to the bird nests, a
 In the day, when the tremors have calmed some, and its safer, they make there way to the [[The Ruined Lighthouse]]. 
 
 Treasure:
-[[Silver Cat Statue]] with one Emerald Eye, worth 30 [[Pieces of Eight]].
+- [[Silver Cat Statue]] with one Emerald Eye, worth 30 [[Pieces of Eight]].
