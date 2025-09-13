@@ -15,5 +15,5 @@ Fighting the [[Sandskimmers]] and a [[Great Whites|Great White]], they encounter
 [[Isaac 'The Immortal']] did not return from the Lighthouse, so the crew decides to go there next to investigate.
 
 Treasure:
-Ship Upgrade (Flee Speed)
-70 [[Pieces of Eight]] found in [[Coral Cove]].
+- Ship Upgrade (Flee Speed)
+- 70 [[Pieces of Eight]] found in [[Coral Cove]].
