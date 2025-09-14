@@ -5,10 +5,9 @@ Notable Families
 - [[House Varchek]] (OTC/Navy)
 - [[House Windam]] (Coral Mining)
 - [[House Perrinth]] (Guards/Courts)
-- 
+- [[House Crowe]] (Bankers/Tax Collectors)
 ?
 Diplomats/Traders
 Engineers/Builders
-Bankers/Tax collectors
 Farming/Food
 Scholars/Historians
