@@ -5,27 +5,13 @@ Need 9 for a vote, 12 to override a veto/king.
 [[Nikolai von Drakk]]
 [[Victor 'The Mad' Maddington]]
 Chaska Uskagawa, Fury of a Thousand Isles The broken chain
-Hans 'Hangman' Mandrello
+Hans 'Hangman' Mandrello - The Injustice
 
 [[Lady Friday]]
-Hollyn Kraye
+Hollyn Kraye The Doldrums
 Victoria 'The Viper' Voltane - The Valkyrie , the mistcutter 
-Cassandra Saltheart
-Madilyn 'Belladonna' Belle
-Melina 'Melody' Al-Hakam
-Kestrel the Still - The Windcatcher
+Cassandra Saltheart - The Night Stalker
+Madeline 'Belladonna' Belle - The Manticore
+Melina 'Melody' Al-Hakam - the whirling dervish
 
-the night stalker
-mistcutter
-justice nevermore
-The Doldrums
-celestials call
-The rapscallion
-bloodwake
-solace
-the manticore
-kismet
 
-Vaoryn
-the sea turtle
-the whirling dervish
