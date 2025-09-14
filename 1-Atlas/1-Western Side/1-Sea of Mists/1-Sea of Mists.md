@@ -6,4 +6,4 @@ Main Islands
 - [[Vale of Whispers]]
 - [[Shipwreck Shoals]]
 - [[Ashander's Folly]]
-- [[Windspeaker Islands (W)]]
+- [[Western Wind Isles]]
