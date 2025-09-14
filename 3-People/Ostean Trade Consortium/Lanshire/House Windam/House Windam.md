@@ -2,6 +2,6 @@ Powerful Noble family in charge of the Coral Mining Operation of [[Lanshire Reef
 
 Notable Members
 - [[Delilah Windam]]
-- [[Fredrica Windam]]
+- [[Frederica Windam]]
 - [[Lander Windam (Dead)]]
 - [[Zale Windam (Dead)]]
