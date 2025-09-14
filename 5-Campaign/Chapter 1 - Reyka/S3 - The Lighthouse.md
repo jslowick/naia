@@ -1,6 +1,6 @@
 IRL Date: July 12, 2025
 Part of [[Chapter 1 - Reyka]]
-Previous Session: [[S2 - Walk in the Managerie]] Next Session: [[S4 - The Rescue]]
+Previous Session: [[S2 - Walk in the Menagerie]] Next Session: [[S4 - The Rescue]]
 
 The rubble around the [[The Ruined Lighthouse]] are much, much older than the lighthouse itself, and the crew finds remains of statues with 4 fingers and toes.
 
