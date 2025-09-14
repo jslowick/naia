@@ -1,1 +1,4 @@
+Member: [[Ostean Trade Consortium]]
+Notes:  Capital
+
 Mystical Temple and capital of the [[Eastern Wind Isles]] and [[Western Wind Isles]]  Even other [[Ostean Trade Consortium|OTC]] ships are not permitted near it.  Said to be the only Island in the [[2-Oshanan Trench]] itself, but some don’t believe that either.  Home of [[The Archon]], the spiritual and actual leader of the [[3-People/Ostean Trade Consortium/Windspeakers/Windspeakers|Windspeakers]].
