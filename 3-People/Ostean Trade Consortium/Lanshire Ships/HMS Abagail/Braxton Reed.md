@@ -1,1 +1,0 @@
-[[Captain]] of the [[HMS Abagail]].
