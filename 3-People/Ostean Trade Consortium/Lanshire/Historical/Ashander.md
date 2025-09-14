@@ -1,3 +1,0 @@
-Was the Leader of [[Lanshire]] and his burning of [[Ophelia]] at the stake for witchcraft started the [[The Great War]], which was his intention.  He was winning the war until something happened deep in Pirate territory and lost badly in a final battle to [[Winslow Firebeard]].  Firebeard became the Pirate King and named the capital [[Ashander's Folly]] as a reference to his defeat.
-
-Ashander abdicated the throne in disgrace at the end of the War, leaving rise to [[House Tiverton]].  He died shortly afterwards, not ever seeing the rise of the [[Ostean Trade Consortium]].
