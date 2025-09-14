@@ -1,0 +1,1 @@
+[[Chaska 'Fury' Uskagawa]] ([[Captain]])
