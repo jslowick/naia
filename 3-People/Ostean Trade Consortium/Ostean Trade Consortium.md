@@ -8,6 +8,6 @@ Noteable People
 
 Islands
 - [[1-Atlas/3-Eastern Side/1-Sea of Strife (E)/Lanshire/Lanshire|Lanshire]]
-- [[Windspeaker Islands (E)]]
-- [[Windspeaker Islands (W)]]
+- [[Eastern Wind Isles]]
+- [[Western Wind Isles]]
 - [[The Hexwood]]
