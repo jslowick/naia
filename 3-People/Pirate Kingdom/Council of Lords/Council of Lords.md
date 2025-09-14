@@ -1,15 +1,17 @@
 Need 9 for a vote, 12 to override a veto/king.
 
-[[Jonas Blacktide]]
-[[Lord Masque]]
-[[Nikolai von Drakk]]
-[[Victor 'The Mad' Maddington]]
-Chaska Uskagawa, Fury of a Thousand Isles The broken chain
-Hans 'Hangman' Mandrello - The Injustice
+[[Jonas Blacktide]] - [[The Call of the Void]]
+[[Lord Masque]] - [[The Barracuda]]
+[[Nikolai von Drakk]] - [[The Midnight Rose]]
+[[Victor 'The Mad' Maddington]] - [[The Wayward Bounty|The Bounty]]
+[[Chaska 'Fury' Uskagawa]] - [[The Broken Chain]] 
 
-[[Lady Friday]]
+[[Lady Friday]] - [[The Red Darling]], [[The Blue Devil]], [[The Black Dahlia]]
+[[Victoria 'The Viper' Voltane]] - [[The Valkyrie]]
+
+
+Hans 'Hangman' Mandrello - The Injustice
 Hollyn Kraye The Doldrums
-Victoria 'The Viper' Voltane - The Valkyrie , the mistcutter 
 Cassandra Saltheart - The Night Stalker
 Madeline 'Belladonna' Belle - The Manticore
 Melina 'Melody' Al-Hakam - the whirling dervish
