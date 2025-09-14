@@ -5,4 +5,4 @@ Main Islands
 - [[Dasa]]
 - [[Illumia]]
 - [[The Crystal Isles]]
-- [[Windspeaker Islands (E)]]
+- [[Eastern Wind Isles]]
