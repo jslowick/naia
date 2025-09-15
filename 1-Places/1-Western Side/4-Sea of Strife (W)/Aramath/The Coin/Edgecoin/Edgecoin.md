@@ -1,1 +1,1 @@
-#places #aramath #pirate #coin #town #edgecoin
+#places #west #strife  #aramath #pirate #coin #town #edgecoin
