@@ -1,0 +1,35 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAll("ship", "pirate")
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    cardSize: 330
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("ship")
+  - type: cards
+    name: neutral ships
+    filters:
+      and:
+        - file.tags.containsAll("ship", "neutral")
+    cardSize: 320
+  - type: cards
+    name: lanshire ships
+    filters:
+      and:
+        - file.tags.containsAll("ship", "lanshire")
+    cardSize: 390
+  - type: cards
+    name: pirate ships
+    filters:
+      and:
+        - file.tags.containsAll("ship", "pirate")
+    cardSize: 300
