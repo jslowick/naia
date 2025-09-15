@@ -1,1 +1,1 @@
-#places #island #pirate #aramath #key
+#places #island  #neutral #strife #west #aramath #key
