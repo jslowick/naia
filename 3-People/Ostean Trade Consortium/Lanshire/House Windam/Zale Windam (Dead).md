@@ -1,1 +1,2 @@
+#person #otc #lanshire #windam #dead 
 Shortly after [[The Great War]], on a routine patrol of the [[1-Sea of Strife (E)]] the ship [[HMS Minnow (Missing)]], which Zale [[House Windam|Windam]] was captaining disappeared. 
