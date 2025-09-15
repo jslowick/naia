@@ -1,1 +1,3 @@
-Ship of [[Winslow Firebeard]], MIA, presumed sunk.
+#ship #pirate #faction #azar #missing
+
+Ship of [[Winslow Firebeard (Missing)]], MIA, presumed sunk.
