@@ -1,1 +1,2 @@
+#faction#pirate #pirate_lord #witch
 Only non-pirate lords allowed at [[Council of Lords]] meetings.  Soothsayers.  Extremely influential even though even many pirates don’t trust witches.  Wanted Dead badly by [[Ostean Trade Consortium|OTC]], Especially [[Joseph 'Blackjack' Varchek|Blackjack]].
