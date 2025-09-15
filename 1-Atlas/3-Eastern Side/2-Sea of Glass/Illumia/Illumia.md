@@ -1,4 +1,0 @@
-Member: [[Neutral]]
-Notes: [[Ostean Trade Consortium|OTC]]-leaning
-
-Island-state in the [[2-Sea of Glass]].  Said to once be plagued by [[Vampires]], they were supposedly hunted and those that exist in the rest of Naia are said to come from here.  Name was changed after the vampires were driven away.
