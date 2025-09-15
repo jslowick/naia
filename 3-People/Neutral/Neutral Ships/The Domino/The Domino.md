@@ -1,3 +1,4 @@
+#ship #neutral #greycoat 
 Flagship [[4-Frigate]] for the [[Greycoats]]
 
 Crew
