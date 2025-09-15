@@ -1,6 +1,5 @@
-IRL Date: July 27, 2025
-Part of [[Chapter 1 - Reyka]]
-Previous Session: [[S3 - The Lighthouse]] Next Session: [[S1 - To the Animus]]
+IRL Date: July 27, 2025   Part of [[Chapter 1 - Reyka]]<br/>
+Previous Session: [[S3 - The Lighthouse]] Next Session: [[S1 - To the Animus]]<br/>
 Note:  This session was in person
 
 As the crew of [[The Wayward Bounty]] is trying to get the ship back in the water, the [[Greycoats]] pirate hunters attack.  They've brought ropes to try to prevent the ship from ever leaving.  If their reinforcements get here in time, its over.
