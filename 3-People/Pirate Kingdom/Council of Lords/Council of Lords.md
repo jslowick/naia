@@ -12,10 +12,10 @@ Need 9 for a vote, 12 to override a veto/king.
 [[Victoria 'The Viper' Voltane]] - [[The Valkyrie]]
 [[Hollyn Kraye]] [[The Doldrums]]
 [[Melina 'Melody' Al-Hakam]] - [[The Whirling Dervish]]
+[[Cassandra Saltheart]] - [[The Night Stalker]]
 
 
 Hans 'Hangman' Mandrello - The Injustice
-[[Cassandra Saltheart]] - [[The Night Stalker]]
 Madeline 'Belladonna' Belle - The Manticore
 
 
