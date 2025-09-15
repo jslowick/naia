@@ -1,3 +1,4 @@
 
 
-![[0-Basetest.base|bases-no-toolbar|]]
+![[0-Basetest.base]]
+
