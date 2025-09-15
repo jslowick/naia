@@ -1,3 +1,5 @@
+#ship #pirate #faction #wayward_bounty #cursed
+
 After the mutiny on the Bounty, and the rebuilding of the [[Sentient Figureheads|Figurehead]], renamed to the Wayward Bounty, the PC’s Ship
 
 Has a Shallow Draft
@@ -23,7 +25,7 @@ Crew
 - [[Jean-Pierre]] – Excellent Scout
 - [[Isaac 'The Immortal']] – Survived multiple days in a Gibbet on [[Grimfrost Knoll]]
 - [[Jasper 'The Kid' Ravenhart]], deckhand from the [[WSS Aurora (Missing)|Aurora]], Ward of [[Princess Sonya Tiverton|Sonya]]
-- [[Salt]] old [[The Ruined Lighthouse|lighthouse]] pirate from [[Winslow Firebeard|Firebeard's]] crew
+- [[Salt]] old [[The Ruined Lighthouse|lighthouse]] pirate from [[Winslow Firebeard (Missing)|Firebeard's]] crew
 
 Prisoners
 - [[Dwight Gedric]] - [[Greycoats|Greycoat]] prisoner
@@ -35,7 +37,7 @@ Prisoners
 Dead/MIA
 - [[The Dursten Twins (Missing)|Dursten Twins]], Last seen on [[WSS Aurora (Missing)]]]
 - [[Wallace 'Wally' Bancroft (Missing)]] Ship’s Helmsmyn (got pushed overboard)
-- [[Victor 'The Mad' Maddington]] - Marooned on The Well
+- [[Victor 'The Mad' Maddington (Missing)]] - Marooned on The Well
 - [[Servio Salazar (Dead)]] – Ship’s Cannoneer: Killed by the Cook(Ryan)
 - [['Doc' Smithers (Dead)]], Ship’s Doctor:  Killed on the Crystal Isles Raid
 - [[Philipe 'Four-eyes' (Dead)]], Ship’s Lookout: Killed by Locke and Johann
