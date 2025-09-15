@@ -1,0 +1,3 @@
+#places #neutral #renyu #strife #west #reyka #reykamaye #village 
+
+Small [[Ren'Yu]] settlement on the Western side of [[Reyka'Maye]], during higher tide becomes its own small island, but lower tides is connected via a sandbar.
