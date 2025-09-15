@@ -1,4 +1,4 @@
-#factionn #otc #lanshire #ship 
+#faction #otc #lanshire
 
 List
 - [[HMS Abigail]]
