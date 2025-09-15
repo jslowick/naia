@@ -6,4 +6,4 @@ Only accepts woman crew.  Has the Evil Eye, and most people are scared of her.  
 
 She is said to have mapped out a large portion of the [[Deep Mist]] and made her fortune there.
 
-![[Pasted image 20250914134211.png]]
+![[Viper.png]]
