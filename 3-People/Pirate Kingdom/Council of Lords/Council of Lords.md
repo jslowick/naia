@@ -10,12 +10,12 @@ Need 9 for a vote, 12 to override a veto/king.
 
 [[Lady Friday]] - [[The Red Darling]], [[The Blue Devil]], [[The Black Dahlia]]
 [[Victoria 'The Viper' Voltane]] - [[The Valkyrie]]
+[[Hollyn Kraye]] [[The Doldrums]]
+[[Melina 'Melody' Al-Hakam]] - [[The Whirling Dervish]]
 
 
 Hans 'Hangman' Mandrello - The Injustice
-Hollyn Kraye The Doldrums
-Cassandra Saltheart - The Night Stalker
+[[Cassandra Saltheart]] - [[The Night Stalker]]
 Madeline 'Belladonna' Belle - The Manticore
-Melina 'Melody' Al-Hakam - the whirling dervish
 
 
