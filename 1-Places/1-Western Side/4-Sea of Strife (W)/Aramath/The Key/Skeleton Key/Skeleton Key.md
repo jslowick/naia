@@ -1,0 +1,1 @@
+#places #neutral #strife #west #aramath #lock #town #haunted
