@@ -1,1 +1,1 @@
-#places #aramath #lock #feature
+#places #west #strife #aramath #lock #feature
