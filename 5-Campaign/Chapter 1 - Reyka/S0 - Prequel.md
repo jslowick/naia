@@ -1,6 +1,5 @@
-- IRL Date: 
-- Part of [[Chapter 1 - Reyka]]
-- Next Session: [[S1 -Any Port in a Storm]]
+IRL Date: Unknown Part of [[Chapter 1 - Reyka]] <br/>
+Next Session: [[S1 -Any Port in a Storm]]
  
 # Teaser
 It’s been one moon and one day since the [[6-Dreadnaught|Dreadnaught]] [[The Azar (Missing)|Azar]] has been seen or heard from, along with its crew and [[Captain]], the Pirate King, [[Winslow Firebeard (Missing)]].  Per his own [[Pirate Code]], he is considered lost at sea and the Council of 12 need to convene and replace him.  The Uneasy truce of Naia has begun to crumble, if [[Winslow Firebeard (Missing)|Firebeard]] is no longer there will the [[Pirate Code]] fall apart as well?  Some hope for [[Lady Friday]] to finally take power, [[Winslow Firebeard (Missing)|Firebeard’s]] harshest critic on the Council,  Other’s say [[The Witch Sisters]] will replace him, but even the [[Soothsayer]]s are unsure what happens next. Many worry that its a [[3-People/Ostean Trade Consortium/Lanshire/Lanshire]] or [[Windspeakers|Windspeaker]] plot to attempt to rid the Seven Seas of the pirate menace once and for all, to do what [[Ashander Tiverton]] never could.  But all know the seas are more dangerous now, and most common [[Sailor]]s on any side have no wish for a bloody, drawn out war.
