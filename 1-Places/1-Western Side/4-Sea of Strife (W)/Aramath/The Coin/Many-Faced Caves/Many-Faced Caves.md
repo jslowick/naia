@@ -1,1 +1,1 @@
-#places #aramath #coin #feature
+#places #west #strife  #aramath #coin #feature
