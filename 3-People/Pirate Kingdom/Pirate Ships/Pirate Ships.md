@@ -1,4 +1,4 @@
-#ship #faction #pirate 
+#faction #pirate 
 
 List
 - [[The Black Dahlia]]
