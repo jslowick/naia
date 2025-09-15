@@ -1,1 +1,1 @@
-#places #island #pirate #aramath #ox
+#places  #strife #west #island  #neutral #strife #west #aramath #ox
