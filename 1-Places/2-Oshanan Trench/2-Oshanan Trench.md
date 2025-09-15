@@ -1,0 +1,3 @@
+#places #trench #feature #waters
+
+Deep section of ocean runs north to south, splitting the World of Naia in half.  The waters are acidic and require a ship have been made out of [[Ironwood]] from [[The Hexwood]] and have a special coating to even attempt a cross.  Like Bermuda triangle, many ships have been lost traversing this, but the work of [[3-People/Ostean Trade Consortium/Lanshire/Lanshire]] needs labor from the other side.
