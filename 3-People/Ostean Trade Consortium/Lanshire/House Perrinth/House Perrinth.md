@@ -1,4 +1,4 @@
-Powerful noble family in charge of the Royal Guards, City Guards, Courts, Judges, and Laws.
+#faction #otc #lanshire #perrinth Powerful noble family in charge of the Royal Guards, City Guards, Courts, Judges, and Laws.
 
 Notable People:
 - [[Eleanor Perrinth]]
