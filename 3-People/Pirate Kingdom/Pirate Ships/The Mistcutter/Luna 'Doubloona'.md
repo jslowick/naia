@@ -1,3 +1,5 @@
+#person #pirate #captain #mistcutter 
+
 [[Captain]] of [[The Mistcutter]].
 
 Used to be [[Quartermaster]] to [[Sir Braxton Crowley]] before he retired, then [[First Mate]] to [[Victoria 'The Viper' Voltane|The Viper]] before being gifted [[The Mistcutter]].
