@@ -41,3 +41,6 @@ Dead/MIA
 - [[Servio Salazar (Dead)]] – Ship’s Cannoneer: Killed by the Cook(Ryan)
 - [['Doc' Smithers (Dead)]], Ship’s Doctor:  Killed on the Crystal Isles Raid
 - [[Philipe 'Four-eyes' (Dead)]], Ship’s Lookout: Killed by Locke and Johann
+
+
+![[wayward bounty crew list.base]]
