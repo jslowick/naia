@@ -1,1 +1,2 @@
-#places #island #pirate #aramath #coin
+#places #island  #pirate #strife #west #aramath #coin
+
