@@ -8,11 +8,11 @@ The tower was damaged due to cannonfire, and was causing the tremors and earthqu
 
 [[Rake, The Rat Prince]] noticed something hiding in the bushes, that ends up being White Peacocks, which triggers a memory in [[Gianna Zarina Celeste Roisin]].  [[Neve]] is started by the birds and runs into the tower, precipitating Rake chasing him.
 
-The [[Silver Cat Statue]] had a single Emerald eye, which [[Rake, The Rat Prince]] used to get the Tower inside the Lighthouse open, as it was warded by the [[Witches]] [[Lysandra, The White Witch]] and [[Anastasia Veron]], who had debts to [[Ophelia]].
+The [[Silver Cat Statue]] had a single Emerald eye, which [[Rake, The Rat Prince]] used to get the Tower inside the Lighthouse open, as it was warded by the [[Witches]] [[Lysandra, The White Witch]] and [[Anastasia Veron]], who had debts to [[Ophelia (Dead)]].
 
 [[Gianna Zarina Celeste Roisin]] finds [[Salt]] hiding in the Bushes and protects him while other members of the crew stabilize the gears in the tower.  Everyone breathes in a lot of the smoke but are able to fix the immediate problem with the gears, and [[Locke Cordwainer]] spends a Mana to write down very detailed schematics, that he'll need help with.
 
-Talking to [[Salt]], The crew learns that he used to be a member of [[Winslow Firebeard]]'s crew, though havent seen him in months, and that he was tasked with looking after this Lighthouse.  He states that about a month ago, right around when Firebeard went missing, [[HMS Iron Titan]] attacked the Lighthouse with canon fire.
+Talking to [[Salt]], The crew learns that he used to be a member of [[Winslow Firebeard (Missing)]]'s crew, though havent seen him in months, and that he was tasked with looking after this Lighthouse.  He states that about a month ago, right around when Firebeard went missing, [[HMS Iron Titan]] attacked the Lighthouse with canon fire.
 
 Firebeard used [[Reyka]] during the war, and made discoveries about the islands.  He imported materials, and covered each of the towers (one on each island) and made them look like lighthouses.  He then got witches to seal the towers, [[Lysandra, The White Witch]] and [[Anastasia Veron]] sealed this one.
 
