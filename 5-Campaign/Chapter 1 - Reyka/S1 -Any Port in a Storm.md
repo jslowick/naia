@@ -1,6 +1,6 @@
-IRL Date: June 20, 2025
-Part of [[Chapter 1 - Reyka]]
-Previous Session: [[S0 - Prequel]] Next Session: [[S2 - Walk in the Menagerie]]
+- IRL Date: June 20, 2025
+- Part of [[Chapter 1 - Reyka]]
+- Previous Session: [[S0 - Prequel]] Next Session: [[S2 - Walk in the Menagerie]]
 
 The ship barely makes it ashore and needs serious work, compounded by lack of supplies or a friendly port.    Examining the surroundings of [[Moontide Cove]], the crew of [[The Wayward Bounty]] notice a large [[Makara]], on the beach.  It is big enough to be a huge problem, but does not seem aggressive so they leave it alone.  
 
