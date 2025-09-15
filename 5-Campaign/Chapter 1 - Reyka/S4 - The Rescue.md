@@ -25,7 +25,7 @@ They arrive at the [[Grimfrost Knoll]] just in time, and are able to rescue [[Is
 
 [[Isaac 'The Immortal']] lets the crew know theres a map in one of the tents that will lead to [[The Catacombs]] where they are storing treasure, with no guards with [[Wormeye]] dealt with and the rest of them at the meeting.  After some hemming and hawing they decide to try to rob the [[Greycoats]] before fleeing [[Reyka'Est]].
 
-They enter [[The Catacombs]] and find some of [[Winslow Firebeard|Firebeard's]] treasure as well as [[Merrick the Grey|Merrick's]].  [[Harlan 'Redpan' Rask]] spends the longest, finds [[Portrait of Sonya]] and [[White Peacock Feather Cloak]], as well [[Cursed|Cursing]] their ship, and findind a cursed [[The Monkey's Paw]], and in fleeing from the collapse, loses an Eye (Grievous Wound) to a falling Stalactite.
+They enter [[The Catacombs]] and find some of [[Winslow Firebeard (Missing)|Firebeard's]] treasure as well as [[Merrick the Grey|Merrick's]].  [[Harlan 'Redpan' Rask]] spends the longest, finds [[Portrait of Sonya]] and [[White Peacock Feather Cloak]], as well [[Cursed|Cursing]] their ship, and findind a cursed [[The Monkey's Paw]], and in fleeing from the collapse, loses an Eye (Grievous Wound) to a falling Stalactite.
 
 The crew decides not to help the [[Ren'Yu]] further, leaving him at his destroyed and looted village on [[Ereth'Rey]].  Their plan is the bury the [[Cargo]] of [[Onyx Gemstones]] because they do not have room for it and the new treasure, then head for [[The Animus]], to try to negotiate them helping do the hostage negotiations at [[Tiderip]] while they themselves are going to [[Aramath]], to deal with [[Lysandra, The White Witch]].
 
