@@ -1,0 +1,1 @@
+#places #otc #strife #west #aramath #lock #town
