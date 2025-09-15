@@ -3,4 +3,4 @@ cssclasses:
   - no-toolbar
 ---
 #faction #pirate 
-![[pirate ship base.base]]
+![[pirate ship list.base]]
