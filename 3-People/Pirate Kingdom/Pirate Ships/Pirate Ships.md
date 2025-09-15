@@ -1,3 +1,6 @@
+---
+cssclasses:
+  - no-toolbar
+---
 #faction #pirate 
-
-![[0-Basetest.base]]
+![[pirate ship base.base]]
