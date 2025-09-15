@@ -5,7 +5,7 @@ It’s said in ancient times, The Godesses Naia and Gaia fought bitterly, and Ga
 
 
 ## Theme
-![[Pasted image 20250912051527.png]]
+![[theme.png]]
 
 Pirate and Nautical themes.  The world is mostly dark, but there is a spark of things bright and humor.  It is halfway between Grim and Noble, Heroes exist and things have changed, but there are many dangers as well that are not easily messed with.
 
