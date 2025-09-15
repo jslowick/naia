@@ -1,1 +1,0 @@
-Known on all of Naia, the Free Bank of Caprona is where many of the [[Ostean Trade Consortium]] keep their valuables, in that often they are traded there for ships and the like that are built at [[Caprona]].
