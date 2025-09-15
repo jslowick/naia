@@ -1,1 +1,0 @@
-Many a seafarer has claimed deep in the [[Saurian Archipelago]] is an island where the lizards are as big as buildings.  That has to be made up though, right?
