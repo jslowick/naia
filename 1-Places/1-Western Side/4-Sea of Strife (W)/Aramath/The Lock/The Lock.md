@@ -1,1 +1,1 @@
-#places #island #pirate #aramath #lock
+#places #island  #otc #strife #west #aramath #lock
