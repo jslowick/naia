@@ -1,3 +1,5 @@
+#figurehead #pirate #wayward_bounty 
+
 When the [[The Wayward Bounty|Bounty]] rammed the [[WSS Aurora (Missing)| WSSAurora]] rammed  during the fight that captured the Aurora, both [[Sentient Figureheads]] were severely damaged.
 
 Auroras old figurehead:  [[Magnus the Swift]], Sail of the Four Winds
