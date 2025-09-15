@@ -5,4 +5,4 @@ Notable People:
 - [[Alistair Perrinth]]
 - [[Helena Perrinth]]
 - [[Edmund Perrinth]]
-- [[Oswald and Oswin Perrinth]]
+- [[Oswald Perrinth]]
