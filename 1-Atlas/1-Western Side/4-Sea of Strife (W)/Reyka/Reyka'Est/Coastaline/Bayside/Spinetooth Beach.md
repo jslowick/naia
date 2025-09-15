@@ -1,1 +1,0 @@
-Against [[Sharkfin Bay]], many things wash up on the sands of [[Reyka'Est]].  Even some of the beach itself is covered with [[Mistpoint|Mist]], it is a place a [[Soothsayer]] go to find [[Prophecy]], and where wonders can be found just been laying there.  The beach itself is relatively dangerous with shark teeth, spiny rocks, etc lying just below the sands.
