@@ -1,1 +1,1 @@
-#places #town #neutral #aramath #ox #new_oxmouth
+#places #strife #west #neutral #aramath #ox #town #new_oxmouth 
