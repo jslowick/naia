@@ -1,1 +1,2 @@
+#person #otc #lanshire #windam #dead 
 Was a influencial member of [[House Windam]], put on the Consequence as a favor.  Killed Dishonorably in a Duel, causing great problems for [[HMS Consequence]] and her captain, [[Admiral Jonathan Marbury]].
