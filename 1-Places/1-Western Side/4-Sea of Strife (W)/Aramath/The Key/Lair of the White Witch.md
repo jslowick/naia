@@ -1,0 +1,1 @@
+#places #strife #west #aramath #lock #village
