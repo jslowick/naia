@@ -1,1 +1,1 @@
-#places #aramath #ox #feature
+#places  #strife #west #aramath #ox #feature
