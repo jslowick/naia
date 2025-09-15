@@ -4,4 +4,4 @@ List
 - [[WSS Anna Maria (Sunk)]]
 - [[WSS Nautilus]]
 
-![[pirate ship base.base]]
+![[pirate ship list.base]]
