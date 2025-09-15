@@ -7,4 +7,4 @@ List
 - [[HMS Minnow (Missing)]]
 - [[HMS Occam's Razor (Sunk)]]
 
-![[pirate ship base.base]]
+![[pirate ship list.base]]
