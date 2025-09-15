@@ -1,1 +1,2 @@
+#ship #otc #lanshire #missing #minnow
 Ship of [[Zale Windam (Dead)]] that was lost in the [[1-Sea of Strife (E)]].
