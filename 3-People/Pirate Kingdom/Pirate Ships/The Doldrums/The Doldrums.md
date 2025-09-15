@@ -1,5 +1,5 @@
 #ship #pirate #faction #doldrums 
 
-Said to carry [[Windkillers]] or some or Magic to remove the wind in the area, and then uses [[Aether]] to catch up and take prizes.
+Said to be able to catch any ship, even the [[Windspeakers]] fastest ones
 
 [[Hollyn Kraye]] ([[Captain]])
