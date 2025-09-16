@@ -5,4 +5,6 @@ List of Familiars
 - [[Astra]], the Snow Owl - [[Lysandra, The White Witch]]
 - [[Fletch]], the Parrot - [[Salt]]
 - [[Buttercup]], the Cat - [[Princess Sonya Tiverton]]
-- [[Jitters]]
+- [[Jitters]], the Spider - [[Odette 'Scurry' Skurlain]]
+- [[Reviss]], the Snake - [[Natasha]]]
+- [[Hounds|Maul, Gore & Havoc]], the Hounds - [[The Houndmaster]]
