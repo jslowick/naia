@@ -10,3 +10,4 @@ The known world is roughly 1500 x 1500 miles, but oceans continue past that in a
 - [[3-Endless Sea]]
 - [[4-Sea of Night]]
 
+![[v6 Naia.png]]
