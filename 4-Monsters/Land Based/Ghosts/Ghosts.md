@@ -1,0 +1,1 @@
+Ghosts are very much real, any sailor that has spent enough time has seen something they claim is a ghost.  [[Haunted]] people can perceive ghosts and the other side of [[The Veil]] easier.
