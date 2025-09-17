@@ -1,1 +1,0 @@
-Dangerous and territorial, these [[Jawfish]] have fins that let them come up on land and move around briefly.  Sometimes called Sea Alligators.  The smallest ones seen are over 10 feet long and can swallow a person whole.  Mostly only found in the [[3-Sea of Monsters]], but sometimes storms and other currents can bring them other places.
