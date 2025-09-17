@@ -1,3 +1,3 @@
-#ship #otc #windspeaker  #dark_wave
+#ship #otc #windspeaker  #silent_wave
 
-[[Ignatius 'Iggy' Tideburn]] ([[Captain]])
+[[Ignatius 'Iggy' Tideburn of the East Wind]] ([[Captain]])
