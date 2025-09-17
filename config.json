@@ -2,5 +2,6 @@
   "showSidebar": true,
   "contentExclude": [
     "/5-GM"
- ]
+ ],
+   "showEditLink": true
 }
