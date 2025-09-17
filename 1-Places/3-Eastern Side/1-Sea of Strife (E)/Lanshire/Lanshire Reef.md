@@ -1,3 +1,3 @@
 #places #otc #lanshire  #strife #east #feature  
 
-Surrounding The [[1-Places/3-Eastern Side/1-Sea of Strife (E)/Lanshire/Lanshire]] Islands is a huge coral reef.  The [[Corites]] on it make harvesting the coral difficult, so Lanshire has been using slaves taken from the [[Ren'Yu]].  The [[3-People/Ostean Trade Consortium/Windspeakers/Windspeakers|Windspeakers]] often sell them the slaves and purchase the coral, thus creating the trade alliance known as the [[Ostean Trade Consortium]], or OTC for short.
+Surrounding The [[1-Places/3-Eastern Side/1-Sea of Strife (E)/Lanshire/Lanshire]] Islands is a huge coral reef.  The [[Corites]] on it make harvesting the coral difficult, so Lanshire has been using slaves taken from the [[Ren'Yu]].  The [[Windspeakers|Windspeakers]] often sell them the slaves and purchase the coral, thus creating the trade alliance known as the [[Ostean Trade Consortium]], or OTC for short.
