@@ -15,7 +15,7 @@ Need 9 for a vote, 12 to override a veto/king.
 [[Cassandra Saltheart]] - [[The Night Stalker]]
 
 
-Hans 'Hangman' Mandrello - The Injustice
+Handal 'Hangman' Mandrello - The Injustice
 Madeline 'Belladonna' Belle - The Manticore
 
 
