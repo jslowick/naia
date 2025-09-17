@@ -1,0 +1,1 @@
+While not a true category, there are [[3-Monsters]] that are on land that threaten sailors as well.
