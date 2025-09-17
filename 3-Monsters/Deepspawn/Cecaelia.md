@@ -1,0 +1,1 @@
+Half [[Ren'Yu]] and half Octopus, these secretive [[Deepspawn]] are rarely seen or interacted with.
