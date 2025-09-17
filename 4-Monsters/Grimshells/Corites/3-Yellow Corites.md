@@ -1,1 +1,0 @@
-Venomous and dangerous [[Corites]] that tend to stay submerged on the more valuable corals mostly in deeper water.
