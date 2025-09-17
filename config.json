@@ -1,4 +1,7 @@
 {
   "showSidebar": true
-}
+},
+ "contentExclude": [
+    "/GM Only"
+ ]
 
