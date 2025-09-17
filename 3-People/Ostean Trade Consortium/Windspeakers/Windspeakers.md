@@ -1,2 +1,0 @@
-#faction #otc #windspeaker 
-Spiritual and secretive members of one half of the [[Ostean Trade Consortium]].  Recently they have been buying raw materials from [[3-People/Ostean Trade Consortium/Lanshire/Lanshire]] and many other Neutral Island-states.[[Eastern Wind Isles]] span both sides of the [[2-Oshanan Trench|Trench]], but many of their cities are east, while Forts and Ships are west.  Winderspeakers generally don't allow outsides close. 
