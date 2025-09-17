@@ -6,7 +6,7 @@ Notable Witches
 - [[Lysandra, The White Witch]]
 - [[Ophelia (Dead)]]
 - [[The Witch Sisters]]
-- [[Mother of Worms]]
+- [[2-People/Pirate Kingdom/Witches/Mother of Worms]]
 
 Neutral/Unaligned
 - [[Anastasia Veron]]
