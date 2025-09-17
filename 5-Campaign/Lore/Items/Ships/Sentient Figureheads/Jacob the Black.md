@@ -1,1 +1,0 @@
-Old figurehead of the [[The Wayward Bounty|Bounty]], combined with [[Magnus the Swift]] to form [[Ja'nus, the Bold]].
