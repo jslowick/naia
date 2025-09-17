@@ -1,1 +1,0 @@
-[[Jawfish]] with bad eyesight that tend to stay in very shallow water, the least dangerous, as they normally feed on smaller creatures that live in the sand, they can attack if agitated or smell blood.
