@@ -1,4 +1,0 @@
-#person #historical #otc #lanshire #crowe
-10 Years before [[The Great War]], Barthomew caused a major scandal in [[House Crowe]], when the Tax ship was attacked and taken by Pirates, later proven to be actually from [[House Thorndown]].  Almost a million [[Pieces of Eight]] were missing.  Bartholomew resigned in disgrace, and moved from Lanshire, bouncing from Neutral Island-states, until eventually fading into obscurity.  
-
-![[Bartholomew.jpg]]
