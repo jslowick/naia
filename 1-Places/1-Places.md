@@ -1,4 +1,4 @@
-The known world is roughly 1500 x 1500 miles, but oceans continue past that in all directions, it is roughly divided into Eastern Isles, and Western Isles, and seven seas, the sea of strife being the main battleground, in the center, split in half by the [[2-Oshanan Trench]].
+The known world is roughly 1500 x 1500 miles, but oceans continue past that in all directions, it is roughly divided into Eastern Isles, and Western Isles, and seven seas, the sea of strife being the main battleground, in the center, split in half by the [[2-Oshanan Trench|Oshanan Trench]].
 
 - [[1-Sea of Mists]]
 - [[2-Sea of Storms]]
