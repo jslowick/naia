@@ -18,9 +18,9 @@ Along the trip, they rescue a [[Ren'Yu]], [[Soka Dravanska]], who was tangled in
 
 [[Johan Kristoff]] predicts the last challenge being a Lightning Squall from the [[Thundering Cliffs]], and the crew is able to prepare for it.
 
-They arrive at the [[Grimfrost Knoll]] just in time, and are able to rescue [[Isaac 'The Immortal']], [[Bear]], and [[Primrose]] from gibbets there.  It is unnaturally cold, and there is death and dark energy, so the crew decides not to shed any more blood there.
+They arrive at the [[Grimfrost Knoll]] just in time, and are able to rescue [[Isaac 'The Immortal']], [[Bear]], and [[2-People/Pirate Kingdom/Pirate Ships/The Animus/Primrose]] from gibbets there.  It is unnaturally cold, and there is death and dark energy, so the crew decides not to shed any more blood there.
 
-[[Johan Kristoff]] convinces [[Primrose]] to "deal" with the soothsayer [[Merrick the Grey]] is using to track them down.  She agrees to square the debt of rescue.  [[Bear]] lets them know that [[Merrick the Grey]] is here with his new ship, [[The Domino]], and is having a meeting of the officers and [[Lysandra, The White Witch]].
+[[Johan Kristoff]] convinces [[2-People/Pirate Kingdom/Pirate Ships/The Animus/Primrose]] to "deal" with the soothsayer [[Merrick the Grey]] is using to track them down.  She agrees to square the debt of rescue.  [[Bear]] lets them know that [[Merrick the Grey]] is here with his new ship, [[The Domino]], and is having a meeting of the officers and [[Lysandra, The White Witch]].
 
 [[Isaac 'The Immortal']] lets the crew know theres a map in one of the tents that will lead to [[The Catacombs]] where they are storing treasure, with no guards with [[Wormeye]] dealt with and the rest of them at the meeting.  After some hemming and hawing they decide to try to rob the [[Greycoats]] before fleeing [[Reyka'Est]].
 
