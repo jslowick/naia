@@ -1,1 +1,0 @@
- Sometimes confused with [[Merfolk]], these [[Sea Serpents]] have arms and can use rudimentary weapons.  
