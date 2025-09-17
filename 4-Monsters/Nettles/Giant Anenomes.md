@@ -1,1 +1,0 @@
-These [[Nettles]] grow around underwater Ruins and Shipwrecks.  They can hide, or look like Coral, and they snatch up an unsuspecting swimmer.  Only dangerous if you go underwater.
