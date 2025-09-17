@@ -1,1 +1,0 @@
-#person #neutral #vampire 
