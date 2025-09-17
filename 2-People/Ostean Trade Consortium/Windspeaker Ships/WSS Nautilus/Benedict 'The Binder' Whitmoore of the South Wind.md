@@ -2,4 +2,4 @@
 
 [[Captain]] of the [[WSS Nautilus]].
 
-![[ebb503214573212f910e66c49127efcb.jpg]]
+![[p_binder.jpg]]
