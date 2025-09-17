@@ -1,1 +1,0 @@
-Most Dangerous [[Corites]], their venom is deadly to Humans, and they are fast and stealthy.
