@@ -1,1 +1,0 @@
-Some say they’ve seen flying sharks and ones that can actually thrive on land, but most believe this to be tall tales.
