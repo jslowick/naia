@@ -1,6 +1,7 @@
 {
   "showSidebar": true
-}
-"contentExclude": [
+  "contentExclude": [
     "/5-GM_Only"
   ]
+}
+
