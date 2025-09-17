@@ -1,1 +1,0 @@
-Dangerous, Deepwater [[Jawfish]], that can hunt solo or in groups and are big enough to target Ships and other large things out in the deep seas.  Rarely seen near land, but a serious danger and are sometimes even drawn to ships that are wounded, or ships locked in battle.
