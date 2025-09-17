@@ -43,4 +43,4 @@ Dead/MIA
 - [[Philipe 'Four-eyes' (Dead)]], Ship’s Lookout: Killed by Locke and Johann
 
 
-![[wayward bounty crew list.base]]
+![[Person List.base#Wayward Bounty]]
