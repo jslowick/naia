@@ -1,0 +1,1 @@
+Soldier-like [[Corites]] that defend their areas aggressively, extremely fast with two giant claws.
