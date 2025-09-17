@@ -1,0 +1,1 @@
+Originally belonged to one of [[Gianna Zarina Celeste Roisin|Gianna's]] fathers, [[Clive 'Ridge' Ridgely]].
