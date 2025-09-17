@@ -4,5 +4,5 @@ Westmost Sea, the Storms here get worse and worse the farther west you go, and m
 Past the Storms, there is said to be the mythical [[Strait of Kafir]] that leads to land as vast as the oceans, though no one has successfully found it and returned.
 
 Main Islands
-- [[Tarsus]]
+- [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus]]
 - [[Crescent Bay]]
