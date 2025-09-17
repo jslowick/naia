@@ -1,50 +1,21 @@
 ## Scene 1: The Negotiations
 
 Recap, fid being fishy.
-
 Tony Vision retcon – forgot the prodigal son on aramath
 
 Victoria brings the two windspeakers up too early
-
 Penny looks at primrose and pales, she would like to renegotiate.  That monster
 
 Fid smalltalk about Barracuda, Lord Masques ship
 
 Erin – wants to go below decks to search for a compass
-
 Ryan – wants a worm
-
 Wants: Windspeakers, Crew
-
 Gives: Search his ship, Salts Bird, Violin, worm?
 
-Hellstring Dirge
+[[Hellstring Dirge]]
 
 Won it in a game on Aramath, at the Dead Man’s Hand.Said to be won by Joel “Jolly” Roger vs the Devil himself, First Mate to Davy Jones. Was practicing with it before the shark attack.  (This part sounds a little fishy to PCs)  The old captain, Roderic Vance refused to let him play it on the ship after a while.  Theres a bit of a longing to keep it, but greed of keeping the full ransom is in play as well.
-
-The Hellstring Dirge
-
-This item requires practice to attune to. (XP and time)
-
-Once attuned the item is cursed and you may not willingly give it up unless bested in a contest.  You may not turn down contests or challenges.
-
-While the case is open, and Fiddle in hand, the morale of every NPC in the area (good and bad) is lowered.
-
-The bow counts as a bladed weapon in melee combat.
-
-1/scene If the fiddle is in hand when a human dies, this item gains a charge.                 At 20 charges, The fiddle awakens and becomes sentient and is no longer a cursed to you.
-
-1/session, Roll Panache to play the Fiddle, and attempt to influence a person, place or thing, if this is done in combat may take multiple rounds, but can still act while playing (Unreliable)
-
-[-]          The Song has the opposite effect.
-
-              Fate Point: The song has a wildly and maybe permanently opposite effect.
-
-[ ]          The song is somewhat successful, at a cost
-
-[+]         The song is successful.
-
-              Fate Point: The song is wildly and maybe permanently successful.
 
 ## Scene 2: Below Decks
 
@@ -53,6 +24,8 @@ Will agree to Tony going below, Neve can sneak as well.  Erin hmm
 Primrose is hiding something below decks, that she got for selene
 
 Most of the hold has been rearranged, theres a large glass box in it, swirling in Mist something in it. (Djinn)
+
+
 
 Its For Selene
 
