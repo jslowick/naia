@@ -1,1 +1,0 @@
-No one really knows if Chuul and [[Aldani]] are different species of [[Grimshells]] or if Chuul are just larger versions.  They tend to be MUCH larger, and a darker green or bluish, compared to Aldani’s reddish, maroon or brown, and tend to not come near the surface as much, preferring fully underwater Wrecks.
