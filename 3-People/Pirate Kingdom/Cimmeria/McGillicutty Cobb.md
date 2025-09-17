@@ -1,3 +1,5 @@
 #person #pirate #cimmeria
 
 Retired ex-helmsmyn of [[The Wayward Bounty|the Bounty]], who passed Gianna over and gave the job to [[Wallace 'Wally' Bancroft (Missing)|Wally]].  He tried to retire to [[Ashander's Folly]], but was driven out by [[Clive 'Ridge' Ridgely|Clive]], [[Damien Whitman|Damien]], [[Seymour 'Scar Face' Eastcroft|Scar Face]], and [[Sir Braxton Crowley|Braxton]].  Said to reside in [[Cimmeria]] now, and is bitter at [[Gianna Zarina Celeste Roisin|Gianna]] for ruining his retirement.
+
+![[5beae46c48064970a63ee3027ae9d816.png]]
