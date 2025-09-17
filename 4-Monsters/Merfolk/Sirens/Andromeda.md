@@ -1,1 +1,0 @@
-Said to possibly be a [[Merfolk]] [[Witches]], those that have encountered her said they were unable to act or do anything in the sound of her voice or even just looking at her, whether they were attracted to her or not.
