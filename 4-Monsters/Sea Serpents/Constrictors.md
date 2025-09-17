@@ -1,1 +1,0 @@
-Powerful and dangerous [[Sea Serpents]], these will pull Sailors from Ships, or attack anything in the water.
