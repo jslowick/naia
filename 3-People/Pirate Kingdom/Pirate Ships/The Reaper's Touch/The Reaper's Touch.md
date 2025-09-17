@@ -1,3 +1,3 @@
 #ship #pirate #faction #reapers_touch
 
-[[Captain]] [[Savvy]]
+[[Captain]] [[Carina Savvy]]
