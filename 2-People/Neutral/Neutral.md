@@ -5,7 +5,7 @@ Island-States that have not officially joined the [[Pirate Kingdom]] or [[Ostean
 Island-State List:
 - [[Helios Falls]]
 - [[Crescent Bay]]
-- [[Tarsus]]
+- [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus]]
 - [[Aramath]]
 - [[Port Abalash]]
 - [[Caprona]]
