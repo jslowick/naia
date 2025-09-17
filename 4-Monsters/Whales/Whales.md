@@ -1,1 +1,0 @@
-Overhunted to extinction in the [[4-Sea of Strife (W)]], still exist in some of the other seas though.
