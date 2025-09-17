@@ -1,1 +1,0 @@
-Special feminine [[Merfolk]] that can sway entire ships with their songs. Sometimes neutral, sometimes dangerous, best avoided.  Ships deliberately look for crew not attracted to Sirens, and thus there is not much sexism when it comes to a ship’s crew.
