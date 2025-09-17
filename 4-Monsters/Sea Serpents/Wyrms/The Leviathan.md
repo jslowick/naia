@@ -1,1 +1,0 @@
-The largest of the [[Wyrms]] is dubbed the Leviathan, Said to be thousands of years old, nothing can stand in its way, and it can cause Tsunamis with a whip of its mile long tail.
