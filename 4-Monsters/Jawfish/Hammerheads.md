@@ -1,1 +1,0 @@
-[[Jawfish]] that swim in schools hunting.  Usually they leave ships alone but can damage them by smashing into the hulls with their heads.  
