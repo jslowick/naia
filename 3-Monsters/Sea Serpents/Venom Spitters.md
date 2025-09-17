@@ -1,0 +1,1 @@
+Highly venomous [[Sea Serpents]], these can spit their venom from the water onto ships decks, and can blind sailors.  Some more acidic ones can actually threaten ships themselves.
