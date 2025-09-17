@@ -1,1 +1,0 @@
-Super Dangerous giant lobster like [[Grimshells]] originally from [[Ald Cove]].  They dwell in wrecks and rock or coral formations, should anyone be foolhardy enough to attempt to explore there, but must return to close to shore to breed and lay eggs.  Shipwrecks that are on the Coastline or partially submerged are their perfect habitat.
