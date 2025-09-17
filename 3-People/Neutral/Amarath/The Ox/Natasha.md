@@ -1,6 +1,6 @@
 #person #pirate #aramath #ox
 
-Has a [[Familiars]] Snake named 
+Has a [[Familiars|Familiar]] Snake named [[Reviss]].
 
 
 ![[Natasha.png]]
