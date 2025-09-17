@@ -3,4 +3,4 @@ The leader of [[The Hexwood]] wears a laminate, wood, and metal suit of full pla
 
 He took over after the fall of [[House Thorndown]], who used to control [[The Hexwood]].
 
-![[55da7400c8e143d88034c8aab1dde8c7.webp]]
+![[rev_knight.webp]]
