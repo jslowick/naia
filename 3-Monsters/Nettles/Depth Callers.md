@@ -1,0 +1,1 @@
+Patches of Black ocean, sailor beware!  These [[Nettles]] exude some sort of ink or concoction, that can cause sailors that stare into it, the desire to jump in the waters.  The ichor can be harvested for [[Alchemy]], but rarely is it worth it to do so vs the danger they pose.  Can be much worse at night, or for ships without a competent [[Lookout]].
