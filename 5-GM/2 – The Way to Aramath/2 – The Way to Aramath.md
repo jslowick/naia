@@ -6,7 +6,7 @@ Tony Vision retcon – forgot the prodigal son on aramath
 Victoria brings the two windspeakers up too early
 Penny looks at primrose and pales, she would like to renegotiate.  You cant leave me with that monster
 
-Fid smalltalk about Barracuda, Lord Masques ship
+Fid smalltalk about [[The Barracuda]], [[Lord Masque]] ship
 
 Erin – wants to go below decks to search for a compass
 Ryan – wants a worm
