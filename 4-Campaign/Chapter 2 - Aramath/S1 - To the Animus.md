@@ -5,7 +5,7 @@ Previous Session: [[S4 - The Rescue]] Next Session: [[S2 - The Way to Aramath]]
 
 [[Harlan 'Redpan' Rask]] spends a Mana and uses [[Alchemy]] on the [[Waterlogged Pages]].
 
-He sacrifices the Letter of Marque and related pages and focuses on [[God's Eye]].  The papers clearly have notes from [[Lord Masque]] on them, and some newer writing that is of an unknown author.  He also finds there are three specific places in three specific cave systems on three islands of [[Aramath]].
+He sacrifices the Letter of Marque and related pages and focuses on [[God's Eye]].  The papers clearly have notes from [[Lord Masque]] on them, and some newer writing that is of an unknown author.  He also finds there are three specific places in three specific cave systems on three islands of [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]].
 - [[God's Eye]] in [[Labyrinth Caverns]] on [[2-People/Neutral/Amarath/The Ox/The Ox]]
 - [[Devil's Tongue]] in [[Many-Faced Caves]] on [[2-People/Neutral/Amarath/The Coin/The Coin]]
 - [[Purgatory Steps]] in [[Vault Mines]] on [[The Lock]]
@@ -28,7 +28,7 @@ Leaving [[Sharkfin Bay]] they enter [[The Calm Bay]], and see the strange [[Stil
 
 [[The Animus]] has already left by the time they get to [[North Cove]].  [[Harlan 'Redpan' Rask]] uses his Flash of Insight boon from [[The Catacombs]] to chart a course to intercept.
 
-Once the danger of [[Reyka]] is behind everyone, [[Jasper 'The Kid' Ravenhart]] confesses about the secret hes been hiding.  He's not actually a deckhand, but a Ward of [[Princess Sonya Tiverton]], a stowaway.  He leads the crew to the [[First Mate]] cabin, where the injured [[Tristan Winters]] is, and well-hidden room concealing well-dressed [[2-People/Ostean Trade Consortium/Lanshire/Lanshire]] noblewoman.  She looks EXACTLY like the [[Portrait of Sonya]], down to what clothing she is wearing.
+Once the danger of [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]] is behind everyone, [[Jasper 'The Kid' Ravenhart]] confesses about the secret hes been hiding.  He's not actually a deckhand, but a Ward of [[Princess Sonya Tiverton]], a stowaway.  He leads the crew to the [[First Mate]] cabin, where the injured [[Tristan Winters]] is, and well-hidden room concealing well-dressed [[2-People/Ostean Trade Consortium/Lanshire/Lanshire]] noblewoman.  She looks EXACTLY like the [[Portrait of Sonya]], down to what clothing she is wearing.
 
 She explains that she was on the [[WSS Aurora (Missing)]] when it was taken, and she made a deal with [[Victor 'The Mad' Maddington (Missing)|Mr. Maddington]] and [[Tristan Winters|Mr. Winters]] to take her to the [[Free Bank of Caprona]] to access her families' vault, in exchange for a ship.  [[Locke Cordwainer]] per [[Pirate Code]] abides by deals made on the ship by previous captains.  She also mentions a red bearded pirate ([[Winslow Firebeard (Missing)|Firebead]]) put some papers in the vault as well, possibly revealing why [[Victor 'The Mad' Maddington (Missing)|Victor]] tried to sink the Aurora.
 
@@ -41,7 +41,7 @@ They have two creepy [[Mistborne]] crew, [[Bear]] and [[Pommol]], A Captain ([[F
 
 [[Johan Kristoff|Johan]] points out to [[Rake, The Rat Prince|Rake]] that he is being [[Haunted]] by the ghost of the White Peacock, and Redpan notices worms falling from [[Wormeye]].  [[Fid]] is being cagey and a little secretive, and his story about the [[Jawfish]] attack seems a little off too, and he doesn't seem to want the players to board his [[The Animus]].
 
-The negotiations begin, but quickly breakdown, as the crew of [[The Wayward Bounty]] aren't sure exactly what they want in exchange for the Hostages, which [[2-People/Pirate Kingdom/Pirate Ships/The Animus/Primrose]] seems to want greatly.  [[Fid]] offers up his Violin, the [[Hellstring Dirge]], a powerful artifact in a seaweed encrusted case.  He claims he won it in [[Aramath]], at the [[Dead Man's Hand]], and that the original owner was [[Joel 'Jolly' Roger]] who won it from the Devil himself.
+The negotiations begin, but quickly breakdown, as the crew of [[The Wayward Bounty]] aren't sure exactly what they want in exchange for the Hostages, which [[2-People/Pirate Kingdom/Pirate Ships/The Animus/Primrose]] seems to want greatly.  [[Fid]] offers up his Violin, the [[Hellstring Dirge]], a powerful artifact in a seaweed encrusted case.  He claims he won it in [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]], at the [[Dead Man's Hand]], and that the original owner was [[Joel 'Jolly' Roger]] who won it from the Devil himself.
 
 The crew huddles again, deciding that they are interested in [[Salt|Salt's]] [[Familiars|Parrot]], Looking below decks, and the Violin.  [[Harlan 'Redpan' Rask|Redpan]] is interested in [[Wormeye]] or at least the worms, causing disgust from the other crew.  They go for negotiations one more time...
 
