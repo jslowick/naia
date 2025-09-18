@@ -13,7 +13,7 @@ The [[Silver Cat Statue]] had a single Emerald eye, which [[Rake, The Rat Prince
 
 Talking to [[Salt]], The crew learns that he used to be a member of [[Winslow Firebeard (Missing)]]'s crew, though havent seen him in months, and that he was tasked with looking after this Lighthouse.  He states that about a month ago, right around when Firebeard went missing, [[HMS Iron Titan]] attacked the Lighthouse with canon fire.
 
-Firebeard used [[Reyka]] during the war, and made discoveries about the islands.  He imported materials, and covered each of the towers (one on each island) and made them look like lighthouses.  He then got witches to seal the towers, [[Lysandra, The White Witch]] and [[Anastasia Veron]] sealed this one.
+Firebeard used [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]] during the war, and made discoveries about the islands.  He imported materials, and covered each of the towers (one on each island) and made them look like lighthouses.  He then got witches to seal the towers, [[Lysandra, The White Witch]] and [[Anastasia Veron]] sealed this one.
 
 The [[Greycoats]] dressed as Ghosts were messing with the tower the day before, causing the tremors and earthquakes.  [[Gianna Zarina Celeste Roisin]] presses [[Salt]] and he reveals there used to be a 4th island. [[Reyka'Suud]] to the southwest but it is no longer there.  [[Gianna Zarina Celeste Roisin]] confirms her father, [[Clive 'Ridge' Ridgely]] was on the island, and working on something to the south, when [[The Accident]] occurred about the same time the fourth island disappeared.
 
