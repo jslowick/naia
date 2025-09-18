@@ -1,1 +1,0 @@
-The Ship “The Albatross” is what arrived on Cimmeria, and carried some of the Ashen Covenant, who serve one of the Witch Sisters, and who were the ones looking for you.  You were able to escape them that time, but them being here can’t be a coincidence.  Your instinct to run again boils up, this can’t be good.
