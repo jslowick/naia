@@ -95,7 +95,7 @@ Sickness Level
 
 4+ If you are struck by the Ooze or an Oozeling gain the complication Extremely Nauseous, and you can’t attack.
 
-## Scene 2 - Items, RP with X 
+## Scene 2 - Maria and theo showdown
 End of Session:
 
 Theodoro comes to say Lonely Shadow is burning at the docks.
