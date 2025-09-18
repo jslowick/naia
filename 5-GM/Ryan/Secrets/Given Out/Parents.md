@@ -1,3 +1,0 @@
-Initial Secret
-
-You have known for some time growing up, but you are the grandson of the most powerful Witch in pirate history, Ophelia.  You have witchblood flowing through your veins, and while you have only used it alchemically so far, you aren’t really sure what you are truly capable of.  You were hidden away on Cimmeria with a foster family, and fled aboard the Bounty when you learned there were those that worked for the Witch Sister Callisto looking for you.
