@@ -1,0 +1,3 @@
+Given Out
+
+You recognize the white owl, and its cold eyes.  When you were much younger, Anastasia had an important visitor.  With the important visitors, Anastasia would send the servants away, and sometimes even you, but this time you were to stay.  She brought you out and introduced her as “Auntie Lysandra”.  She was young, but in a way that didn’t feel right, like she was using witchcraft.  She had cold dead eyes, that matched that of her owl.  Anastasia showed you off to her like a proud grandparent.  Aradia said nothing, only examining you with those cold eyes, like looking over a piece of meat at a butcher.  You were sent away, but later that night you awoke to a nightmare of the owl at your window, looking at you.
