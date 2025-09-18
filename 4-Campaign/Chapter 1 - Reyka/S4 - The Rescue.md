@@ -26,7 +26,7 @@ They arrive at the [[Grimfrost Knoll]] just in time, and are able to rescue [[Is
 
 They enter [[The Catacombs]] and find some of [[Winslow Firebeard (Missing)|Firebeard's]] treasure as well as [[Merrick the Grey|Merrick's]].  [[Harlan 'Redpan' Rask]] spends the longest, finds [[Portrait of Sonya]] and [[White Peacock Feather Cloak]], as well [[Cursed|Cursing]] their ship, and findind a cursed [[The Monkey's Paw]], and in fleeing from the collapse, loses an Eye (Grievous Wound) to a falling Stalactite.
 
-The crew decides not to help the [[Ren'Yu]] further, leaving him at his destroyed and looted village on [[Ereth'Rey]].  Their plan is the bury the [[Cargo]] of [[Onyx Gemstones]] because they do not have room for it and the new treasure, then head for [[The Animus]], to try to negotiate them helping do the hostage negotiations at [[Tiderip]] while they themselves are going to [[Aramath]], to deal with [[Lysandra, The White Witch]].
+The crew decides not to help the [[Ren'Yu]] further, leaving him at his destroyed and looted village on [[Ereth'Rey]].  Their plan is the bury the [[Cargo]] of [[Onyx Gemstones]] because they do not have room for it and the new treasure, then head for [[The Animus]], to try to negotiate them helping do the hostage negotiations at [[Tiderip]] while they themselves are going to [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]], to deal with [[Lysandra, The White Witch]].
 
 
 Treasure:
