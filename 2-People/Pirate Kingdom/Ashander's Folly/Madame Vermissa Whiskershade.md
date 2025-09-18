@@ -1,3 +1,3 @@
-#person #pirate #ashanders_folly #soothsayer
+#person #pirate #ashanders_folly #soothsayer #mistborne 
 
-![[whiskr_shade.jpg]]![[whisker.avif]]![[download.webp]]
+![[Pasted image 20250918033117.png]]
