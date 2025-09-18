@@ -1,49 +1,34 @@
 ## Scene 1: Lay of the Land
 
+Been renamed recently to "New" Oxmouth, aka under new management.  
 
-Docks clogged with many ships, no room, need to anchor and dingy in, ship vulnerable out in open water and not docked.
+Docks clogged with many ships, no room, need to anchor and dingy in.  It looks like [[Lord Masque]] got the last spot, and his ship takes up two spaces.  The other ship he was towing in, [[The Marlin]] is anchored off in the bay, it looks badly damaged.
+
+There's a fairly nice bay, but it leaves the ship alone, and vulnerable.  Choice what to do.  Salt gets a bad feeling about this place.  
 
 ERIN SECRET [[Janus Hurt]]
 
-Greycoat guards, arresting some pirates that do something.  
-
-They dont harass PCs unless they do something.
 
 
 
 Ships
 
-The Long Shadow
+[[The Long Shadow]]
+[[The Barracuda]], Lord Masque Ship
+[[The Marlin]]
+The Bad Hangover - Captain Rattlebones (Missing)
+The Rumrunner - Captain Mohat Mala (Missing)
+The Ill Omen - Captain Nara Shafe
+The Manticore - Captain “Bloody” Mary
 
-               Figurehead, Corvus the Charred
+Right off the Docks is a square, the old Commodore that Wilton told you to see, that was sympathetic, is dead in a gibbet, looks like [[Merrick the Grey]]'s work.
 
-               The Umbral Covenant
 
-The Barracuda, Lord Masque Ship
+Greycoat guards are arresting [[Barrel]], one of [[Lord Masque]]'s guys.  [[Sable]] is there trying to warn/negotiate, but so far they are just talking.  They don't harass PCs unless they do something.
 
-               Towing new ship prize, “The Marlin”
 
-The Bad Hangover
-
-               Captain Rattlebones (Missing)
-
-The Rumrunner
-
-               Captain Mohat Mala (Missing)
-
-The Ill Omen
-
-               Captain Nara Shafe
-
-The Manticore
-
-               Captain “Bloody” Mary
-
-New Commodore, old one is hanging in the town square, “New Oxmouth”
-
-Hook and Chain
-
-               Bartender Evelyn “V” Holdt – worried about losing her bar, doesn’t want outsiders around, but also needs their money.
+[[Hoof & Chain]]
+Bartender Evelyn “V” Holdt – worried about losing her bar, doesn’t want outsiders around, but also needs their money.
 
 “Shakes” Murphy, pirate with Pitch Tremors (get from applying the tar to help the ships cross the trench)  Willing to talk about changes, and how he thinks the witch is behind it.
 
