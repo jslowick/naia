@@ -84,7 +84,7 @@ If no time (10:45 cutoff maybe?), tease midnight rose as another attack ship
 A couple hours later, as you are limping towards Aramath, Another ship on the horizon, heading strait towards you at night.
 
 
-[TONY COMPEL] Drug withdrawal
+TONY COMPEL Drug withdrawal
 
 If they run, hard rolls to escape.  If they escape, they dpnt see who, will be there or pulling in to coin at the same time.
 
@@ -107,29 +107,27 @@ After failing to catch the Aurora, Victor returned to Mother of Worms unsuccessf
 [[The Midnight Rose]] for crew list
 
 
-Just Von Drakk and his valet, Grimes.  Mother of Worms is in the next room, listening in
-
-Ryan Feels presence of powerful witch, Mother of Worms
+Just [[Nikolai von Drakk]] and his valet, [[Grimes]].  [[2-People/Pirate Kingdom/Witches/Mother of Worms|Mother of Worms]] is in the next room, listening in. Ryan feels presence of powerful witch.
 
 RYAN SECRET [[5-GM/PCs/Ryan/Secrets/Mother of Worms|Mother of Worms]]
 
-Surprise mutiny, he holds Locke accountable for previous deals.  Wants to know what he found.
+Surprise mutiny, he holds Locke accountable for previous deals.  Wants to know what he found.  Gives [[Locke Cordwainer|Locke]] the Case of [[Tarsian Wine & Spirits|Tarsian]] Rum as that was he agreed bet.
 
-Winters, offers to take him to be healed
+Offers to take [[Tristan Winters]] to healed, since you cant be bothered to.
 
-Wants to know about aurora and says you must uphold deals made under the Bounty
+Wants to know about [[WSS Aurora (Missing)]] and says you must uphold deals made under the [[The Wayward Bounty|Bounty]]
 
-Asks about Sonya, will give more info back if they talk about her.  They know because Sonya has a small mirror, which the Mother of Worms could see through.
+Asks about [[Princess Sonya Tiverton|Sonya]], will give more info back if they talk about her.  They know because Sonya has a small mirror, which the Mother of Worms could see through.
 
 TONY VISION – Witchs can use mirrors
 
-If told aramath, the white witch controls most of it now, be careful, I am no friend of hers either.  I personally stabbed her through the heart once, she didn’t die.  Maybe turn her over to the OTC, their burnings tend to stick.  Maybe not though, who wants to grovel at their feet.
+If told [[Aramath]], the [[Lysandra, The White Witch]] controls most of it now, be careful, I am no friend of hers either.  I personally stabbed her through the heart once, she didn’t die.  Maybe turn her over to the [[Ostean Trade Consortium|OTC]], their burnings tend to stick.  Maybe not though, who wants to grovel at their feet?
 
-Another competition?  Your predecessor was more fun.
+Another competition?  I have another one would be a great race to find.  Your predecessor was more fun.
 
 Im off to The Sea of Storms, but when im done there, im going back to Ashander’s Folly to call for council, I expect you to have gone and confessed, I mean registered your mutiny by then.  The threat is implicit.
 
-Interrupted by “Barnacle” who is a ren’yu and comes in soaking wet, about an important matter, leaves just Grimes here (if ryan wants to try to get in to other room)
+Interrupted by [['Barnacle' Briggs]] who is a [[Ren'Yu]] and comes in soaking wet, about an important matter, leaves just Grimes here (if ryan wants to try to get in to other room)
 
 Ryan can meet mother of worms, long as Grimes is distracted.
 
