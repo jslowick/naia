@@ -1,4 +1,4 @@
-### Scene 1: The Serpents End
+## Scene 1: The Serpents End
 
 Erin or Tony, would you like to spend a Fate Point to have been here sometime recently before the Bounty?
 
@@ -72,7 +72,7 @@ Maria leaves the Serpents maw after an argument with Pike, looking for her mothe
 
 Theodoro helps PCs find Wilton, expresses worry that Maria is hiding things.
 
-### Scene 2: W&W Imports
+## Scene 2: W&W Imports
 
 W&W Imports
 
@@ -100,7 +100,7 @@ Wants help delivering cargo to the Commodore’s brother of Oxmouth and the Port
 
 Recruits Theodoro to deliver the Dockmaster, Detrik Crowe to (known Lysandra sympathizer) who ends up dead.  Maria skips out on delivery to deal with the loan shark.
 
-### Scene 3: The Arcanist Emporium
+## Scene 3: The Arcanist Emporium
 
 Sciency store, run by people from Deephaven
 
@@ -132,7 +132,7 @@ Deep in the Ravine, Sunblooms?
 
                Can do others, but special order
 
-### Scene 4: The Evening Stroll
+## Scene 4: The Evening Stroll
 
 The Gilded Chain Brothel, a franchise of brothels on the Coin, the Lock and the Ox, escorts travel between them, and are willing to trade secrets.  Maria found info out, but the Night Madame wants out/off of Aramath in return.
 
@@ -154,33 +154,33 @@ get out of town or he’ll blow their ship out of the water. 
 
 Good chance of fight here, willing to push it to 3 days at the Shipwreck
 
-Mad Dog Lucas
+[[The Hell Hound]] Crew here
 
-Cinder Tom
 
-               Musket and Grenades
+Returning to the Docks/Ship, Dietrich is murdered, and PCs are questioned as he had just sent them a note about their ship being a nuisance because of the storms.  They tell the PCs not to leave port and their ship will be impounded until its cleared up.
 
-Ripper
-
-               Brute, reduces phys to 1
-
-Gulliver “Twice Drowned”
-
-The Widow Magra
-
-The Houndmaster
-
-               3 Mastiffs
-
-Returning to the Docks/Ship, Dietrich is murdered, and PCs are questioned as he had just sent them a note about their ship being a nuisance because of the storms.
-
-  
 PCs realize it was either Theodoro or Maria or both that did it.
+
+
+## Scene 5 - Crossing the Missing Eighth
+Move to S4 if no time
+
+
+
 
 Following Barracuda in, which is towing a ship
 
-Stopped trying to enter New Oxmouth, told to leave by the Reaper’s Touch, Captain Savvy
+Detriech’s death is blamed on the Wayward Bounty, and so he sends Captain Savvy of the Reaper’s Touch after them.
 
-Main part of navy left with Pirate Lord Jonas Blacktide, to the Sea of Storms, convinced by the White Witch. Lock and Key and most of Ox.
+Challenged on the way to [[New Oxmouth]], [[Captain]] [[Carina Savvy]] of [[The Reaper's Touch]].
 
-Coins Navy and whats left of Ox are controlled by Quinn **“**Harlequin” Harwick, who was Jonas’ second in command, but was actually a spy for Lord Masque,  Harlequin defected with what ships he could to Southfort, Coinside.  Detriech’s death is blamed on the Wayward Bounty, and so he sends Captain Savvy of the Reaper’s Touch after them.
+
+told to come to [[Southfort, Coinside]]
+
+Either RP with Harlequin or fight Reaper's Touch.  No fleeing, as it is much too fast (2 higher) special ship.
+
+Main part of navy left with [[Council of Lords]] [[Jonas Blacktide]], and the flagship, [[The Call of the Void]].  
+
+He's left to the [[2-Sea of Storms]], convinced by the White Witch. Lock and Key and most of Ox forts are bascially gone now, and the lighthouses no longer work.
+
+Coins Navy and whats left of Ox are controlled by [[Quinn 'Harlequin' Harwick]] who was [[Jonas Blacktide]] second in command, but was actually a spy for [[Lord Masque]].
