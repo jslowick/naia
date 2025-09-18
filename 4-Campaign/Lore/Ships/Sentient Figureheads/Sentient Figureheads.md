@@ -5,5 +5,6 @@ Before Archeron, sometimes figureheads would awaken, but it was a closely guarde
 
 Notable Figureheads
 - [[Ja'nus, the Bold]] - Newly Repaired Figurehead of [[The Wayward Bounty]]
-- Magnus the Swift
-- Jacob the Black, Scourge of the Seven Seas
+- [[Magnus the Swift]], Sail of the Four Winds
+- [[Jacob the Black]], Scourge of the Seven Seas
+- [[Corvus]]
