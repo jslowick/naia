@@ -1,7 +1,6 @@
 Sebastian LaFayette
 
 ●       Half brother of Damien Whitman, progenitor seduced damiens mother
-
 ●       Same progenitor as Selene
 
 Owns tarsus, and all 3 “Competing” wineries
