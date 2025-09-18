@@ -1,7 +1,7 @@
 #faction #pirate 
 
 The organization of pirates under the Pirate King, [[Winslow Firebeard (Missing)]]
-and the [[Council of Lords]].
+and the [[Pirate Lords]].
 
 [[Witches]] in the Pirate Kingdom are not outlawed, but aren't trusted either.
 
