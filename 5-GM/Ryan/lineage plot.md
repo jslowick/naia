@@ -1,1 +1,0 @@
-Harlans sister, Merrowyn Is being tormented by persephone and only solution to her suffering is to kill her.  Later, She can return, as the reveal to the resurrections.
