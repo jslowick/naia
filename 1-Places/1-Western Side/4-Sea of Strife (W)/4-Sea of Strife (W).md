@@ -5,12 +5,12 @@ Middle sea, in which half of it is to the West of the [[2-Oshanan Trench|Trench]
 Mostly Pirate controlled waters
 
 Main Islands
-- [[Aramath]]
+- [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]]
 - [[Cimmeria]]
 - [[Coralhaven]]
 - [[Ereth'Yu]]
 - [[Port Abalash]]
-- [[Reyka]]
+- [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]]
 - [[Ashander's Folly]]
 - [[The Colossus]]
 - [[Tiderip]]
