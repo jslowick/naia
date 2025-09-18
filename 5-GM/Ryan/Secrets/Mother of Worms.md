@@ -1,3 +1,0 @@
-s2 or s3
-
-You felt this slightly before, last time you were on the Midnight Rose, and some with Wormeye, but this is different, you get waves of power emanating from the room next door, and you can picture the old woman sitting there calmly, knitting. She goes to brush a strand of hair and you realize it’s a worm, that snakes back into her gray hair.  This is the Mother of Worms, a powerful witch that you have heard stories of as a child, ones that equate her to the bogeyman.  She definitely was not on the Midnight Rose last time.   She perks up, and at the time you notice her, you are certain she notices you and your bloodline as well.
