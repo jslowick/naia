@@ -1,4 +1,10 @@
 
+What they know Current Threads
+Lysandra and Merrick working together
+Ancient Technology under Reyka
+Firebeard was using reyka
+
+
 
 
 What I want them to learn
