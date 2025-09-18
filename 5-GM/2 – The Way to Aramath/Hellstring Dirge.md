@@ -10,7 +10,7 @@ The bow counts as a weapon in melee combat.
 
 1/scene If the fiddle is in hand when a human dies, this item gains a charge. At 20 charges, The fiddle awakens and becomes sentient and is no longer a cursed to you.
 
-1/session, Roll Panache to play the Fiddle, and attempt to influence a person, place or thing, if this is done in combat may take multiple rounds, but can still act while playing - [[Unreliable Fiddle]]
+1/session, Roll to play the Fiddle, and attempt to influence a person, place or thing, if this is done in combat may take multiple rounds, but can still act while playing - [[Unreliable Fiddle]]
 
 
 ![[Hellstring.png]]
