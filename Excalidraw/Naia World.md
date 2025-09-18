@@ -10,15 +10,15 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
-[[Reyka]]
+[[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]]
  ^hKQZYoCG
 
 ## Element Links
-K9BMQuin: [[Reyka]]
+K9BMQuin: [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]]
 
-2D1iOKTF: [[Reyka]]
+2D1iOKTF: [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]]
 
-6appl3qS: [[Reyka]]
+6appl3qS: [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]]
 
 ## Embedded Files
 8d149582ec2894531e0510fbf63dd7ba743a3125: [[v6 Naia.png]]
