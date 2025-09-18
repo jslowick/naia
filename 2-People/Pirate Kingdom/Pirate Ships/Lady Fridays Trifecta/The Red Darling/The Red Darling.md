@@ -6,7 +6,7 @@ Red sailed ship, seen near [[Reyka]] recently.
 [[Irvine 'Ironhook' Haldane]] ([[Boatswain]])
 [[Seraphine 'Starry-Eyes' Callo]] ([[Navigator]])
 [[Hans 'Thunderhands' Rurrik]] ([[Cannoneer]])
-[[Marlowe Spicefinger]] ([[Cook]])
+[[Roan Spicefinger]] ([[Cook]])
 [[Pietra Longknife]] ([[First Mate]])
 
 ![[The Red Darling.png]]
