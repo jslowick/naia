@@ -1,3 +1,3 @@
 #places #strife #west #reyka #reykaest #feature #shoreline 
 
-There is a cove on [[Reyka'Est]] that lures boats in from the harsh currents of [[The Pull of the Beast]], but is dangerous in its own right.  The coral isn’t native to [[Reyka]], but seems to flourish here, and [[Aldani]], a [[Cecaelia]] and many [[Corites]] have been spotted.  Under the water there may be more treasures to explore here, if you are willing to deal with the [[3-Monsters]].
+There is a cove on [[Reyka'Est]] that lures boats in from the harsh currents of [[The Pull of the Beast]], but is dangerous in its own right.  The coral isn’t native to [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]], but seems to flourish here, and [[Aldani]], a [[Cecaelia]] and many [[Corites]] have been spotted.  Under the water there may be more treasures to explore here, if you are willing to deal with the [[3-Monsters]].
