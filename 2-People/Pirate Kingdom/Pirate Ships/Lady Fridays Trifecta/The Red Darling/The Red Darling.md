@@ -1,5 +1,5 @@
 #ship #pirate #red_darling 
-Red sailed ship, seen near [[Reyka]] recently.
+Red sailed ship, seen near [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]] recently.
 
 [[The Lady in Red]] (Captain)
 [[Eleera 'Two-coin' Dask]] ([[Quartermaster]])
