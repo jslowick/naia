@@ -1,1 +1,1 @@
-![[Edgecoin.png]]
+![[attachments/Edgecoin.png]]
