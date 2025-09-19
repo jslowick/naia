@@ -1,3 +1,0 @@
-Given [[S1 - To the Animus]]
-
-Wormeye, the soothsayer working against you with the Greycoats, is only a soothsayer because something a powerful witch did.  You got a similar feeling when you served Captain Von Drakk dinner when him and Victor met before taking the Aurora.  As the worms slowly fall away, he gets less powerful.  Maybe one of those worms could be important?  Offer for a fate point:  You want one or more of those worms.
