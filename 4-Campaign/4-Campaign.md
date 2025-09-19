@@ -1,6 +1,6 @@
 Chapters
 - [[Chapter 1 - Reyka]]
-- [[Chapter 2 - Aramath]]
+- [[Chapter 2 - The Way to Aramath]]
 
 Lore
 - [[Events]]
