@@ -1,1 +1,0 @@
-Madame of [[Gilded Circle Brothel]], mother to [[Maria Fatale]]
