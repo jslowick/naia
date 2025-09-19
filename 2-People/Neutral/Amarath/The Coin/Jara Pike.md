@@ -1,4 +1,4 @@
-#person #pirate #aramath #coin 
+#person #neutral #aramath #coin #edgecoin
 
 Summary: [[Windspeakers|Ex-windspeaker]] Tavernkeep of The [[Serpent's End]] on [[2-People/Neutral/Amarath/The Coin/The Coin|The Coin]].
 
