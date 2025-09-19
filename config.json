@@ -1,7 +1,9 @@
 {
   "showSidebar": true,
   "contentExclude": [
-    "/5-GM"
+    "/5-GM",
+    "/Excalidraw",
+    "templates"
  ],
    "showEditLink": true
 }
