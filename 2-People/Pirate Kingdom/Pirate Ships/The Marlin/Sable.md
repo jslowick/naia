@@ -4,4 +4,4 @@ Said to have started as a deck hand, and rose to be [[Lord Masque]]'s personal a
 
 She wears a black lace half mask in "solidarity" with Lord Masque, and is said to take it off before killing a victim.
 
-![[Pasted image 20250918092536.jpg]]
+![[p_sable.jpg]]
