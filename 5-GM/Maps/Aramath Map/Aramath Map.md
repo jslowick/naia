@@ -1,1 +1,0 @@
-![[Aramath Labeled.png]]
