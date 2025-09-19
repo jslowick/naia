@@ -1,1 +1,0 @@
-Size Category 6, cannot be bought with XP normally.
