@@ -1,1 +1,0 @@
-Large farm outside of town, Ox-side.  Stretched from bend in the river all the way down to the sea.  Constant battle with Knifewoods, Helps keep the Woodcutters in business.
