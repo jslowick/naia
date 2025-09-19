@@ -12,7 +12,7 @@ Current Crew
 - [[2-People/Pirate Kingdom/Pirate Ships/The Animus/Primrose]]
 - [[Wormeye]] - Strung up as the ships Figurehead.
 
-[[Jean-Pierre]] and [[Calamity Jack]] plan to join in [[S2 - The Way to Aramath]]
+[[Jean-Pierre]] and [[Calamity Jack]] plan to join in [[2.2 - Negotiations]]
 
 Dead/MIA
 - [[Roderick Vance (Dead)]]
