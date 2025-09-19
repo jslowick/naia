@@ -1,5 +1,5 @@
-#person #neutral #aramath #coin 
+#person #neutral #aramath #coin #edgecoin
 
-Assistant to [[Dr. Fenric 'Pebbletongue' Pebbleton]] at [[Arcanist Emporium]]
+Assistant to [[Professor Fenric 'Pebbletongue' Pebbleton]] at [[Arcanist Emporium]]
 
 ![[Wren Tamsford.jpg]]
