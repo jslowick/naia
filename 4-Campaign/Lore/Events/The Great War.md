@@ -1,4 +1,4 @@
-Timeline - 19 years before [[S0 - Prequel]]
+Timeline - 19 years before [[0 - Prequel]]
 
 [[2-People/Ostean Trade Consortium/Lanshire/Lanshire]] was looking for a fight with this pirate menace that had been getting worse throughout the years.  They found it when they were able to capture [[Ophelia (Dead)]], [[Winslow Firebeard (Missing)]]'s wife, and a powerful [[Witches|Witch]].  They burned her at the stake, and caused the pirates to unify and declare war on Lanshire.  
 
