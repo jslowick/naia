@@ -1,0 +1,1 @@
+Wall on one side of the city that kept the [[Knifewood]] out.  Recently, the town is trying to expand beyond it though, so the [[Woodcutters]] are venturing beyond the wall.
