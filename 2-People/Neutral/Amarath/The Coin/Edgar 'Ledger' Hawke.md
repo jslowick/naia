@@ -1,4 +1,4 @@
-#person #neutral #aramath #coin 
+#person #neutral #aramath #coin #edgecoin
 
 Bodyguards:  [[Amina Okoro 'The Undefeated']] and [[Barricade]]
 
