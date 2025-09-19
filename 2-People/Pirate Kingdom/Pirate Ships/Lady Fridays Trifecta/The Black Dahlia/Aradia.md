@@ -1,1 +1,3 @@
-#person #pirate #black_dahlia #captain ![[Pirates13.png]]
+#person #pirate #black_dahlia #captain 
+
+![[p_aradia.png]]
