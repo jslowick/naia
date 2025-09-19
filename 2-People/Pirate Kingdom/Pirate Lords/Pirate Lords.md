@@ -1,13 +1,15 @@
 #faction #pirate #pirate_lord
 
-Need 9 for a vote, 12 to override a veto/king.
+Need 7 for a vote, 11 to override a veto/king.
+
+[[Winslow Firebeard (Missing)]] - [[The Azar (Missing)]]
 
 [[Jonas Blacktide]] - [[The Call of the Void]]
 [[Lord Masque]] - [[The Barracuda]]
 [[Nikolai von Drakk]] - [[The Midnight Rose]]
-[[Victor 'The Mad' Maddington (Missing)]] - [[The Wayward Bounty|The Bounty]]
+[[Victor 'The Mad' Maddington (Missing)]] - [[The Wayward Bounty|The Bounty]] (Renamed)
 [[Chaska 'Fury' Uskagawa]] - [[The Broken Chain]] 
-[[Handal 'Hangman' Mandrello]] - The Injustice
+[[Handal 'Hangman' Mandrello]] - [[The Injustice]]
 
 [[Lady Friday]] - [[The Red Darling]], [[The Blue Devil]], [[The Black Dahlia]]
 [[Victoria 'The Viper' Voltane]] - [[The Valkyrie]]
