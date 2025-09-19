@@ -1,4 +1,4 @@
-#person #pirate #aramath #coin 
+#person #pirate #aramath #coin #edgecoin
 
 
 
