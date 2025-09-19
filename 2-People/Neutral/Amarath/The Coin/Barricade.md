@@ -1,4 +1,4 @@
-#person #neutral #aramath #coin 
+#person #neutral #aramath #coin #edgecoin
 
 Bodyguard of [[Edgar 'Ledger' Hawke]]
 
