@@ -1,0 +1,1 @@
+Ledger wants the letters that master archeron got from master XX in caprona, before they wander off.  This is because archeron has hd a crisis of concience and is thinking about handing them to a pirate lord.
