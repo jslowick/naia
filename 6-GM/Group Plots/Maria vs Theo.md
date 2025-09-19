@@ -29,8 +29,8 @@ Returning to the Docks/Ship, Dietrich is murdered, and PCs are questioned as he 
 
 PCs realize it was either Theodoro or Maria or both that did it.
 
-[[S3 - Edgecoin]]
+[[S3.1 - Edgecoin Outline]]
 
-[[S4 - New Oxmouth]]
+[[S3.2 - New Oxmouth Outline]]
 
-[[S5 - The Boneways]]
+[[S3.3 - The Boneways Outline]]
