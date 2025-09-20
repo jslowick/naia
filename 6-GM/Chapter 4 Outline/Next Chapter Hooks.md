@@ -18,7 +18,7 @@
 -        Wei Lin / The Mariner
 -        Johan – Ferrane will trade?
 -        Locke – theres a very famous gunsmith in tarsus (s3)
--        Redpan – recipe about alcohol
+-        Redpan – Witchrune? alcohol recipe?
 -        Gianna father going there
 -        CON: Natasha sent those looking for Rake there as a wild goose  chase(s4)
 ## Port Abalash
