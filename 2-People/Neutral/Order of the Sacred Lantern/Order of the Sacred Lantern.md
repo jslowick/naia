@@ -12,6 +12,7 @@ Locations
 - [[St. Hollithorne’s Sanitorium]] at [[Caprona]]
 - [[St. Brigit's Torch]] at [[Torchlight Abbey]] on [[Cloudspire]] 
 - [[St. Brigit's Lantern]] at [[Torchlight Abbey]] on [[Cloudspire]]
-- [[St. Erasmus' Asylum]] at [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus]]
+- [[St. Erasmus' Asylum]] at [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus|Tarsus]]
 - [[St. Nocturne's Hospice]] at [[The Hexwood]]
 
+![[which-design-is-better-v0-3544rt8pr5qf1.webp]]
