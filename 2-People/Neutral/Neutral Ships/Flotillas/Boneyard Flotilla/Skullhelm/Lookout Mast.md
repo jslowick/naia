@@ -1,0 +1,1 @@
+A towering mast cobbled together from the masts of long forgotten ships.  Lookouts man this day and night, watching for Ships, Storms and Monsters.
