@@ -1,0 +1,18 @@
+
+- The wind shifts, you are now in irons. *The Wind Shifts in your favor
+- Stuck in a vortex, requires a come about roll, DC 5 to escape *Darling Stuck*
+- Went through a large patch of kelp, your speed is -1 until removed *Darling hits kelp*
+- You lose a bunch of supplies overboard.  Unless retrieved, take a minor consequence  *Darling loses supplies*
+- Your cannonshot get soaked by a wave, you cannot Fire the Cannons this round *Wave soaks the Darlings cannons*
+- Your main sail lines snap, either take a standard consequence, or you cannot Full Speed Ahead this round or the next. *The main sail lines on the Darling Snap*
+- Your grapple line snaps.*Your Grapple cant be removed without first uncomplicating it*
+- The OTHER SHIP takes a hit, and lists to one side, accidently crashing masts into each other, damaging you both.*You use the wake of the other ships for a burst of speed*
+- There is a small ship fire on You/Animus, it takes 1 stress and will continue to take 1 stress a round until removed. *Darling on Fire*
+- Someone is knocked overboard on the Animus/Your ship *Multiple people go overboard on the Darling*
+- The crew is messing up bad, you must take 2 inspire actions without benefit.  *The crew is really meshing together, you may take 2 of any action this round
+- the grapple will fail end of next round *Your grapple tangled extremely well, gaining a second grapple. *
+- The waves make boarding harder and more dangerous *The waves are bouncing really well, if you can board this turn, no athletics rolls required.
+- Theres an explosion on your ship/Animus *Explosion on the Darling.
+- The Animus begins sinking *The animus stops taking on water and sinking, and is now just adrift
+- a backcurrent hits you, and you are pulled backwards *Hits Darling*
+- You gain 2 temporary stress for the ship, as Janus finds a piece of debris and is using it like a shield *The Darling gains 2 temporary stress*
