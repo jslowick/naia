@@ -5,4 +5,4 @@ tags:
   - mists
   - feature
 ---
-Once you travel father than the edge of the [[1-Sea of Mists|Sea of Mists]], Sailors call that the Deep Mists.  They are completely uncharted, and [[Magical Compass]] barely even works, without access to the stars, it is a dangerous place.  Somehow, the mists can change sailors into [[Mistborne]].  It does not always happen, and the exact causes and how they are affected are unknown.  Related, or separate, the Deep Mists can make sailors go insane, turning on their crew, making strange decisions, or jumping overboard.
+Once you travel father than the edge of the [[1-Sea of Mists|Sea of Mists]], Sailors call that the Deep Mists.  They are completely uncharted, and [[Magical Compass]] barely even works, without access to the stars, it is a dangerous place.  Somehow, the mists can change sailors into [[Mistwalker]].  It does not always happen, and the exact causes and how they are affected are unknown.  Related, or separate, the Deep Mists can make sailors go insane, turning on their crew, making strange decisions, or jumping overboard.
