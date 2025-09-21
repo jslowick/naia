@@ -1,5 +1,12 @@
-#places #island-state  #neutral #storms #west #crescent_bay
-
+---
+tags:
+  - places
+  - west
+  - storms
+  - island-state
+  - neutral
+  - crescent_bay
+---
 Member: [[Neutral]]
 Notes:
 
