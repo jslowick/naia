@@ -9,4 +9,4 @@ tags:
   - riverside
   - building
 ---
-Found in the [[Riverside]] district of [[Edgecoin]] on [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
+Found in the [[Riverside]] district of [[Edgecoin]] on [[The Coin]] in [[Aramath]].
