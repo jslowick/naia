@@ -7,14 +7,14 @@ tags:
 aliases:
   - Eastern Sea of Strife
 ---
-Middle sea, in which half of it is to the east of the [[2-Oshanan Trench]].  Part of the Triangle of the OTC Trade route, connecting The Coral Isles ([[Lanshire Islands]]) to The Primitive Isles ([[Ereth'Yu]]) to the [[Western Wind Isles]]  The other half of the [[4-Sea of Strife (W)]] is on the west side of the Trench.
+Middle sea, in which half of it is to the east of the [[2-Oshanan Trench|Oshanan Trench]].  Part of the Triangle of the [[Ostean Trade Consortium|OTC]] Trade route, connecting The Coral Isles ([[Lanshire]]) to The Primitive Isles ([[Ereth'Yu]]) to the [[Western Wind Isles|Wind Isles]] ([[Windspeakers]]) The other half of the [[4-Sea of Strife (W)|Western Sea of Strife]] is on the west side of the Trench.
 
 Mostly OTC controlled waters
 
-Main Islands
+## Main Islands
 - [[Beaconrock]]
 - [[Caprona]]
 - [[Freeport]]
-- [[Lanshire Islands]]
+- [[Lanshire]]
 - [[The Well (of Lost Hope)]]
 
