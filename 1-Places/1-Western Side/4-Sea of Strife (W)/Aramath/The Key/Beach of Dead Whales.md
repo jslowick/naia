@@ -10,4 +10,4 @@ tags:
 ---
 Still littered with thousands of whale bones.
 
-Found on [[The Key]] on [[Aramath]].
+Found on [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Key/The Key]] on [[Aramath]].
