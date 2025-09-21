@@ -1,5 +1,12 @@
-#places #island-state  #neutral #strife #west #aramath 
-
+---
+tags:
+  - places
+  - island-state
+  - neutral
+  - strife
+  - west
+  - aramath
+---
 Member: [[Neutral]]
 Notes:
 
