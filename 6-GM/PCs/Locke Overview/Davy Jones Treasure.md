@@ -22,14 +22,14 @@ The Purgatory Steps in the Vault
 
 The Devils Tongue in the Many Faces
 
-|                       |                      |                    |
-| --------------------- | -------------------- | ------------------ |
-| Rune of the Drowned   | Rune of Mystery      | Rune of Potential  |
-| Spire of Dead Men     | Spire of the Sphynx  | Spire of Beasts    |
-| Great Cathedral       | Emerald Citadel      | Hall of Mirrors    |
-| Quicksilver           | Molten Starmetal     | Ironwood Sap       |
-| Blood of a Witchborne | Blood of a Mistborne | Blood of a Vampire |
-| Incant                | Incant               | Incant             |
+|                       |                       |                    |
+| --------------------- | --------------------- | ------------------ |
+| Rune of the Drowned   | Rune of Mystery       | Rune of Potential  |
+| Spire of Dead Men     | Spire of the Sphynx   | Spire of Beasts    |
+| Great Cathedral       | Emerald Citadel       | Hall of Mirrors    |
+| Quicksilver           | Molten Starmetal      | Ironwood Sap       |
+| Blood of a Witchborne | Blood of a Mistwalker | Blood of a Vampire |
+| Incant                | Incant                | Incant             |
 
 The Godkiller (gun)
 
