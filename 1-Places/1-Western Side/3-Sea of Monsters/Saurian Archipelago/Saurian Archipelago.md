@@ -1,5 +1,12 @@
-#places #island-state #neutral #monsters #west #saurian_archipelago
-
+---
+tags:
+  - places
+  - west
+  - monsters
+  - island-state
+  - neutral
+  - saurian_archipelago
+---
 Member: [[Neutral]]
 Notes:  Single Pirate-leaning Island, and Single OTC-leaning Island
 
