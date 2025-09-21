@@ -10,16 +10,16 @@ tags:
 Member: [[Neutral]]
 Notes:
 
-Important defensible island chain in the western [[4-Sea of Strife (W)]] that has major fortifications and guarding ships, you must cross near it to get deeper into the Pirate Iles.
+Important defensible island chain in the western [[4-Sea of Strife (W)|Western Sea of Strife]] that has major fortifications and guarding ships, you must cross near it to get deeper into the Pirate Iles.
 
-Surrounding Waters
+## Surrounding Waters
 - [[Blackwater Depths]]
 - [[Crestfall]]
 - [[Hooktide]]
 - [[The Dark Wash]]
 - [[The Missing Eighth]]
 
-Islands
+## Islands
 - [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Coin/The Coin|The Coin]]
 - [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Ox/The Ox|The Ox]]
 - [[The Lock]]
