@@ -1,5 +1,9 @@
-#person #pirate #red_darling 
-
+---
+tags:
+  - person
+  - pirate
+  - red_darling
+---
 [[First Mate]] for [[The Red Darling]]
 
 
