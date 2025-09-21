@@ -1,5 +1,10 @@
-#faction #pirate 
-
+---
+tags:
+  - faction
+  - pirate
+aliases:
+  - Pirate
+---
 The organization of pirates under the Pirate King, [[Winslow Firebeard (Missing)]]
 and the [[Pirate Lords]].
 
