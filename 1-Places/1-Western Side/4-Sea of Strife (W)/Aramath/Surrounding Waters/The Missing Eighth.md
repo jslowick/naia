@@ -1,1 +1,9 @@
-#places #strife #west #aramath #waters #feature
+---
+tags:
+  - "#places"
+  - "#strife"
+  - "#west"
+  - "#aramath"
+  - "#waters"
+  - "#feature"
+---
