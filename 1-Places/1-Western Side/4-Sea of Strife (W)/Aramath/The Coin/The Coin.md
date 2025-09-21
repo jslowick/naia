@@ -1,4 +1,14 @@
-#places #island  #pirate #strife #west #aramath #coin
+---
+tags:
+  - places
+  - island
+  - pirate
+  - strife
+  - west
+  - aramath
+  - coin
+---
+The still [[Pirate Kingdom|Pirate]] controlled island of [[Aramath]].
 
 Inhabited
 - [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Coin/Edgecoin/Edgecoin|Edgecoin]] (Town)
