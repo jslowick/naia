@@ -1,3 +1,10 @@
-#places #west #strife  #aramath #coin #feature
-
-Found in [[Many-Faced Caves]] on [[2-People/Neutral/Amarath/The Coin/The Coin|The Coin]] in [[Aramath]].
+---
+tags:
+  - places
+  - west
+  - strife
+  - aramath
+  - coin
+  - feature
+---
+Found in [[Many-Faced Caves]] on [[Characters at The Coin|Characters at The Coin]] in [[Aramath]].
