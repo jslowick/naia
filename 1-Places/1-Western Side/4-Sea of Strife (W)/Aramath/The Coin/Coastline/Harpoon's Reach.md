@@ -8,4 +8,4 @@ tags:
   - village
   - shoreline
 ---
-Found on the coastline of [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
+Found on the coastline of [[The Coin]] in [[Aramath]].
