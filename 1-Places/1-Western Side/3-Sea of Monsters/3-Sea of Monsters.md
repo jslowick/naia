@@ -1,5 +1,12 @@
-#places #sea #west #monsters
-
+---
+tags:
+  - places
+  - sea
+  - west
+  - monsters
+aliases:
+  - Sea of Monsters
+---
 Lowest southwest sea, larger and more prevalent [[3-Monsters|Sea Monsters]] live there, especially past [[Ereth'Yu]].  Monsters seem to leave the [[Ren'Yu]]'s smaller ships alone, but attack [[Pirate Kingdom|Pirates]] and [[Ostean Trade Consortium|OTC]] alike.
 
 Main Islands
