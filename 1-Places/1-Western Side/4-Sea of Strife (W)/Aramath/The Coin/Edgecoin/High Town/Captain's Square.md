@@ -9,6 +9,6 @@ tags:
   - high_town
   - feature
 ---
-Found in [[High Town]] in [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Coin/Edgecoin/Edgecoin|Edgecoin]] on [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
+Found in [[High Town]] in [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Coin/Edgecoin/Edgecoin|Edgecoin]] on [[The Coin]] in [[Aramath]].
 
 Statue of [[Alphonse Epperson]], the [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Coin/Edgecoin/Edgecoin|Edgecoin]] founder, and who organized digging out the lagoon.
