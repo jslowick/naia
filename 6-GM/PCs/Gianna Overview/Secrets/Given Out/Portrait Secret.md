@@ -1,0 +1,3 @@
+Given [[2.1 - To the Animus]]
+
+The Artist is a famous soothsayer and painter Maris Eyrell, often called “The Sea’s Eye” and this painting was commissioned by Winslow Firebeard.  This was her 7th painting, and soon after this painting was finished, she disappeared.  It could be very valuable to a collector but also could be revealing more secrets in the wrong hands.  Her first painting depicted Ophelia being burned at the stake, which brought her to fame when it happened.
