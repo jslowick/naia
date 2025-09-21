@@ -7,4 +7,4 @@ tags:
   - coin
   - feature
 ---
-Found on [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
+Found on [[The Coin]] in [[Aramath]].
