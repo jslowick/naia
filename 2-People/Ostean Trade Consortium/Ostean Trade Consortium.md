@@ -5,17 +5,16 @@ tags:
 aliases:
   - OTC
 ---
+Formed After [[The Great War]], the Ostean Trade Consortium, or OTC for short, is an alliance of Lanshire, Windspeakers, and other small Neutral Island-states for mutual defense and trade.
 
-Formed After [[The Great War]], the Ostean Trade Consortium, or OTC for short, is an alliance of Lanshire, Winderspeakers, and other small Neutral Island-states for mutual defense and trade.
-
-Noteable People
-- [[Characters at Lanshire]]
+## Notable Factions
+- [[Characters at Lanshire|Lanshire]]
 - [[Lanshire Ships]]
 - [[Windspeakers]]
 - [[Windspeaker Ships]]
 
-Islands
-- [[Lanshire Islands]]
+## Islands
+- [[Lanshire]]
 - [[Eastern Wind Isles]]
 - [[Temple of the Four Winds]]
 - [[Western Wind Isles]]
