@@ -1,13 +1,20 @@
-#faction #neutral #order_lantern
-
+---
+tags:
+  - faction
+  - neutral
+  - order_lantern
+aliases:
+  - The Lantern
+image: p_lantern.webp
+---
 Neutral, Non-violent order of Doctors and Nurses.  Begun long ago, but gained a lot of notice in [[The Great War]] when they would come and treat both sides after battles.  Closest thing Naia has to a religion, they recognize important historical figures as saints.
 
-Ships
+## Notable Ships
 - [[The Grim Mercy]]
 - [[The All Souls]]
 - [[The Caduceus]]
 
-Locations
+## Notable Locations
 - [[St. Augustine's Infirmary]] at [[Port Abalash]]
 - [[St. Hollithorne’s Sanitorium]] at [[Caprona]]
 - [[St. Brigit's Torch]] at [[Torchlight Abbey]] on [[Cloudspire]] 
@@ -15,4 +22,4 @@ Locations
 - [[St. Erasmus' Asylum]] at [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus|Tarsus]]
 - [[St. Nocturne's Hospice]] at [[The Hexwood]]
 
-![[which-design-is-better-v0-3544rt8pr5qf1.webp]]
+![[p_lantern.webp]]
