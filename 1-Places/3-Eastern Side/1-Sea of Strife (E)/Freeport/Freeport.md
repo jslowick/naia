@@ -1,5 +1,12 @@
-#places #island-state #neutral #strife #east #freeport
-
+---
+tags:
+  - places
+  - east
+  - strife
+  - island-state
+  - neutral
+  - freeport
+---
 Member: [[Neutral]]
 Notes: Unsegregated
 
