@@ -1,13 +1,19 @@
-#faction #witch #pirate 
-
+---
+tags:
+  - faction
+  - witch
+  - pirate
+aliases:
+  - Witch
+---
 Only those with [[Witchborne]] blood can truly learn the art of Witchcraft.
 
-Notable Witches
+## Notable Witches
 - [[Lysandra, The White Witch]]
 - [[Ophelia (Dead)]]
 - [[The Witch Sisters]]
-- [[2-People/Pirate Kingdom/Witches/Mother of Worms]]
+- [[Mother of Worms]]
 
-Neutral/Unaligned
+## Neutral/Unaligned
 - [[Anastasia Veron]]
 - [[Lilith, The Allmother]]
