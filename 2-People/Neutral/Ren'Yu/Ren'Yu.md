@@ -3,4 +3,4 @@ A race of blue skinned, or blotchy or blue tattooed skin, with pointy or fin lik
 
 Slur: “U’s”
 
-  [[Corites]], [[Merfolk]], and other [[3-Monsters|Sea Monsters]] seem to leave them alone, thus they are desired and captured as slaves, brought to [[Characters at Lanshire]] to harvest the coral there, which is sold to the [[Windspeakers]].
+  [[Corites]], [[Merfolk]], and other [[3-Monsters|Sea Monsters]] seem to leave them alone, thus they are desired and captured as slaves, brought to [[Lanshire]] to harvest the coral there, which is sold to the [[Windspeakers]].
