@@ -1,5 +1,12 @@
-#places #island-state #neutral #night #east #black_sand_beach 
-
+---
+tags:
+  - places
+  - east
+  - night
+  - island-state
+  - neutral
+  - black_sand_beach
+---
 Member: [[Neutral]]
 Notes: No large Human settlements
 
