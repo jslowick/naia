@@ -1,5 +1,12 @@
-#places #island-state #neutral #strife #west #colossus 
-
+---
+tags:
+  - places
+  - west
+  - strife
+  - island-state
+  - neutral
+  - colossus
+---
 Member: [[Neutral]]
 Notes: No large Human settlements
 
