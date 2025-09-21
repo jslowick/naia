@@ -1,1 +1,10 @@
-#places #strife #west #reyka #reykaest #feature #building #mythical
+---
+tags:
+  - places
+  - west
+  - strife
+  - reyka
+  - reykaest
+  - building
+  - mythical
+---
