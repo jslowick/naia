@@ -1,5 +1,13 @@
-#places #island-state #otc #windspeaker #glass #east #wind_isles  
-
+---
+tags:
+  - places
+  - east
+  - glass
+  - island-state
+  - otc
+  - windspeaker
+  - wind_isles
+---
 Member: [[Ostean Trade Consortium]]
 Notes:  Spans both side of the [[2-Oshanan Trench|Trench]] with [[Western Wind Isles]]
 
