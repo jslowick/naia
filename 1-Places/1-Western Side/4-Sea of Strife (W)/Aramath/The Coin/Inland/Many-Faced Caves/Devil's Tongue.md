@@ -7,4 +7,4 @@ tags:
   - coin
   - feature
 ---
-Found in [[Many-Faced Caves]] on [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
+Found in [[Many-Faced Caves]] on [[The Coin]] in [[Aramath]].
