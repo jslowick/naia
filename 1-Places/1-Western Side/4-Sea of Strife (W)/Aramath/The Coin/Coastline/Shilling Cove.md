@@ -8,4 +8,4 @@ tags:
   - feature
   - shoreline
 ---
-Found on the coastline of [[Characters at The Coin|Characters at The Coin]] in [[Aramath]].
+Found on the coastline of [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
