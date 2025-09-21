@@ -11,4 +11,4 @@ tags:
 ---
 Found in [[New Oxmouth]] on [[The Ox]] in [[Aramath]].
 
-Middle West, East of Guild Quarter, West of Captains and Vice Quarters.
+Located east of [[Guild Quarter]], west of [[Captain's Quarter|Captain's]] and [[Vice Quarter]].
