@@ -7,7 +7,7 @@ tags:
 aliases:
   - Sea of Mists
 ---
-Upper northwest sea, constantly cloudy and misty, the deeper you go, the mist gets to the point you can’t see your feet.  Generally, the only explored or inhabited islands are on the edges of the sea, anything further in is called the [[Deep Mist]].  The Deep Mist can [[Mistborne|change]] people or even make them go mad.  
+Upper northwest sea, constantly cloudy and misty, the deeper you go, the mist gets to the point you can’t see your feet.  Generally, the only explored or inhabited islands are on the edges of the sea, anything further in is called the [[Deep Mist]].  The Deep Mist can [[Mistwalker|change]] people or even make them go mad.  
 
 ## Main Islands
 - [[Deephaven]]
