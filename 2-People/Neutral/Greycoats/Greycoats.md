@@ -1,6 +1,15 @@
-#neutral #faction #greycoat 
-New [[Neutral]] faction.  They dislike Pirates, but also dislike OTC.  Led by an ex-pirate [[Merrick the Grey]], they have made an alliance with [[Lysandra, The White Witch]] for partial control of [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]].
+---
+tags:
+  - faction
+  - neutral
+  - greycoat
+aliases:
+  - Greycoat
+---
+New [[Neutral]] faction.  They dislike Pirates, but also dislike [[Ostean Trade Consortium|OTC]].  Led by an ex-pirate [[Merrick the Grey]], they have made an alliance with [[Lysandra, The White Witch]] for partial control of [[Aramath]].
 
 Notable Members
 - [[Wormeye]]
 - [[Merrick the Grey]]
+- [[Dwight Gedric]]
+- [[Magistrate Reginald Hayworth]]
