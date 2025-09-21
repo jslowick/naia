@@ -1,1 +1,54 @@
-#places #island #storms #west #tarsus #tarsus_major 
+---
+tags:
+  - places
+  - west
+  - storms
+  - tarsus
+  - island
+  - neutral
+  - tarsus_major
+---
+## Inhabited Places
+- [[Tarrencia]]
+## Noteable Features
+- [[Broken Crags]]
+- [[Emberfume Mountains]]
+- [[Skyreach Mountains]]
+- [[Shatterdocks]]
+- [[Stonepeak Mountains]]
+- [[Obsidian Ruins]]
+- [[Saltway]]
+- [[Gullscreech Jetty]]
+- [[Hollow Crags]]
+- [[Shadowfume Mountains]]
+- [[Stormwatch Towers]]
+## Western Coastline Features
+- [[Tide's Remnant]]
+- [[Smoldering Coast]]
+- [[The Deep Nook]]
+- [[Falseway]]
+- [[Snarewater Channel]]
+- [[Mirror Cove]]
+- [[Kelp Inlet]]
+- [[Driftflower Cove]]
+- [[Bloodclaw Inlet]]
+- [[Shifting Channel]]
+- [[Blackrock Bay]]
+- [[The Glass Reef]]
+- [[The Moorings]]
+## Eastern Coastline Features
+- [[Sapphire Shoals]]
+- [[Tumblestone Beach]]
+- [[Gemshore]]
+- [[Twisting Bay]]
+- [[Shipwreck - Tyrant's Fall]]
+- [[Spitpoint]]
+- [[Jeweled Cove]]
+- [[The Cerulean Eye]]
+-  [[Gloomstrand]]
+- [[Sparkling Inlet]]
+- [[Shipwreck - The Extinguished Lantern]]
+- [[Bay of Lost Ships]]
+- [[Cloudcrash Cove]]
+- [[The Sunken Steps]]
+- 
