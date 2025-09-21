@@ -1,3 +1,10 @@
-#places #west #strife  #aramath #coin #building 
-
-Found on [[2-People/Neutral/Amarath/The Coin/The Coin|The Coin]] in [[Aramath]].
+---
+tags:
+  - places
+  - west
+  - strife
+  - aramath
+  - coin
+  - building
+---
+Found on [[Characters at The Coin|Characters at The Coin]] in [[Aramath]].
