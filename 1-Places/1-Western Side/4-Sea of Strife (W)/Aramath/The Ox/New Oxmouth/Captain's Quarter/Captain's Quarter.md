@@ -15,7 +15,7 @@ Northeast, North of Vice Quarter, East of Warehouse Quarter
 
 ## Notable Places
 - [[Anchorhead]]
-- [[Ivory Quart]]
+- [[Ivory Court]]
 - [[Oxenhall]]
 - [[Starleaf Avenue]]
 - [[Sylvia's Threads]]
