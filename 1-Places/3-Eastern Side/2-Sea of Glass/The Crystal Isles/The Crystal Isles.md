@@ -1,5 +1,12 @@
-#places #island-state #neutral #glass #east #crystal_isles  
-
+---
+tags:
+  - places
+  - east
+  - glass
+  - island-state
+  - neutral
+  - crystal_isles
+---
 Member: [[Neutral]]
 Notes: Different Islands with different leanings
 
