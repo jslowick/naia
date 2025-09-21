@@ -1,3 +1,10 @@
-#person #pirate #ashanders_folly #soothsayer #mistborne 
+---
+tags:
+  - person
+  - pirate
+  - ashanders_folly
+  - soothsayer
+  - mistwalker
+---
 
 ![[p_vermissa.png]]
