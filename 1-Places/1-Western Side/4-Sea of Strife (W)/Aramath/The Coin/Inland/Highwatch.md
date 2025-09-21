@@ -7,4 +7,4 @@ tags:
   - coin
   - building
 ---
-Found on [[Characters at The Coin|Characters at The Coin]] in [[Aramath]].
+Found on [[2-People/Neutral/Characters at Amarath/Characters at The Coin/The Coin]] in [[Aramath]].
