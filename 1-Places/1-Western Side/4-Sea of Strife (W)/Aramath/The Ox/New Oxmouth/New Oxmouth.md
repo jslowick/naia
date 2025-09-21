@@ -1,1 +1,21 @@
-#places #strife #west #neutral #aramath #ox #town #new_oxmouth 
+---
+tags:
+  - places
+  - west
+  - strife
+  - aramath
+  - ox
+  - town
+  - new_oxmouth
+---
+Main town on [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Ox/The Ox|The Ox]] in [[Aramath]].
+
+## Districts
+- [[Captain's Quarter]]
+- [[Guild Quarter]]
+- [[Vice Quarter]]
+- [[Warehouse Quarter]]
+
+## Other Locations
+- [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Ox/New Oxmouth/Outskirts/Outskirts|Outskirts]]
+- [[Oxeye Lagoon]]
