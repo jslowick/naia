@@ -1,2 +1,0 @@
-#places #island #neutral #monsters #west #smoke_island #isla_scorpo
-
