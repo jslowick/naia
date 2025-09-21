@@ -1,1 +1,1 @@
-Horrible crablike [[Grimshells]] that live in/around Coral.  They tend to leave the [[Ren'Yu]] alone, which is why [[Characters at Lanshire]] uses Ren’Yu as slaves to harvest coral.  Heavily armored, their carapace can even block some guns.
+Horrible crablike [[Grimshells]] that live in/around Coral.  They tend to leave the [[Ren'Yu]] alone, which is why [[Lanshire]] uses Ren’Yu as slaves to harvest coral.  Heavily armored, their carapace can even block some guns.
