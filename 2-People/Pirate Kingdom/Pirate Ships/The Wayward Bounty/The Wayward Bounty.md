@@ -35,7 +35,7 @@ Prisoners
 	- [[Buttercup]] - [[Princess Sonya Tiverton|Sonya]]'s cat
 
 Dead/MIA
-- [[The Dursten Twins (Missing)|Dursten Twins]], Last seen on [[WSS Aurora (Missing)]]]
+- [[Dursten Twins (Missing)|Dursten Twins]], Last seen on [[WSS Aurora (Missing)]]]
 - [[Wallace 'Wally' Bancroft (Missing)]] Ship’s Helmsmyn (got pushed overboard)
 - [[Victor 'The Mad' Maddington (Missing)]] - Marooned on The Well
 - [[Servio Salazar (Dead)]] – Ship’s Cannoneer: Killed by the Cook(Ryan)
