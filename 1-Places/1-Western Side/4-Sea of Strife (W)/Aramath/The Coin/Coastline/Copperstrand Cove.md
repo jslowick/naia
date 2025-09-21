@@ -1,3 +1,14 @@
-#places #west #strife  #aramath #coin #feature #shoreline 
+---
+tags:
+  - places
+  - west
+  - strife
+  - aramath
+  - coin
+  - feature
+  - shoreline
+---
+Found on the coastline of [[Characters at The Coin|Characters at The Coin]] in [[Aramath]].
 
-Found on the coastline of [[2-People/Neutral/Amarath/The Coin/The Coin|The Coin]] in [[Aramath]].
+
+I am from [[Oyster Cove]]
