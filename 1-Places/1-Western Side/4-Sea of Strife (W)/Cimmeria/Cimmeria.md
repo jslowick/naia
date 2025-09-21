@@ -1,5 +1,12 @@
-#places #island-state  #pirate #strife #west #cimmeria 
-
+---
+tags:
+  - places
+  - west
+  - strife
+  - island-state
+  - pirate
+  - cimmeria
+---
 Member: [[Pirate Kingdom]]
 Notes:
 
