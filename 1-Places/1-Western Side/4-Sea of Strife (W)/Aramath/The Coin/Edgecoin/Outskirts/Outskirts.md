@@ -11,5 +11,5 @@ tags:
 ---
 Notable Places
 - [[Greenhook]]
-- [[Sawline Wall]]
+- [[The Sawline]]
 - [[Shipwreck - The Fallen Angel]]
