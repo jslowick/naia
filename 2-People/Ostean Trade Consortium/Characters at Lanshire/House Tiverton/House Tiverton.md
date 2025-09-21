@@ -1,4 +1,4 @@
-#faction #otc #lanshire #tiverton Powerful Noble Family in charge of the government and towns of [[Characters at Lanshire]].
+#faction #otc #lanshire #tiverton Powerful Noble Family in charge of the government and towns of [[Lanshire]].
 
 Notable Members
 - [[High King Charlemain Tiverton]]
