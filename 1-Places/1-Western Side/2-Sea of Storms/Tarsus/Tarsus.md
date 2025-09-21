@@ -1,5 +1,12 @@
-#places #island-state #neutral #storms #west #tarsus 
-
+---
+tags:
+  - places
+  - west
+  - storms
+  - island-state
+  - neutral
+  - tarsus
+---
 Member: [[Neutral]]
 Notes: Anti-Pirate
 
@@ -8,3 +15,29 @@ Located deep in the [[2-Sea of Storms|Sea of Storms]], a cluster of Calderas and
 Extremely difficult to navigate, between the Storms, clouds, underwater volcanos, reefs, and ruins.  No compasses, not even [[Magical Compass]] work there, they tend to to just spin slowly.  Sailors swear the Island rotates, and many a ship has left port to return to the [[4-Sea of Strife (W)|Western Sea of Strife]] and said to accidently head in the opposite direction.
 
 By necessity, and lack of landmass, they have developed saltwater farming techniques that work in their Atolls. Tarsian Wine & Spirits is highly sought after in [[Lanshire]] and beyond, and thus [[Ostean Trade Consortium|OTC]] Merchants make the dangerous trek here.
+
+## Atolls
+- [[Atoll Coralium]]
+- [[Atoll Ruina]]
+- [[Atoll Volcanus]]
+## Interior Waters
+- [[Sapphire Bay]]
+- [[Twisting Bay]]
+- [[Bay of Lost Ships]]
+- [[Cobalt Bay]]
+- [[Azurite Sound]]
+- [[Lapis Sound]]
+- [[Turquoise Sound]]
+- [[Mariner's Hold]]
+## Surrounding Waters
+- [[Safecurrent]]
+- [[The Churn]]
+- [[The Jagged Expanse]]
+- [[The Smother]]
+- [[The Sorrowing Coil]]
+- [[The Spiral]]
+## Islands
+- [[Tarsus Major]]
+- [[Tarsus Minor]]
+- [[St. Erasmus' Asylum]]
+
