@@ -1,8 +1,16 @@
-#places #island  #neutral #strife #west #reyka #reykaest
+---
+tags:
+  - places
+  - west
+  - strife
+  - reyka
+  - neutral
+  - reykaest
+  - haunted
+---
+The [[Reyka]] Isle closest to [[The Beast]], said to be [[Haunted]].  Site of a major accident where [[Winslow Firebeard (Missing)|Firebeard]] lost a lot of his crew.  The Riptides and dangerous currents cause many a shipwreck here.
 
-The [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]] Isle closest to [[The Beast]], said to be haunted.  Site of a major accident where [[Winslow Firebeard (Missing)|Firebeard]] lost a lot of his crew.  The Riptides and dangerous currents cause many a shipwreck here.
-
-Noteable Features
+## Notable Features
 - [[Grimfrost Knoll]]
 - [[Mistpoint]]
 - [[Southern Ruins]]
@@ -12,7 +20,7 @@ Noteable Features
 - [[Undertow Caves]]
 - [[Widow's Watch]]
 
-Coastline Features
+## Coastline Features
 - [[Ald Cove]]
 - [[Shipwreck Cove]]
 - [[Spinetooth Beach]]
