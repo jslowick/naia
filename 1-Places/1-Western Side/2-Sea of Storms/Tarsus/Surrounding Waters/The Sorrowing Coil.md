@@ -1,1 +1,8 @@
-#places #storms #west #tarsus #waters
+---
+tags:
+  - places
+  - west
+  - storms
+  - tarsus
+  - waters
+---
