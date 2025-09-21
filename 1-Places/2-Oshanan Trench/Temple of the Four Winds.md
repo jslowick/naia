@@ -1,5 +1,11 @@
-#places #trench #otc #windspeaker  #town 
-
+---
+tags:
+  - places
+  - trench
+  - otc
+  - windspeaker
+  - town
+---
 Member: [[Ostean Trade Consortium]]
 Notes:  Capital
 
