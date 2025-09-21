@@ -1,5 +1,12 @@
-#places #island-state  #neutral #strife #west #port_abalash 
-
+---
+tags:
+  - places
+  - west
+  - strife
+  - island-state
+  - neutral
+  - port_abalash
+---
 Member: [[Neutral]]
 Notes:  Pirate Leaning
 
