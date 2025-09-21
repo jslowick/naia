@@ -1,5 +1,12 @@
-#places #sea #east #endless
-
+---
+tags:
+  - places
+  - sea
+  - east
+  - endless
+aliases:
+  - Endless Sea
+---
 East most of the map, islands get more and more sparse until they disappear and it becomes sea “Endlessly”.  No one that’s tried to make it across it has come back.
 
 Main Islands
