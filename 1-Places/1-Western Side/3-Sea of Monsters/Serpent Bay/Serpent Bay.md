@@ -1,5 +1,12 @@
-#places #island-state #neutral #monsters #west #serpent_bay
-
+---
+tags:
+  - places
+  - west
+  - monsters
+  - island-state
+  - neutral
+  - serpent_bay
+---
 Member: [[Neutral]], No large settlements
 Notes: No large Human settlements
 
