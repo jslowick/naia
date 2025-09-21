@@ -1,1 +1,0 @@
-#places #storms #west #tarsus #atoll_ruina #building 
