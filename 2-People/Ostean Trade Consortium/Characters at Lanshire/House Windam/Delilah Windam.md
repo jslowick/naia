@@ -1,0 +1,4 @@
+#person #otc #lanshire #windam 
+Delilah rose to prominence in [[House Windam]] after great tragedy.  Her two sons, [[Lander Windam (Dead)|Lander]] and [[Zale Windam (Dead)|Zale]] were both killed at Sea serving the [[Ostean Trade Consortium]] Navy, and her grandchildren disappeared were never seen again.  She rules the Coral Mines with a “Laced Gauntlet” and is responsible for the great amount of wealth and industry in the past decade.
+
+![[Delilah.jpg]]
