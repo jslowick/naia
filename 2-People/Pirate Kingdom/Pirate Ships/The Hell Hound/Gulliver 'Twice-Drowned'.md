@@ -7,4 +7,4 @@ tags:
 ---
 [[Soothsayer]] to [[The Hell Hound]]
 
-![[Gulliver Twice Drowned.png]]
+![[p_Gulliver Twice Drowned.png]]
