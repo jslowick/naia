@@ -2,4 +2,4 @@
 
 [[Greycoats]] Soothsayer, currently prisoner and being tortured on [[The Animus]].
 
-![[Wormeye.png]]
+![[p_Wormeye.png]]
