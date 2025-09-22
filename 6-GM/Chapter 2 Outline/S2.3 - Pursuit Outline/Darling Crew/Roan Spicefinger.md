@@ -7,4 +7,4 @@ tags:
 [[Cook]] for [[The Red Darling]]
 
 
-![[Marlow 'Spicefinger'.jpg]]
+![[p_Spicefinger.jpg]]
