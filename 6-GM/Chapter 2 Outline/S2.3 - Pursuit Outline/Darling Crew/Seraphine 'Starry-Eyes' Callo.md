@@ -6,4 +6,4 @@ tags:
 ---
 [[Navigator]] for [[The Red Darling]]
 
-![[Seraphine 'Starry Eyed' Callo.jpg]]
+![[p_Seraphine 'Starry Eyed' Callo.jpg]]
