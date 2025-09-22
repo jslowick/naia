@@ -6,4 +6,4 @@ One of the few [[Ren'Yu]] taken an interest in piracy, was promoted to [[First M
 
 He primarily goes after Slavers.
 
-![[chaska.jpg]]
+![[p_chaska.jpg]]
