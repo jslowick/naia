@@ -3,4 +3,4 @@ Uncle of [[Joseph 'Blackjack' Varchek|Blackjack]], is responsible for [[The Hang
 
 Currently retired, he lets his son, [[Lord Corwin Varchek II]] carry on the family business.
 
-![[corwin sr.png]]
+![[p_corwin sr.png]]
