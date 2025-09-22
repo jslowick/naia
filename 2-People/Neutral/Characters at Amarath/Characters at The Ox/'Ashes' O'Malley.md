@@ -4,4 +4,4 @@
 
 Bodyguard: [[Brace the Mace]]
 
-![['Ashes' O'Malley.jpg]]
+![[p_ashesomalley.jpg]]
