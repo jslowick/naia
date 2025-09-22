@@ -1,3 +1,3 @@
 #person #neutral #vampire #animus 
 
-![[Primrose with Mask.png]]
+![[p_Primrose with Mask.png]]
