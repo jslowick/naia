@@ -8,4 +8,4 @@ image: adam west.png
 resides: "[[The Grand Docks]]"
 ---
 
-![[adam west.png]]
+![[p_adamwest.png]]
