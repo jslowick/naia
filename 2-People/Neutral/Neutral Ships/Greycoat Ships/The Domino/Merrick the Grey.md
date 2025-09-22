@@ -3,4 +3,4 @@ Leader of the [[Greycoats]].  Merrick was marooned on [[1-Places/1-Western Side/
 
 Captain of [[The Domino]].
 
-![[Merrick the Grey.jpg]]
+![[p_Merrick the Grey.jpg]]
