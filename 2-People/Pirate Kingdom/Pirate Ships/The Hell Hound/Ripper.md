@@ -6,4 +6,4 @@ tags:
 ---
 [[First Mate]] of the [[The Hell Hound]]
 
-![[Ripper.jpg]]
+![[p_Ripper.jpg]]
