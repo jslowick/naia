@@ -16,13 +16,13 @@ tags: [excalidraw]
 
 A ^4Kdz6EAc
 
-[[Wormeye.png]] ^2JKRQ6Vo
+[[p_Wormeye.png]] ^2JKRQ6Vo
 
 ## Element Links
 QVs56bwu: [[lord masque]]
 
 ## Embedded Files
-bce50fe2179d058fdb048b0743595ce48c9695ff: [[Edgecoin.png]]
+bce50fe2179d058fdb048b0743595ce48c9695ff: [[p_Edgecoin.png]]
 
 %%
 ## Drawing
