@@ -1,4 +1,4 @@
 #person #pirate #aramath #ox
 
 
-![[Shakes Murphy.jpg]]
+![[p_Shakes Murphy.jpg]]
