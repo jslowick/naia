@@ -6,4 +6,4 @@ tags:
 ---
 [[Cannoneer]] for [[The Red Darling]]
 
-![[Hans 'Thunderhands' Rurrik.avif]]
+![[p_Hans 'Thunderhands' Rurrik.avif]]
