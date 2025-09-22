@@ -6,4 +6,4 @@ tags:
 ---
 [[Cannoneer]] to [[The Hell Hound]]
 
-![[Cinder Tom.jpg]]
+![[p_Cinder Tom.jpg]]
