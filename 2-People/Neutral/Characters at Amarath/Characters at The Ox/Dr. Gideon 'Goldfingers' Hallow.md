@@ -1,4 +1,4 @@
 #person #neutral #aramath #ox
 
 
-![[Gideon.jpg]]
+![[p_Gideon.jpg]]
