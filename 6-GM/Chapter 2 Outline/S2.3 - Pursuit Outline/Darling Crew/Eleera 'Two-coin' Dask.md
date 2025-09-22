@@ -6,4 +6,4 @@ tags:
 ---
 [[Quartermaster]] for [[The Red Darling]]
 
-![[Eleera 'Two-Coin' Dask.jpg]]
+![[p_Eleera 'Two-Coin' Dask.jpg]]
