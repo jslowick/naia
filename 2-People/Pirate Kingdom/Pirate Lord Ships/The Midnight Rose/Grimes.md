@@ -2,4 +2,4 @@
 
 Valet for [[Nikolai von Drakk]]
 
-![[Grimes.png]]
+![[p_Grimes.png]]
