@@ -7,4 +7,4 @@ It was revealed in [[2.1 - To the Animus]] that Sonya actually had fled [[Lanshi
 
 Owns a purebread persian cat named [[Buttercup]].
 
-![[Sonia Tiverton.webp]]
+![[p_Sonia Tiverton.webp]]
