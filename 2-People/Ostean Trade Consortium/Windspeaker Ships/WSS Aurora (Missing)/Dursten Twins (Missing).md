@@ -2,4 +2,4 @@
 
 [[Sailor]]s of [[The Wayward Bounty]], left on [[WSS Aurora (Missing)]], while it was being towed.  When the towline snapped, they along with the rest of the crew, are missing, presumed Dead.
 
-![[dursten_twins.avif]]
+![[p_dursten_twins.avif]]
