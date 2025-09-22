@@ -13,3 +13,4 @@ Mistwalker - Gain +1 Physical Stress
 Ren'Yu - 1/chapter You can take your crew underwater for a short time.
 Haunted - Gain a ghostly ally
 Special - Varies
+![[i_blackcoralring.webp]]
