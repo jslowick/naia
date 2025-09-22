@@ -15,4 +15,4 @@ Strange and reclusive Flotilla that is distrustful of outsiders.  They generally
 [[The Scars]]
 [[Bellyhold]]
 
-![[The Boneyard.webp]]
+![[s_Boneyard.webp]]
