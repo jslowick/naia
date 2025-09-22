@@ -1,3 +1,3 @@
 #person #pirate #wayward_bounty 
 
-![[Veronica.jpg]]
+![[p_Veronica.jpg]]
