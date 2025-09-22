@@ -2,4 +2,4 @@
 
 Pushed overboard by [[Gianna Zarina Celeste Roisin]] during [[The Mutiny]].
 
-![[wally.jpg]]
+![[p_wally.jpg]]
