@@ -2,4 +2,4 @@
 
 AKA Nicholas Beaumont
 
-![[Nicky 'Nine-Lives' Beaumont.jpg]]
+![[p_Nicky 'Nine-Lives' Beaumont.jpg]]
