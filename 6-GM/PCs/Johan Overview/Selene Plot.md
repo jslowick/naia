@@ -10,4 +10,4 @@ Leaving the mists, the storm wrecks her on Reyka
 
 She fights andromeda for her item, but is weak afterwards and Greycoats capture her.
 
-[[Primrose Box.png]]
+[[i_Primrose Box.png]]
