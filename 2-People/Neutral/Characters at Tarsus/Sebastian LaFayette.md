@@ -1,3 +1,3 @@
 #person #neutral #tarsus
 
-![[Sebastian.jpg]]
+![[p_Sebastian.jpg]]
