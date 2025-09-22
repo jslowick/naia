@@ -4,4 +4,4 @@ This affects your Crew Action any time you use Full Speed Ahead!
 Wind can die down, or change direction due to many factors.
 
 
-![[Wind Diagram.png]]
+![[misc_Wind Diagram.png]]
