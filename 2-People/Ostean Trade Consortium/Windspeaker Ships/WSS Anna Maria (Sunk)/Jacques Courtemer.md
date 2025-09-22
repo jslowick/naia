@@ -3,4 +3,4 @@ Body man to [[Zephyrix Penelope 'Penny' of the North Wind]].  Has pledged his li
 
 In [[2.2 - Negotiations]] he may be transferred to [[The Animus]].
 
-![[Jaques.jpg]]
+![[p_Jaques.jpg]]
