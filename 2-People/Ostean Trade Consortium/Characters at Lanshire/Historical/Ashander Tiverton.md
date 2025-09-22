@@ -12,4 +12,4 @@ Was the [[House Tiverton]] Leader of [[Lanshire]] and his capture and burning of
 
 Ashander abdicated the throne in disgrace at the end of the War, leaving rise to his nephew, [[High King Charlemain Tiverton|Charlemain]].  He died shortly afterwards, not ever seeing the rise of the [[Ostean Trade Consortium]].
 
-![[Ashander.jpg]]
+![[p_Ashander.jpg]]
