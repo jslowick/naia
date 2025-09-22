@@ -3,4 +3,4 @@
 
 Son of [[Maris Eyerell 'The Sea's Eye']]'
 
-![[Seris 'Snake Eyes' Eyrell.jpg]]
+![[p_Seris 'Snake Eyes' Eyrell.jpg]]
