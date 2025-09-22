@@ -1,2 +1,2 @@
 
-![[astra.png]]
+![[pet_astra.png]]
