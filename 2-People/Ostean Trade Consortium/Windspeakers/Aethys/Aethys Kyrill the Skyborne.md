@@ -2,4 +2,4 @@
 
 While Kyrill is a young teen, 13, he has been betrothed to [[Princess Sonya Tiverton]].
 
-![[kyrill.png]]
+![[p_kyrill.png]]
