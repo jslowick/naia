@@ -9,4 +9,4 @@ Red sailed ship, seen near [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/R
 [[Roan Spicefinger]] ([[Cook]])
 [[Pietra Longknife]] ([[First Mate]])
 
-![[The Red Darling.png]]
+![[s_The Red Darling.png]]
