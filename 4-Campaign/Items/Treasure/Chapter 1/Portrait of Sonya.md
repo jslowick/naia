@@ -2,5 +2,5 @@ Painted by the famous [[Soothsayer]] artist [[Maris Eyerell 'The Sea's Eye']] an
 
 
 
-![[Sonia Portrait.png]]
+![[i_Sonia Portrait.png]]
 
