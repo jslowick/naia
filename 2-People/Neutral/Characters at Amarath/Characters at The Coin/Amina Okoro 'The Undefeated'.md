@@ -1,5 +1,5 @@
 ---
-building: "[[Serpent's End]]"
+resides: "[[Hawke Manse]]"
 image: Amina Okoro.jpg
 tags:
   - "#person"
