@@ -3,4 +3,4 @@ Former captain of the [[WSS Anna Maria (Sunk)]].  Currently a prisoner and hosta
 
 In [[2.2 - Negotiations]] she may be transferred to [[The Animus]].
 
-![[Penny.jpg]]
+![[p_Penny.jpg]]
