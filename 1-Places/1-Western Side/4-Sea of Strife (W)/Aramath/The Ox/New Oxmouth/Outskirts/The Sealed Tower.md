@@ -8,6 +8,7 @@ tags:
   - new_oxmouth
   - outskirts
   - building
+  - haunted
 ---
 Found on the [[Outskirts]] of [[New Oxmouth]] on [[The Ox]].
 
