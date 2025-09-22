@@ -13,4 +13,4 @@ The bow counts as a weapon in melee combat.
 1/session, Roll to play the Fiddle, and attempt to influence a person, place or thing, if this is done in combat may take multiple rounds, but can still act while playing - [[Unreliable Fiddle]]
 
 
-![[Hellstring.png]]
+![[p_Hellstring.png]]
