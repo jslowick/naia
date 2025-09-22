@@ -1,3 +1,3 @@
 #person #pirate #wayward_bounty 
 
-![[Old Salt.png]]
+![[p_Old Salt.png]]
