@@ -1,5 +1,13 @@
-#person #neutral #aramath #coin #edgecoin
-
+---
+tags:
+  - person
+  - neutral
+  - aramath
+  - coin
+  - edgecoin
+image: p_Barricade.jpg
+resides: "[[Hawke Manse]]"
+---
 Bodyguard of [[Edgar 'Ledger' Hawke]]
 
-![[Barricade.jpg]]
+![[p_Barricade.jpg]]
