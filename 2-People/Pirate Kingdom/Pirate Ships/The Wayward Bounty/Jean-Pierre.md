@@ -1,3 +1,3 @@
 #person #pirate #wayward_bounty 
 
-![[Jean-Pierre.png]]
+![[p_Jean-Pierre.png]]
