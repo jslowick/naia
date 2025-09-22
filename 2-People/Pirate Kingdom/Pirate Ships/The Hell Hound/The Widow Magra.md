@@ -6,4 +6,4 @@ tags:
 ---
 [[Lookout]] and expert [[Swashbuckler]] of [[The Hell Hound]]
 
-![[The Widow Magra.jpg]]
+![[p_The Widow Magra.jpg]]
