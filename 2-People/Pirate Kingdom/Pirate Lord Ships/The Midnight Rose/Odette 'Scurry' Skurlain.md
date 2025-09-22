@@ -2,4 +2,4 @@
 
 Has a [[Familiars|Familiar]] spider named [[Jitters]]
 
-![[Odette 'Scurry' Skurlain.jpg]]
+![[p_Odette 'Scurry' Skurlain.jpg]]
