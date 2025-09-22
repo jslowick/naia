@@ -2,4 +2,4 @@
 
 Sent to [[The Ox]] to see how legitimate the [[Greycoats]] are becoming.
 
-![[zara.jpg]]
+![[p_zara.jpg]]
