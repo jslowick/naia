@@ -1,6 +1,6 @@
 
 
-![[ships.webp]]
+![[misc_ships.webp]]
 
 [[1-Sloop]]
 [[2-Caravel]]
