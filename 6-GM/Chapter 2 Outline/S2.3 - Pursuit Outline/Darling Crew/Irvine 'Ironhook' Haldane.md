@@ -6,4 +6,4 @@ tags:
 ---
 [[Boatswain]] for [[The Red Darling]]
 
-![[Irvine 'Ironhook' Haldane.jpg]]
+![[p_Irvine 'Ironhook' Haldane.jpg]]
