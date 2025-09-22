@@ -1,1 +1,1 @@
-![[Aramath Labeled.png]]
+![[m_Aramath Labeled.png]]
