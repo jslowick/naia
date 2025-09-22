@@ -10,3 +10,5 @@ tags:
   - feature
 ---
 Found in the [[Warehouse Quarter]] in [[New Oxmouth]] on [[The Ox]] in [[Aramath]].
+
+[[Elijah Hastings (Dead)]] is in a gibbet hung up here.
