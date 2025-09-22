@@ -1,1 +1,1 @@
-![[new oxmouth.png]]
+![[m_new oxmouth.png]]
