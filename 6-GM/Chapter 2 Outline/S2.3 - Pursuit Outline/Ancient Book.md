@@ -2,4 +2,4 @@ is Worm-eaten book, the book as a rune bonding on it that Rake doesn’t know wh
 
 
 
-![[book.jpg]]
+![[i_book.jpg]]
