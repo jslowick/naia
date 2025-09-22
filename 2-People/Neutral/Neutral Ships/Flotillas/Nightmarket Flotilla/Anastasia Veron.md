@@ -3,4 +3,4 @@
 
 Recently [[Rake, The Rat Prince]] escaped her clutches and she is trying to retrieve him back.
 
-![[Anastasia.webp]]
+![[p_Anastasia.webp]]
