@@ -1,5 +1,13 @@
-#person #pirate #aramath #coin #edgecoin
+---
+tags:
+  - person
+  - pirate
+  - aramath
+  - coin
+  - edgecoin
+image: p_Eliza Royce.jpg
+resides: "[[Harborlight House]]"
+---
+Portmaster of [[Dockside]] District of [[Edgecoin]].
 
-
-
-![[Eliza Royce.jpg]]
+![[p_Eliza Royce.jpg]]
