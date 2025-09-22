@@ -4,4 +4,4 @@ Famous [[Witches|witch]] that has no love for pirates.  Sometimes called “The
 
 Recently has taken over parts of [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/Aramath]] and allied herself with the [[Greycoats]].
 
-![[lysandra.png]]
+![[p_lysandra.png]]
