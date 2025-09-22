@@ -1,3 +1,3 @@
 #person #pirate #witch #midnight_rose 
 
-![[Mother of Worms.jpg]]
+![[p_Mother of Worms.jpg]]
