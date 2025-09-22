@@ -7,4 +7,4 @@ tags:
 ---
 Younger Brother to [[Victor 'The Mad' Maddington (Missing)|Victor the Mad]] and [[Captain]] of [[The Hell Hound]].
 
-![[Mad Dog Lucas.jpg]]
+![[p_Mad Dog Lucas.jpg]]
