@@ -1,3 +1,3 @@
 #person #pirate #wayward_bounty 
 
-![[Winters.jpg]]
+![[p_Winters.jpg]]
