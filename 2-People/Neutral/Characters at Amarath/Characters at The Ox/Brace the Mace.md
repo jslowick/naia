@@ -2,4 +2,4 @@
 
 Bodyguard of [['Ashes' O'Malley]]
 
-![[Brace the Mace.jpg]]
+![[p_Brace the Mace.jpg]]
