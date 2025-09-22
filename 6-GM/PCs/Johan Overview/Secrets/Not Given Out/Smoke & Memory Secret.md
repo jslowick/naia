@@ -10,4 +10,4 @@ If you want to spend your vision right away: You can to get more information her
 
 
 ## Memory
-You catch a part she didn’t intend too, her own memory where she is closing the bottle and puts it back on the shelf, and looks outside at the smoking volcano.  Something to do with your memory is on Cimmeria…![[ai-generated-potion-of-dreams-bottle-on-transparent-background-png.png]]
+You catch a part she didn’t intend too, her own memory where she is closing the bottle and puts it back on the shelf, and looks outside at the smoking volcano.  Something to do with your memory is on Cimmeria…![[i_dreambottle.png]]
