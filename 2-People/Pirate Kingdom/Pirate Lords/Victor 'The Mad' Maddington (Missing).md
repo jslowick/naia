@@ -11,4 +11,4 @@ aliases:
 
 #person #pirate #pirate_lord #captain #missing
 
-Captain of the Bounty, which became [[The Wayward Bounty]].  Last known to have been Marooned on [[The Well (of Lost Hope)]].![[Victor The Mad.jpg]]
+Captain of the Bounty, which became [[The Wayward Bounty]].  Last known to have been Marooned on [[The Well (of Lost Hope)]].![[p_Victor The Mad.jpg]]
