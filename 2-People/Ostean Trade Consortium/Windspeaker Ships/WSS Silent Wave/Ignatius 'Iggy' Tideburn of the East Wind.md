@@ -2,4 +2,4 @@
 
 [[Captain]] of the [[WSS Silent Wave]].
 
-![[iggy.webp]]
+![[p_iggy.webp]]
