@@ -2,4 +2,4 @@
 
 [[Doctor]] for [[The Midnight Rose]]
 
-![['Stitch' Calloway.jpeg]]
+![[p_stitch.jpeg]]
