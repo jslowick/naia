@@ -4,4 +4,4 @@ Large, muscular and fat man covered in tattoos.  He rarely wears a shirt, or lon
 
 Says he enjoys two things in life, fighting and drinking.  Will fight for the hell of it and carries a large club studded with [[Jawfish]] teeth.  Not much of a sailor, but has "other uses" on [[The Barracuda]].
 
-![[Barrel.jpg]]
+![[p_Barrel.jpg]]
