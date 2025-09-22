@@ -11,4 +11,4 @@ aliases:
 ---
 Played by Tony Dorokhin
 
-![[johan_portrait.jpg]]
+![[pc_johan_portrait.jpg]]
