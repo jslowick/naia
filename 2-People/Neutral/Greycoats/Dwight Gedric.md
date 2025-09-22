@@ -1,2 +1,2 @@
 #person #neutral #greycoat
-[[Greycoats]] prisoner aboard [[The Wayward Bounty]].
+[[Greycoats|Greycoat]] prisoner aboard [[The Wayward Bounty]].
