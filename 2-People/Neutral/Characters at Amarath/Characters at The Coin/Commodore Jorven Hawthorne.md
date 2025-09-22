@@ -6,8 +6,8 @@ tags:
   - coin
   - edgecoin
 resides: "[[Coin Hall]]"
-image: Jorven Hawthorne.jpg
+image: p_Jorven.png
 ---
 Leader of [[Edgecoin]]
 
-![[Jorven Hawthorne.jpg]]
+![[p_Jorven.png]]
