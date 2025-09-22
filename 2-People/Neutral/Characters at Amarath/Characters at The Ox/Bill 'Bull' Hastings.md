@@ -2,4 +2,4 @@
 
 [[Elijah Hastings (Dead)]] brother.
 
-![[Bill 'Bull' Hastings.png]]
+![[p_Bill 'Bull' Hastings.png]]
