@@ -6,4 +6,4 @@ Used to be [[Quartermaster]] to [[Sir Braxton Crowley]] before he retired, then 
 
 Highly gold motivated, she's known to leave merchants with their wares, too much effort to go sell, and just take the Gold.
 
-![[luna.jpg]]
+![[p_luna.jpg]]
