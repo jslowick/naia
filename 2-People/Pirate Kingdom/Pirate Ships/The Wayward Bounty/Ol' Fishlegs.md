@@ -1,3 +1,3 @@
 #person #pirate #wayward_bounty 
 
-![[Ol Fishlegs.jpg]]
+![[p_Ol Fishlegs.jpg]]
