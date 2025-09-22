@@ -1,1 +1,1 @@
-![[Tarsus Labelled.png]]
+![[m_Tarsus Labelled.png]]
