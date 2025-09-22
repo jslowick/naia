@@ -1,6 +1,6 @@
 ---
 resides: "[[Hawke Manse]]"
-image: Amina Okoro.jpg
+image: p_Amina Okoro.jpg
 tags:
   - "#person"
   - "#neutral"
@@ -10,4 +10,4 @@ tags:
 ---
 Bodyguard of [[Edgar 'Ledger' Hawke]]
 
-![[Amina Okoro.jpg]]
+![[p_Amina Okoro.jpg]]
