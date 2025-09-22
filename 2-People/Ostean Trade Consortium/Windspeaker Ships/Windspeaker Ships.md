@@ -1,7 +1,9 @@
-#faction #otc #windspeaker
-List
-- [[WSS Aurora (Missing)]]
-- [[WSS Anna Maria (Sunk)]]
-- [[WSS Nautilus]]
-
-![[pirate ship list.base]]
+---
+tags:
+  - faction
+  - otc
+  - windspeaker
+cssclasses:
+  - no-toolbar
+---
+![[Ships.base#winspeaker_ships]]
