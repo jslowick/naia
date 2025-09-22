@@ -1,4 +1,4 @@
 #person #pirate #wayward_bounty 
 
 
-![[Theodoro the Knife.jpg]]
+![[p_Theodoro the Knife.jpg]]
