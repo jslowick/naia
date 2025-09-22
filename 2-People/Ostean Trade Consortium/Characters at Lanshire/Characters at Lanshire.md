@@ -1,7 +1,12 @@
-#otc #faction #lanshire
-One of the two most powerful Island-States. Is generally a caste system, and is ruled by an oligarchy of noble families.
+---
+tags:
+  - faction
+  - otc
+  - lanshire
+---
+[[Lanshire]] is of the two most powerful Island-States. It is generally a caste system, and is ruled by an oligarchy of noble families.
 
-Notable Families
+## Notable Families
 - [[House Tiverton]] (governance)
 - [[House Varchek]] (OTC/Navy)
 - [[House Windam]] (Coral Mining)
