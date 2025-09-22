@@ -7,3 +7,6 @@ Vampires are said to come from [[Illumia]] where they were driven out, and now s
 
 Notable Vampires
 - [[Selene]]
+- [[Lenore]]
+- [[Fangless]]
+- [[Marquis de Ferrane]]
