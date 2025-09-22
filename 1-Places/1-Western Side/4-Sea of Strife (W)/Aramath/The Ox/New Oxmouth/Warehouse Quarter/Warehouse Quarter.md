@@ -12,3 +12,10 @@ tags:
 Found in [[New Oxmouth]] on [[The Ox]] in [[Aramath]].
 
 Located east of [[Guild Quarter]], west of [[Captain's Quarter|Captain's]] and [[Vice Quarter]].
+
+## Notable Places
+- [[Cratehaven Row]]
+- [[Fishmarket Square]]
+- [[Smokestack Works]]
+- [[The Bulwark]]
+- [[The New Docks]]
