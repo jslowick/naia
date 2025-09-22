@@ -2,4 +2,4 @@
 
 [[Navigator]] for [[The Midnight Rose]]
 
-![[Edrik the Blind.webp]]
+![[p_Edrik the Blind.webp]]
