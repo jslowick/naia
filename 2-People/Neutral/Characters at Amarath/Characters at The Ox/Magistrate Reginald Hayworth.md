@@ -1,6 +1,14 @@
-#person #neutral #greycoat #aramath #ox
+---
+tags:
+  - person
+  - neutral
+  - greycoat
+  - aramath
+  - ox
+  - new_oxmouth
+image: p_reginald.jpg
+resides: "[[The Bulwark]]"
+---
+The second in command of [[New Oxmouth]] under the Commodore
 
-The second in command of [[1-Places/1-Western Side/4-Sea of Strife (W)/Aramath/The Ox/New Oxmouth/New Oxmouth]] under the Commodore
-
-
-![[p_greycloak magistrate.jpg]]
+![[p_reginald.jpg]]
