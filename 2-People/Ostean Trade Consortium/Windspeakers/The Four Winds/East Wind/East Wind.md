@@ -3,4 +3,4 @@ cssclasses:
   - no-toolbar
 ---
 
-![[Person List.base#East Wind]]
+![[Persons.base#East Wind]]
