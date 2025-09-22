@@ -7,4 +7,4 @@ tags:
 [[First Mate]] for [[The Red Darling]]
 
 
-![[Pietra Longknife.jpg]]
+![[p_Pietra Longknife.jpg]]
