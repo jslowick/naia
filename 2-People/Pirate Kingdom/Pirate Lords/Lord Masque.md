@@ -4,4 +4,4 @@ Mysterious Pirate Lord that always wears a mask and disguise.  Rumors that he i
 
 Captain of [[The Barracuda]]
 
-![[lord masque.jpg]]
+![[p_lord masque.jpg]]
