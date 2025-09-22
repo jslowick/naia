@@ -2,4 +2,4 @@
 
 [[Captain]] and [[Lookout]] of [[The Red Darling]]
 
-![[The Lady in Red.png]]
+![[p_The Lady in Red.png]]
