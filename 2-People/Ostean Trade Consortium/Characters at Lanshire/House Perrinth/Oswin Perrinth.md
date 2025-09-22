@@ -2,4 +2,4 @@
 
 twin brother of Oswald.  Together, they run the logistics of the courts and jails.
 
-![[Oswin.jpg]]
+![[p_Oswin.jpg]]
