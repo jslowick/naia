@@ -1,3 +1,3 @@
 #person #neutral #greycoat #aramath #ox
 
-![[Commodore Brant 'Grave-Eye' Malachai.jpg]]
+![[p_Brant 'Grave-Eye' Malachai.jpg]]
