@@ -1,8 +1,16 @@
-#person #neutral #aramath #coin #edgecoin
-
+---
+tags:
+  - person
+  - aramath
+  - coin
+  - edgecoin
+  - neutral
+image: p_Wei Lin Newcomb.jpg
+resides: "[[W&W Imports]]"
+---
 Wife of [[Wilton Newcomb]] and co-owner of [[W&W Imports]], in [[Edgecoin]] on 
 [[The Coin]] in [[Aramath]].
 
-Current delivering goods to [[Tarsus Map]].
+Current delivering goods to [[Tarsus]].
 
-![[Wei Lin Newcomb.jpg]]
+![[p_Wei Lin Newcomb.jpg]]
