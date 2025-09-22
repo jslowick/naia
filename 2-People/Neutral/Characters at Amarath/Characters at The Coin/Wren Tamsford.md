@@ -1,5 +1,13 @@
-#person #neutral #aramath #coin #edgecoin
+---
+tags:
+  - person
+  - neutral
+  - aramath
+  - coin
+  - edgecoin
+image: p_Wren Tamsford.jpg
+resides: "[[Arcanist Emporium]]"
+---
+Assistant to [[Professor Fenric 'Pebbletongue' Pebbleton]] at [[Arcanist Emporium]] in [[Edgecoin]].
 
-Assistant to [[Professor Fenric 'Pebbletongue' Pebbleton]] at [[Arcanist Emporium]]
-
-![[Wren Tamsford.jpg]]
+![[p_Wren Tamsford.jpg]]
