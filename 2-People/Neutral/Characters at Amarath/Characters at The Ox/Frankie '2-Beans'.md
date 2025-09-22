@@ -1,3 +1,3 @@
 #person #neutral #aramath #ox
 
-![[Frankie '2 Beans'.webp]]
+![[p_Frankie '2 Beans'.webp]]
