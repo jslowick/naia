@@ -7,4 +7,4 @@ tags:
 ---
 [[Mistwalker]] shark-blood, member of [[The Animus]]
 
-![[Pommol.png]]
+![[p_Pommol.png]]
