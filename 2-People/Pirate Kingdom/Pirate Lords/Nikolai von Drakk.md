@@ -4,4 +4,4 @@ Captain of [[The Midnight Rose]] and rival of [[Victor 'The Mad' Maddington (Mis
 
 His Valet: [[Grimes]]
 
-![[Nikolai von Drakk.webp]]
+![[p_Nikolai von Drakk.webp]]
