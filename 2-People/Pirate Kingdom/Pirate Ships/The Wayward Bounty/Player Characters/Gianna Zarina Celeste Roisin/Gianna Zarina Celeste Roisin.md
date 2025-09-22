@@ -2,4 +2,4 @@
 
 Played by Erin Dorokhin
 
-![[Gianna.png]]
+![[pc_Gianna.png]]
