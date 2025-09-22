@@ -1,1 +1,3 @@
-[[Lysandra, The White Witch]]
+Notable people from [[The Key]] on [[Aramath]]
+
+![[Persons.base#Key]]
