@@ -3,4 +3,4 @@ While technically the next in [[House Tiverton]] in line for the throne, the eld
 
 Known at the school as Professor HT, he tends to keep his family ties a secret.
 
-![[HT.jpg]]
+![[p_HT.jpg]]
