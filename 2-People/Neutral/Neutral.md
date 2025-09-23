@@ -1,4 +1,9 @@
-Island-States that have not officially joined the [[Pirate Kingdom]] or [[Ostean Trade Consortium]].  While some of these are all but name, the distinction matters in the Armistice terms after [[The Great War]] and for purposes of [[Pirate Code]].
+---
+tags:
+  - neutral
+  - faction
+---
+Island-States that have not officially joined the Pirate Kingdom or Ostean Trade Consortium.  While some of these are all but name, the distinction matters in the Armistice terms after The Great War and for purposes of Pirate Code.
 
 [[Neutral Ships]] 
 
