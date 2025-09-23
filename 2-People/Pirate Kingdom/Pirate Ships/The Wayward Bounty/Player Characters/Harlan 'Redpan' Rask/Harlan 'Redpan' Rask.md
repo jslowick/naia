@@ -6,10 +6,9 @@ tags:
   - wayward_bounty
 aliases:
   - Redpan
+image: pc_Harlan_Rask_Redpan.jpg
+ship: "[[The Wayward Bounty]]"
 ---
-
-#person #pirate #pc #wayward_bounty 
-
 Played by Ryan Mateyko
 
 ![[pc_Harlan_Rask_Redpan.jpg]]
