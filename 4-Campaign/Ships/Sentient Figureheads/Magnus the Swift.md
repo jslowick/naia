@@ -1,1 +1,0 @@
-Old figurehead of [[WSS Aurora (Missing)]], combined with [[Jacob the Black]] to form [[Ja'nus, the Bold]].
