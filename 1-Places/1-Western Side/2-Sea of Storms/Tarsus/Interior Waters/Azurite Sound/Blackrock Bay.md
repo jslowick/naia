@@ -1,1 +1,1 @@
-#places #storms #west #tarsus #azurite_sound #feature #shoreline 
+Bay in [[Azurite Sound]] where [[Tarrencia]] is trying to cultivate [[Black Coral]]  They were unsuccessful for many years until they introduced [[Corites]] as well.
