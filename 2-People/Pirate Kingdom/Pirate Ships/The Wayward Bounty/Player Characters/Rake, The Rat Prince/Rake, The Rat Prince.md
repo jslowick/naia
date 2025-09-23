@@ -6,6 +6,8 @@ tags:
   - wayward_bounty
 aliases:
   - Rake
+image: pc_Rake.png
+ship: "[[The Wayward Bounty]]"
 ---
 Played by Bill Flippin
 
