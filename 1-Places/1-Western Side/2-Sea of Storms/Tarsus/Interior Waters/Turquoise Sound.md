@@ -1,1 +1,10 @@
-#places #storms #west #tarsus #waters #turquoise_sound
+---
+tags:
+  - places
+  - west
+  - storms
+  - tarsus
+  - waters
+  - turqoise_sound
+---
+The eastern sound between [[Atoll Coralium]] and [[Tarsus Major]].
