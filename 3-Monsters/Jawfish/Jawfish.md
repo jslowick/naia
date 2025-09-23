@@ -1,4 +1,4 @@
-Many Teethed Sea [[3-Monsters]] known to attack ships and anyone in the water.
+Many teethed [[3-Monsters|Sea Monsters]] known to attack ships and anyone in the water.
 
 List
 - [[Megalodons]]
