@@ -1,3 +1,8 @@
+---
+tags:
+  - campaign
+---
+
 Sessions
 - [[0 - Prequel]]
 - [[1.1 -Any Port in a Storm]]
