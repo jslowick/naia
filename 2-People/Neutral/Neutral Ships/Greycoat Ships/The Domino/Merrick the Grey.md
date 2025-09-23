@@ -1,6 +1,17 @@
-#person #neutral #greycoat #domino #captain
-Leader of the [[Greycoats]].  Merrick was marooned on [[1-Places/1-Western Side/4-Sea of Strife (W)/Reyka/Reyka]] after a mutiny.  He has been slowly recruiting and consolidating power for 15 years.
+---
+tags:
+  - person
+  - neutral
+  - greycoat
+  - domino
+  - captain
+aliases:
+  - Merrick
+image: p_Merrick.png
+ship: "[[The Domino]]"
+---
+Leader of the [[Greycoats]].  Merrick was marooned on [[Reyka]] after a mutiny.  He has been slowly recruiting and consolidating power for 15 years.
 
 Captain of [[The Domino]].
 
-![[p_Merrick the Grey.jpg]]
+![[p_Merrick.png]]
