@@ -5,6 +5,7 @@ tags:
   - order_lantern
 aliases:
   - The Lantern
+  - Lantern
 image: p_lantern.webp
 ---
 Neutral, Non-violent order of Doctors and Nurses.  Begun long ago, but gained a lot of notice in [[The Great War]] when they would come and treat both sides after battles.  Closest thing Naia has to a religion, they recognize important historical figures as saints.
