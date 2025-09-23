@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign
+---
 IRL Date: Unknown Part of [[Chapter 1 - Reyka]] <br/>
 Next Session: [[1.1 -Any Port in a Storm]]
  
