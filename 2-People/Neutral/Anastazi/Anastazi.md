@@ -1,0 +1,3 @@
+Aboriginal peoples of Naia. Said to once inhabited most if not all the larger islands.  Have eventually been driven out or killed from many of them, and pushed back into the Sea of Monsters.  Said to have origianlly built most of the ruins you see today, though if that is the case, why have they not advanced as a civilization?  
+
+They have 4 total fingers and 4 total toes, making them slightly distinct from humans, but scholars disagree if thats just a mutation, like mistwalkers, or a whole other race, like the Ren'yu.
