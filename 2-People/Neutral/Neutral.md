@@ -15,7 +15,7 @@ Island-State List:
 - [[Illumia]]
 - [[The Crystal Isles]]
 - [[Brightwave Island]]
-- [[Nightmarket Flotilla]]
+- [[The Nightmarket]]
 - [[Saurian Archipelago]]
 - [[Tiderip]]
 - [[Beaconrock]]
