@@ -8,6 +8,8 @@ tags:
   - haunted
 aliases:
   - Johan
+image: pc_johan_portrait.jpg
+ship: "[[The Wayward Bounty]]"
 ---
 Played by Tony Dorokhin
 
