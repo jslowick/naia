@@ -1,3 +1,9 @@
+---
+aliases:
+  - Monsters
+  - Monster
+  - Sea Monster
+---
 Types:
 - [[Deepspawn]]
 - [[Grimshells]]
