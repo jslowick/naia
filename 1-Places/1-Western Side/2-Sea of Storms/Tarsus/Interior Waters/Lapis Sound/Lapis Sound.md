@@ -1,1 +1,12 @@
-#places #storms #west #tarsus #waters #lapis_sound
+---
+tags:
+  - places
+  - west
+  - storms
+  - tarsus
+  - waters
+  - lapis_sound
+---
+The western sound between [[Atoll Coralium]] and [[Tarsus Major]].
+## Notable Features
+- 
