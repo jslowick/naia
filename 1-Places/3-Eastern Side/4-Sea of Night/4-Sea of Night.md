@@ -11,6 +11,6 @@ Southeast of the map, called this for the fact that it gets dark as you go into 
 
 ## Main Islands
 - [[Black Sand Beach]]
-- [[Nightmarket Flotilla]]
+- [[The Nightmarket]]
 - [[The Hanging Tree]]
 - [[The Hexwood]]
