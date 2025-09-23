@@ -1,12 +1,23 @@
-#ship #pirate #faction #wayward_bounty #cursed
-
+---
+tags:
+  - ship
+  - pirate
+  - faction
+  - wayward_bounty
+  - cursed
+Captain: "[[Locke Cordwainer]]"
+aliases:
+  - The Bounty
+cssclasses:
+  - no-toolbar
+---
 After the mutiny on the Bounty, and the rebuilding of the [[Sentient Figureheads|Figurehead]], renamed to the Wayward Bounty, the PC’s Ship
 
 Has a Shallow Draft
 Currently has High Crew Morale
 Has a Secret Cargo Hold, that currently is being used by [[Princess Sonya Tiverton]]
 
-In [[1.4 - The Rescue]], The Ship was [[Cursed]] with Storms and Stormy weather.  [[Ja'nus, the Bold]] believes it can be removed in the [[2-Sea of Storms]], probably [[Crescent Bay]].
+In [[1.4 - The Rescue]], The Ship was [[Cursed]] with Storms and Stormy weather.  [[Ja'nus, the Bold]] believes it can be removed in the [[2-Sea of Storms|Sea of Storms]], probably [[Crescent Bay]].
 
 Crew
 - [[Locke Cordwainer]] (Boatswain, Captain)
@@ -29,8 +40,6 @@ Crew
 
 Prisoners
 - [[Dwight Gedric]] - [[Greycoats|Greycoat]] prisoner
-- [[Zephyrix Penelope 'Penny' of the North Wind]] - [[Windspeakers]] Zephyrix Hostage.
-- [[Jacques Courtemer]] - Her Body Man
 - [[Princess Sonya Tiverton]]- Guest/Hostage
 	- [[Buttercup]] - [[Princess Sonya Tiverton|Sonya]]'s cat
 
@@ -41,6 +50,5 @@ Dead/MIA
 - [[Servio Salazar (Dead)]] – Ship’s Cannoneer: Killed by the Cook(Ryan)
 - [['Doc' Smithers (Dead)]], Ship’s Doctor:  Killed on the Crystal Isles Raid
 - [[Philipe 'Four-eyes' (Dead)]], Ship’s Lookout: Killed by Locke and Johann
-
 
 ![[Persons.base#Wayward Bounty]]
