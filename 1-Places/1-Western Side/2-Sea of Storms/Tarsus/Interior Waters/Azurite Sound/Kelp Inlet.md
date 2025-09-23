@@ -1,1 +1,1 @@
-#places #storms #west #tarsus #azurite_sound #feature #shoreline 
+Inlet in [[Azurite Sound]] where kelp from [[Snarewater Channel]] grows in abundance, and is harvested by [[Tarrencia]] for food.
