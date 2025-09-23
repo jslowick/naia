@@ -20,7 +20,7 @@ Crew
 - [[Maria Fatale]] no nonsense, hates to take prisoners, but hated Victor more
 - [[Theodoro the Knife]], sneaky assassin like pirate
 - [[Tristan Winters]] - First Mate and Navigator (wounded, dying of infection)
-- [[Ja'nus, the Bold]] – Sentient Figurehead, Combination of [[Magnus the Swift|Magnus]]([[WSS Aurora (Missing)|Aurora]]) and [[Jacob the Black|Jacob]](Bounty)
+- [[Ja'nus, the Bold]] – Sentient Figurehead, Combination of [[Magnus the Swift (Dead)|Magnus]]([[WSS Aurora (Missing)|Aurora]]) and [[Jacob the Black|Jacob]](Bounty)
 - [[Veronica 'Bellringer']] – Specializes in Brawn
 - [[Jean-Pierre]] – Excellent Scout
 - [[Isaac 'The Immortal']] – Survived multiple days in a Gibbet on [[Grimfrost Knoll]]
