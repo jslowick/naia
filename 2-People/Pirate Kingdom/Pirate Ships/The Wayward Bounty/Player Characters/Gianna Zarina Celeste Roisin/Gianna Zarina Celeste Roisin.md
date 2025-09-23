@@ -6,6 +6,8 @@ tags:
   - wayward_bounty
 aliases:
   - Gianna
+image: pc_Gianna.png
+ship: "[[The Wayward Bounty]]"
 ---
 Played by Erin Dorokhin
 
