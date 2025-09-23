@@ -7,5 +7,8 @@ tags:
   - captain
 aliases:
   - Locke
+roll:
+  - "[[Boatswain]]"
+  - "[[Captain]]"
 ---
 Played by Mike Kelleher
