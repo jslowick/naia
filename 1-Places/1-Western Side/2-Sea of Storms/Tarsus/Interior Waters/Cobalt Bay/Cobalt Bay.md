@@ -1,1 +1,9 @@
-#places #storms #west #tarsus #waters #cobalt_bay
+---
+tags:
+  - places
+  - west
+  - storms
+  - tarsus
+  - waters
+  - cobalt_bay
+---
