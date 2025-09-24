@@ -1,0 +1,1 @@
+Upper end Inn connected to [[The Looking Glass]]
