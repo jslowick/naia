@@ -8,4 +8,4 @@ tags:
   - bilgetown
   - building
 ---
-The only real [[Deepwater Docks]] on all of [[Tarsus]], this whtf is bustling with trade both from outsiders and even between the atolls and towns on Tarsus.
+The only real [[Deepwater Docks]] on all of [[Tarsus]], this wharf is bustling with trade both from outsiders and even between the atolls and towns on Tarsus.
