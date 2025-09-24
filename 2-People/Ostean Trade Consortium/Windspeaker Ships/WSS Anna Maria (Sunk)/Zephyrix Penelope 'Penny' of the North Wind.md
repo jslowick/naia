@@ -1,6 +1,18 @@
-#person #otc #windspeaker #anna_maria #captain #north_wind
-Former captain of the [[WSS Anna Maria (Sunk)]].  Currently a prisoner and hostage of [[The Wayward Bounty]].
+---
+tags:
+  - person
+  - otc
+  - windspeaker
+  - anna_maria
+  - captain
+  - north_wind
+image: p_Penny.jpg
+ship: "[[WSS Anna Maria (Sunk)]]"
+---
 
-In [[2.2 - Negotiations]] she may be transferred to [[The Animus]].
+#person #otc #windspeaker #anna_maria #captain #north_wind
+Former captain of the [[WSS Anna Maria (Sunk)]].  
+
+Was a prisoner and hostage of [[The Wayward Bounty]]., but in [[2.2 - Negotiations]] she let go.
 
 ![[p_Penny.jpg]]
