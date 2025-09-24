@@ -1,0 +1,1 @@
+Another retired captains compound, this one runs less on rivalry and more on friendship.
