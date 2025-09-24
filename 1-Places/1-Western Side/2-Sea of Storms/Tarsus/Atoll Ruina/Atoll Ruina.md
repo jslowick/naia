@@ -8,6 +8,7 @@ tags:
   - neutral
   - atoll_ruina
 ---
+Atoll with Ruins under the water, which gives [[Tarsian Wine & Spirits]] a special flavor.
 ## Inhabited Places
 - [[Ocearion]]
 - [[Aqua Reach]]
