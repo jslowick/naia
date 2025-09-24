@@ -1,1 +1,0 @@
-Named after the two pirate lords, last name Antonius and Castor Dread, that built them.  The worriy always was that they needed a second exit to [[Tortuga Harbor]], but that also gcould be a liability in an attack.  When Deephave was discovered and settled, they went about building two large towers
