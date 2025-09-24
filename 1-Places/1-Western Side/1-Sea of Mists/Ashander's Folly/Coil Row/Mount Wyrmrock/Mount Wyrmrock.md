@@ -1,1 +1,1 @@
-used to be lair of a giantwyrm, which was killed to colonize the island
+Mountain on the southeast corner of [[Ashander's Folly]].  It used to be lair of a giant [[Wyrms|Wyrm]], which was killed to colonize the island.
