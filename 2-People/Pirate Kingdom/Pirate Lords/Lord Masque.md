@@ -1,6 +1,14 @@
-#person #pirate #pirate_lord #captain #barracuda
-
-Mysterious Pirate Lord that always wears a mask and disguise.  Rumors that he is originally [[Ostean Trade Consortium|OTC]], or that he’s horribly disfigured by Leprosy. 
+---
+tags:
+  - person
+  - pirate
+  - pirate_lord
+  - captain
+  - barracuda
+image: p_lord masque.jpg
+ship: "[[The Barracuda]]"
+---
+Mysterious [[Pirate Lords|Pirate Lord]] that always wears a mask and disguise.  Rumors that he is originally [[Ostean Trade Consortium|OTC]], or that he’s horribly disfigured by Leprosy. 
 
 Captain of [[The Barracuda]]
 
