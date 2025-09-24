@@ -1,1 +1,1 @@
-The main harbor to get to the island-state proper.  Has two exits, but one is blocked by a large portcullis, [[The Dreadgate]].
+The main harbor to get to [[Anchorhome Wharf]] of [[Ashander's Folly]].  Has two exits, but one is blocked by a large portcullis, [[The Dreadgate]].
