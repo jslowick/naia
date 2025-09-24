@@ -1,3 +1,12 @@
+---
+tags:
+  - places
+  - west
+  - mists
+  - ashanders_folly
+  - district
+  - brethen_court
+---
 The Highly fortified District of [[Ashander's Folly]] where the [[Pirate Lords]] reside.
 ## Notable Places
 - [[Cartographer's Keep]]
