@@ -1,0 +1,1 @@
+Upper end tavern connected to [[The Starforged Inn]]
