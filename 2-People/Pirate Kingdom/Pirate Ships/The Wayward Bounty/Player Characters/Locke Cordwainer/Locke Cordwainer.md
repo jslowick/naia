@@ -10,5 +10,6 @@ aliases:
 roll:
   - "[[Boatswain]]"
   - "[[Captain]]"
+ship: "[[The Wayward Bounty]]"
 ---
 Played by Mike Kelleher
