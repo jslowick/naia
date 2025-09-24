@@ -8,6 +8,10 @@ tags:
   - neutral
   - tarsus_major
 ---
+Technically 4 Islands, Tarsus Major makes up the largest amount of landmass on the mostly water island-state of [[Tarsus]]. The land is not very useable though, being mostly dangerous mountains, the only town is in almost the very center, protected as best as it can be from storms. 
+```columns
+id: Q2FivZEsFbXd51UcN-INv
+===
 ## Inhabited Places
 - [[Tarrencia]]
 ## Noteable Features
@@ -22,6 +26,8 @@ tags:
 - [[Hollow Crags]]
 - [[Shadowfume Mountains]]
 - [[Stormwatch Towers]]
+
+===
 ## Western Coastline Features
 - [[Tide's Remnant]]
 - [[Smoldering Coast]]
@@ -36,6 +42,8 @@ tags:
 - [[Blackrock Bay]]
 - [[The Glass Reef]]
 - [[The Moorings]]
+
+===
 ## Eastern Coastline Features
 - [[Sapphire Shoals]]
 - [[Tumblestone Beach]]
@@ -51,4 +59,8 @@ tags:
 - [[Bay of Lost Ships]]
 - [[Cloudcrash Cove]]
 - [[The Sunken Steps]]
-- 
+
+```
+
+
+
