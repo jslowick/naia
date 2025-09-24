@@ -1,1 +1,10 @@
+---
+tags:
+  - places
+  - west
+  - mists
+  - ashanders_folly
+  - feature
+  - shoreline
+---
 The Outer eastern and southeastern shores of [[Mount Wyrmrock]] are said to be haunted, you can see things moving out in the mist, and ships that get too close to the shores have Sailors taken right off their decks.
