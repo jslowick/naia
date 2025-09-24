@@ -7,4 +7,4 @@ tags:
   - waters
   - turqoise_sound
 ---
-The eastern sound between [[Atoll Coralium]] and [[Tarsus Major]].
+The eastern sound between [[Atoll Coralium]] and [[Tarsus Major]].  Combines with the [[Azurite Sound]] and [[Lapis Sound]] to fully surround [[Atoll Coralium]].
