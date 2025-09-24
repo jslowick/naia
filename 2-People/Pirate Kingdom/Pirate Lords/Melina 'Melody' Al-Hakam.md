@@ -1,3 +1,16 @@
+---
+tags:
+  - person
+  - pirate
+  - pirate_lord
+  - captain
+  - whirling_dervish
+image: p_melody.jpg
+ship: "[[The Whirling Dervish]]"
+---
+
 #person #pirate #pirate_lord #captain #whirling_dervish
 
-[[Pirate Lords|Pirate Lord]] obsessed with music, [[Captain]] of [[The Whirling Dervish]].![[p_melody.jpg]]
+[[Pirate Lords|Pirate Lord]] obsessed with music, [[Captain]] of [[The Whirling Dervish]].
+
+![[p_melody.jpg]]
