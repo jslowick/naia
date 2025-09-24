@@ -1,1 +1,5 @@
+---
+aliases:
+  - Wyrm
+---
 Wyrms are the largest of the [[Sea Serpents]], and their names barely whispered in fear of drawing their attention.  Wyrms are large enough to consume ships, and attack entire islands.
