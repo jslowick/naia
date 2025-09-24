@@ -1,0 +1,1 @@
+used to be lair of a giantwyrm, which was killed to colonize the island
