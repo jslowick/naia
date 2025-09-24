@@ -1,5 +1,11 @@
-#faction #pirate #pirate_lord
-
+---
+tags:
+  - faction
+  - pirate
+  - pirate_lord
+aliases:
+  - Pirate Lord
+---
 Need 7 for a vote, 11 to override a veto/king.
 
 [[Winslow Firebeard (Missing)]] - [[The Azar (Missing)]]
