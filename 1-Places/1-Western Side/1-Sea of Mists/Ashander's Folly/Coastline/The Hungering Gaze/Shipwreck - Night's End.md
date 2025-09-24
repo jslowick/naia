@@ -1,1 +1,1 @@
-Nightbreaker - One of Ashander's two warships
+Nightbreaker - One of [[Ashander Tiverton|Ashander]]'s two warships left on [[The Hungering Gaze]]as a monument of the [[The Great War]] 
