@@ -1,1 +1,7 @@
-Dangerouns forest on the western side of the island
+Dangerous forest on the western side of [[Ashander's Folly]].
+
+## Notable Features
+- [[Grimleaf Heights]]
+- [[Lower Grimleaf]]
+- [[The Bone Collector]]
+- [[Hydra's Rest]]
