@@ -1,1 +1,0 @@
-old banner fort, messed up with something that made it easier to build a new one next to it, haunted?
