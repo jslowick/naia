@@ -1,0 +1,1 @@
+![[m_Ashander's Folly.png]]
