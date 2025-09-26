@@ -1,4 +1,11 @@
-#person #otc #lanshire #tiverton 
+---
+tags:
+  - person
+  - otc
+  - lanshire
+  - tiverton
+image: p_Sonia Tiverton.webp
+---
 The second eldest [[House Tiverton]] Daughter, the first, [[Sarah Tiverton (Dead)|Sarah]] was killed for being a witch.  Sonya sort of abruptly had the spotlight shined on her, and now is rumored to have been betrothed to the [[Aethys Kyrill the Skyborne]] of the [[Windspeakers]].
 
 Sonya is big in volunteering, and often has orphans around, [[Jasper 'The Kid' Ravenhart]] was one of those, and is now her Ward.
