@@ -1,1 +1,10 @@
+---
+tags:
+  - places
+  - west
+  - mists
+  - ashanders_folly
+  - verdant_row
+  - building
+---
 One of the first parts of the original city, just broken ship parts put on land to become homes for sailors.
