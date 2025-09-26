@@ -6,9 +6,8 @@ tags:
   - varchek
 aliases:
   - Blackjack
+image: p_Blackjack.jpg
 ---
-
-#person #otc #lanshire #varchek 
 While there is technically a [[High King Charlemain Tiverton|High King]] of [[Lanshire]] that outranks him, most consider Blackjack the most powerful man in all of the [[Ostean Trade Consortium|OTC]]. He, like many of [[House Varchek]], hates pirates viciously.
 
 ![[p_Blackjack.jpg]]
