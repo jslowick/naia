@@ -1,5 +1,11 @@
-#person #otc #lanshire #perrinth 
-
-twin brother of Oswald.  Together, they run the logistics of the courts and jails.
+---
+tags:
+  - person
+  - otc
+  - lanshire
+  - perrinth
+image: p_Oswin.jpg
+---
+Twin brother of [[Oswald Perrinth|Oswald]].  Together, they run the logistics of the courts and jails.
 
 ![[p_Oswin.jpg]]
