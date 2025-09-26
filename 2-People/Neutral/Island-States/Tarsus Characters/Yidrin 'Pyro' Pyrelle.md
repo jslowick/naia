@@ -9,6 +9,6 @@ tags:
 image: p_yidrin.jpg
 resides: "[[St. Erasmus' Asylum]]"
 ---
-
+Locked up in [[St. Erasmus' Asylum]].
 
 ![[p_yidrin.jpg]]
