@@ -6,4 +6,5 @@ tags:
 cssclasses:
   - no-toolbar
 ---
-![[Ships.base#lanshire ships]]
+Notable [[Lanshire]] Ships
+![[Ships.base#Lanshire]]
