@@ -4,13 +4,9 @@ tags:
   - otc
   - lanshire
   - perrinth
+cssclasses:
+  - no-toolbar
 ---
-Powerful noble family in charge of the Royal Guards, City Guards, Courts, Judges, and Laws.
-
+Powerful [[Lanshire]] noble family in charge of the Royal Guards, City Guards, Courts, Judges, and Laws.
 ## Notable People
-- [[Eleanor Perrinth]]
-- [[Alistair Perrinth]]
-- [[Helena Perrinth]]
-- [[Edmund Perrinth]]
-- [[Oswald Perrinth]]
-- [[Oswin Perrinth]]
+![[Persons.base#Perrinth]]
