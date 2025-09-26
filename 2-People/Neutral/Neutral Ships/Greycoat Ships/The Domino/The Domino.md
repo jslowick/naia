@@ -8,6 +8,5 @@ image:
 Captain: "[[Merrick the Grey]]"
 ---
 Flagship [[4-Frigate|Frigate]] for the [[Greycoats]]
-
 ## Crew
 - [[Merrick the Grey]] ([[Captain]])
