@@ -1,8 +1,12 @@
-#faction #otc #lanshire #crowe 
+---
+tags:
+  - faction
+  - otc
+  - lanshire
+  - crowe
+cssclasses:
+  - no-toolbar
+---
 Powerful noble family in charge of Banks, financing, tax collection, etc.
-
-Notable People
-- [[Cedric Crowe]]
-- [[Florian Crowe]]
-- [[Adelaide Crowe]]
-- [[Archibald Crowe]]
+## Notable People
+![[Persons.base#Crowe]]
