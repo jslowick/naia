@@ -1,5 +1,11 @@
-#person #otc #lanshire #crowe
-
+---
+tags:
+  - person
+  - otc
+  - lanshire
+  - crowe
+image: p_Archibald.jpg
+---
 Head of Lanshire Bank, Archibold is extremely miserly, and a recent audit of the bank is who got [[Cedric Crowe]] worried about the money, or lack thereof.   [[House Crowe]] has a lot of leeway, but that goes away if the money does.
 
 ![[p_Archibald.jpg]]
