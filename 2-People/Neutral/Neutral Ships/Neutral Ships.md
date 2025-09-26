@@ -5,5 +5,5 @@ tags:
 cssclasses:
   - no-toolbar
 ---
-![[Ships.base#neutral ships]]
+![[Ships.base#Neutral]]
 
