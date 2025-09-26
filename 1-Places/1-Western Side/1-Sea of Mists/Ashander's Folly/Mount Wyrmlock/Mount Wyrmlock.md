@@ -9,7 +9,7 @@ tags:
 ---
 Second largest mountain on [[Ashander's Folly]], located at the southwestern part of the island, next to [[Tortuga Harbor]].
 ## Notable Places
-- [[The Dread Twins]]
+- [[The Dread Towers]]
 - [[Riftline]]
 - [[The Dreadgate]]
 - [[Coil Row]]
