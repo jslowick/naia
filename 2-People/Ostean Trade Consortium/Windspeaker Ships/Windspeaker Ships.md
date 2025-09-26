@@ -6,4 +6,5 @@ tags:
 cssclasses:
   - no-toolbar
 ---
-![[Ships.base#winspeaker_ships]]
+Notable [[Windspeakers|Windspeaker]] ships
+![[Ships.base#Windspeakers]]
