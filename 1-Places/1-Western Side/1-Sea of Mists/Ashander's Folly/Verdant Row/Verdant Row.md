@@ -7,7 +7,7 @@ tags:
   - district
   - verdant_row
 ---
-One of the newer districts on [[Ashander's Folly]], they've begun cutting into [[The Grimleaf]] to make room for more space.
+One of the newer districts on [[Ashander's Folly]], they've begun cutting into [[The Grimleaf]] to make room for more space, which is said to have angered the forest spirit.
 ## Notable Places
 - [[Kaelith's Apothecary]]
 - [[The Beached Flotilla]]
