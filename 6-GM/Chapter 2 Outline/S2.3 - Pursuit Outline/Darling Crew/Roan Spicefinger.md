@@ -6,5 +6,4 @@ tags:
 ---
 [[Cook]] for [[The Red Darling]]
 
-
 ![[p_Spicefinger.jpg]]
