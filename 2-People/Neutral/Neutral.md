@@ -3,14 +3,17 @@ tags:
   - neutral
   - faction
 ---
-Island-States that have not officially joined the Pirate Kingdom or Ostean Trade Consortium.  While some of these are all but name, the distinction matters in the Armistice terms after The Great War and for purposes of Pirate Code.
+Island-States that have not officially joined the [[Pirate Kingdom]] or [[Ostean Trade Consortium]].  While some of these are all but name, the distinction matters in the Armistice terms after [[The Great War]] and for purposes of [[Pirate Code]].
 
-[[Neutral Ships]] 
-
+[[Neutral Ships]] List
+Other Neutral Factions: [[Anastazi]], [[Greycoats]], [[Order of the Sacred Lantern]], [[Ren'Yu]], [[Vampires]]
+```columns
+id: aILeoPN31x8PhrLI3FuIF
+===
 Island-State List:
 - [[Helios Falls]]
 - [[Crescent Bay]]
-- [[1-Places/1-Western Side/2-Sea of Storms/Tarsus/Tarsus|Tarsus]]
+- [[Tarsus]]
 - [[Aramath]]
 - [[Port Abalash]]
 - [[Caprona]]
@@ -25,6 +28,7 @@ Island-State List:
 - [[Tiderip]]
 - [[Beaconrock]]
 
+===
 Neutral, but no large Human settlements:
 - [[Vale of Whispers]]
 - [[Serpent Bay]]
@@ -37,3 +41,8 @@ Neutral, but no large Human settlements:
 - [[Eastpoint]]
 - [[Black Sand Beach]]
 - [[The Hanging Tree]]
+```
+
+
+
+
