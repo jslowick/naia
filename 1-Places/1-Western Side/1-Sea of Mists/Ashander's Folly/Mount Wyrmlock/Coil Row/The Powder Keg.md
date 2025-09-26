@@ -8,5 +8,4 @@ tags:
   - coil_row
   - building
 ---
-
 Gunsmith shop.
