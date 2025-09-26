@@ -7,4 +7,4 @@ tags:
   - dead
 Captain:
 ---
-Sunk in [[Bay of Lost Ships]] in [[Tarsus]].
+Sunk in [[Bay of Lost Ships]] in [[Tarsus]] - [[Shipwreck - The Broken Promise]]
