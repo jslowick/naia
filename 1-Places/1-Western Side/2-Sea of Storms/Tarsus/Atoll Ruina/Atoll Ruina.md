@@ -22,7 +22,6 @@ Atoll with Ruins under the water, which gives [[Tarsian Wine & Spirits]] a speci
 - [[Sunken Towers]]
 - [[Tempest Keep]]
 - [[Thundervein Ruins]]
-- [[Sunken Towers]]
 ## Coastline Features
 - [[Glowing Ruins]]
 - [[Sunken Garden]]
