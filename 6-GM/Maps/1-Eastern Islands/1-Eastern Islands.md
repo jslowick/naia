@@ -42,13 +42,13 @@
 
 
 [[Coralhaven]]
-Deephaven
-Ereth'Yu
-Helios Falls
-Saurian Archipelago
-Serpent Bay
-The Colossus
-Tiderip
-Vale of Whispers
-Western Wind Isles
-Skull Island
+[[Deephaven]]
+[[Ereth'Yu]]
+[[Helios Falls]]
+[[Saurian Archipelago]]
+[[Serpent Bay]]
+[[The Colossus]]
+[[Tiderip]]
+[[Vale of Whispers]]
+[[Western Wind Isles]]
+[[Skull Island]]
