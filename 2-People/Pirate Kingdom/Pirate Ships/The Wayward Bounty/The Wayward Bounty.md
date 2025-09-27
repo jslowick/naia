@@ -17,7 +17,7 @@ Has a Shallow Draft
 Currently has High Crew Morale
 Has a Secret Cargo Hold, that currently is being used by [[Princess Sonya Tiverton]]
 
-In [[1.4 - The Rescue]], The Ship was [[Cursed]] with Storms and Stormy weather.  [[Ja'nus, the Bold]] believes it can be removed in the [[2-Sea of Storms|Sea of Storms]], probably [[Crescent Bay]].
+In [[1.4 - The Rescue]], The Ship was [[Cursed]] with Storms and Stormy weather.  [[Ja'nus, the Bold]] believes it can be removed in the [[2-Sea of Storms|Sea of Storms]], probably [[Crescent Bay Map]].
 
 Crew
 - [[Locke Cordwainer]] (Boatswain, Captain)
