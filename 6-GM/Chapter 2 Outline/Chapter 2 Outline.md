@@ -1,5 +1,5 @@
 [[S2.1 The Animus Outline]]
 [[S2.2 – Negotiations Outline]]
 [[S2.3 - Pursuit Outline]]
-[[S2.4 - Distractions Outline]]
+[[S2.4 - Guardians Outline]]
 [[S2.5 - Lost Treasure]]
