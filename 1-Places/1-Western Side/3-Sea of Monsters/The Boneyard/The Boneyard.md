@@ -6,7 +6,7 @@ tags:
   - boneyard
   - west
   - monsters
-image: The Boneyard.webp
+image: s_Boneyard.webp
 Captain: "[[Supreme Guide Osso Vin]]"
 ---
 Strange and reclusive Flotilla that is distrustful of outsiders.  They generally drift between [[The Beast]] and the [[3-Sea of Monsters|Sea of Monsters]]
