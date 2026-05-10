@@ -5,6 +5,7 @@ tags:
   - pirate_lord
   - captain
   - injustice
+  - key
 image: p_Hangman.png
 ship: "[[The Injustice]]"
 ---
