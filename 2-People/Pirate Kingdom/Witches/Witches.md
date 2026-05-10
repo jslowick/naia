@@ -13,6 +13,7 @@ Only those with [[Witchborne]] blood can truly learn the art of Witchcraft.
 - [[Ophelia (Dead)]]
 - [[The Witch Sisters]]
 - [[Mother of Worms]]
+- [[Persephone]]
 
 ## Neutral/Unaligned
 - [[Anastasia Veron]]
