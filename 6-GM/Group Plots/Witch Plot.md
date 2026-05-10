@@ -4,7 +4,7 @@ Blackjack uses it to return Ophelia, to get Firebeard gone to finally end this p
 
 Blackjack eventually also returns his Uncle Ashander, but leaves him chained up on his ship (worried about losing power?  Don’t want to reveal resurrection powers?).
 
-Firebeard is given Ophelia back if he agrees to abdicate his throne and disappear by Blackjack.  Long before he does so, he writes to his two daughters, and hides his “will” in the the Tivertons vault.  Hes able to do this via his powerful Soothsayer, the Sea’s Eye who tells him it will not be safe in any Pirate hands.
+Firebeard is given Ophelia back if he agrees to abdicate his throne and disappear by Blackjack.  Long before he does so, he writes to his two daughters, and hides his “will” in the the Tivertons vault.  Hes able to do this via his powerful Soothsayer, the Sea’s Eye who tells him it will not be safe in Pirate hands.
 
 Firebeard and Ophelia leave for the strait of Kafir (or maybe cross the endless sea)
 
@@ -20,7 +20,7 @@ Pandora and Rime are together, get caught up in the feud
 
 Rime takes makes a deal with Persephone to survive Davy Jones
 
-Erin is Rime and maybe Pandoras child (Something removed witchblood here?)
+Erin is Rime and Pandoras child (Something removed witchblood here?)
 
 Pandora takes rimes child (hers too?) away on Lysandras sayso
 
@@ -58,7 +58,7 @@ Wilton used to work for Lysandra spying on Anastasia and others.  Persephone �
 
 Natasha learns about Persephone, and what she did to Merrowyn and to Wilton while working with her against Lysandra.  She becomes anti-witch, and uses the scroll to bind Persephone capture her and imprision her in her Ship’s figurehead.
 
-           The Midnight Rose, Nicolai and Mother of Worms return to aramath, chasing the Wayward Bounty.  The Albatross is burned to free Persephone, who in return uses the nightshard she was saving for Lysandra on Nasha in a fit of rage.
+The Midnight Rose, Nicolai and Mother of Worms return to aramath, chasing the Wayward Bounty.  The Albatross is burned to free Persephone, who in return uses the nightshard she was saving for Lysandra on Natasha in a fit of rage.
 
 Main part of navy left with Pirate Lord Jonas Blacktide, to the Sea of Storms, convinced by the White Witch. Lock and Key and most of Ox.
 
