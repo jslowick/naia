@@ -5,7 +5,7 @@ tags:
   - pirate_lord
   - captain
   - doldrums
-image: p_hollyn.jpg
+image: p_hollyn.png
 ship: "[[The Doldrums]]"
 ---
 
@@ -15,4 +15,4 @@ ship: "[[The Doldrums]]"
 
 Is often hunting along side her wife [[Kestrel the Still]], They are both ex-[[Windspeakers]].
 
-![[p_hollyn.jpg]]
+![[p_hollyn.png]]
