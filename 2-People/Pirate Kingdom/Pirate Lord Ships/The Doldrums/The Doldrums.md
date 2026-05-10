@@ -3,3 +3,4 @@
 Said to be able to catch any ship, even the [[Windspeakers]] fastest ones
 
 [[Hollyn Kraye]] ([[Captain]])
+[[Kestrel the Still]] - ([[First Mate]])
